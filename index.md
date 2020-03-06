@@ -1,15 +1,25 @@
 ---
 layout: page
-title: 'Fabio Mercorio'
-subtitle: Assistant Professor of Computer Science - University of Milano-Bicocca, Italy
+title: Fabio Mercorio
+subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocca, Italy'
 published: true
 ---
 
 ### News
-- *[First prize winning at Young Talent Award 2019]*(https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
+- Due to COVID-19 all 2nd semester teaching will be provided through live-streaming
+- [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
+- [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
 ### About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and research collaborator at [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+
+### Some 2020 Events I’m involved in
+- [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
+- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
+- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) DC and Student Program Committees
+- [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
+- [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Program Committee
+- [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### My current research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
