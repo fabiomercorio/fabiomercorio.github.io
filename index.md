@@ -33,6 +33,26 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 I’m also interested in putting my research into practice, take a look to Research Projects section for further details.
 
 
+<p>
+ <a class="twitter-timeline"
+ href="https://twitter.com/CharlotteHase"
+ data-widget-id="340639437736255489"
+ data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
+ <script>
+						!function(d, s, id) {
+							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
+									.test(d.location) ? 'http' : 'https';
+							if (!d.getElementById(id)) {
+								js = d.createElement(s);
+								js.id = id;
+								js.src = p
+										+ "://platform.twitter.com/widgets.js";
+								fjs.parentNode.insertBefore(js, fjs);
+							}
+						}(document, "script", "twitter-wjs");
+ </script>
+</p>
+
 ### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
 *Office Hours:* by appointment
