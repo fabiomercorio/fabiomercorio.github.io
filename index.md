@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Hi, I''m Fabio'
-subtitle: Assistant Professor of Computer Science
+title: 'Fabio Mercorio'
+subtitle: Assistant Professor of Computer Science, PhD
 published: true
 ---
 
