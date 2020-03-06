@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Hi, I''m Fabio'
-subtitle: Postdoc at CMU / Software Engineer / and more
+subtitle: Assistant Professor of Computer Science
 published: true
 ---
 
