@@ -17,7 +17,7 @@ url: http://fabiomercorio.github.io
 title: Fabio Mercorio
 
 # Short description of your site
-description: Academic website
+description: Assistant Professor of Computer Science
 
 # --- Navigation bar options --- #
 
@@ -88,7 +88,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-50968719-2"
+#google_analytics: "UA-50968719-2"
 
 # Facebook App ID
 # fb_app_id: ""
