@@ -8,11 +8,7 @@
 # Use following baseurl for local hosting
 #baseurl: ""
 # Use this for cmu hosting
-#baseurl: "/user/fabiomercorio"
-
-# If you are building a GitHub project page then use these settings:
-url: "http://fabiomercorio.github.io/fabiomercorio"
-baseurl: "/fabiomercorio"
+baseurl: "/user/fabiomercorio"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
