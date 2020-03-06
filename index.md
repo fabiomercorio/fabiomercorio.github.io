@@ -1,10 +1,14 @@
 ---
 layout: page
 title: 'Fabio Mercorio'
-subtitle: Assistant Professor of Computer Science, PhD
+subtitle: Assistant Professor of Computer Science - University of Milano-Bicocca, Italy
 published: true
 ---
 
+### News
+- *[First prize winning at Young Talent Award 2019]*(https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
+
+### About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and research collaborator at [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 ### My current research interests include
