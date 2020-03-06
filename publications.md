@@ -11,3 +11,18 @@ I will try to keep the following list of publications up to date. Also, have a l
 
 The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
+<table id="pubTable" class="display"></table>
+<pre id="bibtex">@article{Karavirta:JVLCTaxonomy,
+   title = {A comprehensive taxonomy of algorithm animation languages},
+   journal = {Journal of Visual Languages \& Computing},
+   volume = {20},
+   number = {1},
+   pages = {1--22},
+   year = {2010},
+   issn = {1045-926X},
+   doi = {DOI: 10.1016/j.jvlc.2009.09.001},
+   author = {Ville Karavirta and Ari Korhonen and Lauri Malmi and Thomas Naps}
+}
+</pre>
+
+bibtexify("#bibtex", "pubTable");
