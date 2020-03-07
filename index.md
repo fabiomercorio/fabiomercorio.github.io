@@ -50,7 +50,7 @@ I have been working in the following granted reserch projects, that allows me pu
 - [2015-2016] **Visiting Researcher** at King's College London, UK
 
 ####  Education
-- [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. [Giuseppe Della Penna](http://people.disim.univaq.it/dellapenna/content.php) and prof. [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/). *Topics:* AI Planning, Model Checking and Data Quality.
+- [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna (University of L'Aquila, Italy) and prof. Daniele Magazzeni (King's College London, UK). *Topics:* AI Planning, Model Checking and Data Quality.
 - [2008] **Master Degree in Computer Science and Application** University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
 
 #### Teaching
