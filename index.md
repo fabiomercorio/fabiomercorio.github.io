@@ -49,6 +49,13 @@ I’m also interested in putting my research into practice, take a look to Resea
 - [2010-present] **Teaching Assist** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
 Please visit my Teaching page for further details
 
+#### Awards
+- [2019]  **Research Talent Award** I've received the first prize at the YoungTalentAward 2019 in collaboration with Accademia Nazionale Lincei on Computer Science & Mathematics. > for his contribution on applying AI to labour market for describing and predicting labour market phenomena
+- [2018]  **ASN - Associate Professor in Computer Science** National Scientific Qualification for the position of *Associate Professor in Computer Science*, ANVUR
+- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research > Finanziamento annuale individuale delle attività base di ricerca [Grants provided on a competitive basis aimed at funding research activities]
+- [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
+- [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
+
 
 #### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
