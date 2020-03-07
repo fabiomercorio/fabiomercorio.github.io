@@ -401,8 +401,8 @@ doi={10.1109/ICOSC.2015.7050852}
 }
 
 @INPROCEEDINGS{mochap2015,
-  author = {{Della Penna},Giuseppe and Benedetto Intrigila and Daniele Magazzeni and Fabio Mercorio},
-  title = {{UPM}urphi Released: {PDDL}+ Planning for Hybrid Systems},
+  author = { {Della Penna},Giuseppe and Benedetto Intrigila and Daniele Magazzeni and Fabio Mercorio},
+  title = { {UPM}urphi Released: {PDDL}+ Planning for Hybrid Systems},
   booktitle = {Proceedings of the 2nd Workshop on Model Checking and Automated Planning (MOCHAP-2015)},
   year = {2015},
   pages = {35--39},
@@ -413,7 +413,7 @@ doi={10.1109/ICOSC.2015.7050852}
 @INPROCEEDINGS{komis2015,
   author = {Roberto Boselli and Mirko Cesarini and Fabio Mercorio and Mario Mezzanzanica },
   title = {Applying the AHP to Smart Mobility Services: A Case Study},
-  booktitle = {{DATA} 2015 - Proceedings of 4th International Conference on Data
+  booktitle = { {DATA} 2015 - Proceedings of 4th International Conference on Data
                Management Technologies and Applications, Colmar, Alsace, France,
                20-22 July, 2015.},
   pages     = {354--361},
@@ -641,7 +641,7 @@ doi={10.1109/ICOSC.2015.7050852}
 
 @inproceedings{ICAPS09,
   author = {Giuseppe {Della Penna} and Benedetto Intrigila and Daniele Magazzeni and Fabio Mercorio},
-  title = {{UPMurphi}: a Tool for Universal Planning on {PDDL+} Problems},
+  title = { {UPMurphi}: a Tool for Universal Planning on {PDDL+} Problems},
   booktitle = {Proceedings of the 19th International Conference on Automated Planning and Scheduling (ICAPS 2009)},
   publisher = {AAAI Press},
   address = {Thessaloniki, Greece},
