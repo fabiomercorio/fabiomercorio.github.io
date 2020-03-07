@@ -33,16 +33,21 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 I’m also interested in putting my research into practice, take a look to Research Projects section for further details.
 
 #### Current Positions
-- [2016-present] *Assistant Professor*  at University of Milan-Bicocca
-+ [2010-present] *Member* of  CRISP Research Centre, Milan, Italy
+- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
++ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
-- [2011-2016] *PostDoc* at University of Milan-Bicocca
-- [2015-2016] *Visiting Researcher* at King's College London, UK
+- [2011-2016] **PostDoc** at University of Milan-Bicocca
+- [2015-2016] **Visiting Researcher** at King's College London, UK
 
 ####  Education
-- [2012] *PhD in Computer Science and Applications* Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning, Model Checking and Data Quality.
-- [2008] *Master Degree in Computer Science and Application* University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
+- [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. [Giuseppe Della Penna](http://people.disim.univaq.it/dellapenna/content.php) and prof. [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/). *Topics:* AI Planning, Model Checking and Data Quality.
+- [2008] **Master Degree in Computer Science and Application** University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
+
+#### Teaching
+- [2010-present] **Lecturer** at University of Milano-Bicocca. *Topics:* Python, SQL, NoSQL Data Stores, Business Intelligence, eXplainable AI, Text Mining
+- [2010-present] **Teaching Assist** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
+Please visit my Teaching page for further details
 
 
 #### Contact
