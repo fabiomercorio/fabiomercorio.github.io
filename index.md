@@ -24,7 +24,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
-- *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, graph-base algorithms, ontology learning 
+- *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, graph-base algorithms, ontology learning, Graph-database algorithms 
 - *AI Planning [past]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
 #### (Co)-Developed Tools
