@@ -6,7 +6,7 @@ published: true
 ---
 Here are some of the projects/tools I'm currently working on.
 
-## Active Granted Ongoing Research Projects
+## Ongoing Granted Research Projects
 I have been working in the following granted reserch projects, that allows me putting my research on AI and XAI into practice:
 
 #### AI4ESCO [2020-2021]
@@ -24,7 +24,7 @@ The [Observatory of Digital Competences](http://competenzedigitali.org/), grante
 #### ETF#1 [2019-2020]
 ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
 
-## Past Granted Ongoing Research Projects
+## Past Granted Research Projects
 
 #### Data Consistency Evaluation through AI Planning [2012-2014]
 Granted by Arifl Agency on behalf of Lombardy Region. The project goal was to define an algorithm for checking the data quality (consistency) of weakly-structured data, here composed of tens million records from Administrative DBs exploiting the planning-as-model-checking paradigm.
