@@ -6,7 +6,7 @@ published: true
 ---
 
 ### News
-- Due to COVID-19 all 2nd semester teaching will be provided through live-streaming
+- Due to the COVID-19 emergency all 2nd semester teaching will be provided through live-streaming
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
