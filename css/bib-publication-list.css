@@ -6,6 +6,7 @@ span.undefined { color:red; }
 .yearlabel { position: absolute; bottom: -20px; text-align: center; width: 100%; font-size: smaller;}
 .pub { border: 1px solid white; background-color: #eee; }
 .inproceedings { background-color: #ccf; }
+.incollection { background-color: #eae; }
 .article { background-color: #beb; }
 .inbook { background-color: #eaa; }
 .phdthesis { background-color: #999; }
