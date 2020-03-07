@@ -707,3 +707,5 @@ doi={10.1109/ICOSC.2015.7050852}
 </script>
 <script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
 </script>
+
+The source bibtex list is rendered using <a href="https://github.com/vkaravir/bib-publication-list" rel="noopener noreferrer" target="_blank">vkaravir's bib-publication-list.</a>
