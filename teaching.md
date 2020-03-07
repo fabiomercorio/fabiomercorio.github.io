@@ -7,15 +7,15 @@ published: true
 ## Current Teaching
 
 #### @Department of Informatics (DISCO) - University of Milan-Bicocca
-- [2018-present] **Lecturer** at Master Degree in *Data Science* - Dept of Computer Science , University of Milano- Bicocca. Master module on ``Big Data in Public and Social Services``
-- [2018-present] **Lecturer** at Master Degree in *Data Science* - Dept of Computer Science , University of Milano- Bicocca. Master module on ``Business Intelligence``
+- [2018-present] **Lecturer** at Master Degree in *Data Science* - Dept of Computer Science , University of Milano- Bicocca. Master module on `[`Big Data in Public and Social Services``](https://www.unimib.it/ugov/degreecourse/230368)
+- [2018-present] **Lecturer** at Master Degree in *Data Science* - Dept of Computer Science , University of Milano- Bicocca. Master module on [``Business Intelligence``](https://www.unimib.it/ugov/degreecourse/230371)
+
+#### @Department of Statistics and Quantitative Methods (DISMEQ)
+- [2019-present] **Lecturer** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on [``Databases`](https://www.unimib.it/ugov/degreecourse/241848)
 
 #### @Postgraduate Master (Master II Livello)
 - [2011-present] **Lecturer** at Master in Business Intelligence and Big Data Analytics, University of Milano-Bicocca. Module on ``Advanced NoSQL``
 - [2011-present] **Lecturer** at Master in Business Intelligence and Big Data Analytics, University of Milano-Bicocca. Module on ``Text Processing through Python``
-
-#### @Department of Statistics and Quantitative Methods (DISMEQ)
-- [2019-present] **Lecturer** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on ``Databases`
 
 ## Past Teaching
 
