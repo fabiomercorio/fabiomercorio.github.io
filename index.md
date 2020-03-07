@@ -29,7 +29,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 #### (Co)-Developed Tools
 - [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm
-- [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planning tool built on top of UPMurphi that employs graph-based heuristics to speed up the plan synthesis (in collaboration with > Planning Group at King's College London)
+- [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planning tool built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models DBLP as a graph database for performing graph-based queries and social network analyses
 
 #### Granted Ongoing Research Projects
