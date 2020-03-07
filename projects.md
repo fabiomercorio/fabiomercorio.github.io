@@ -5,7 +5,7 @@ subtitle: Tools / Projects / Ideas
 published: true
 ---
 ## Ongoing Granted Research Projects
-I have been working in the following granted reserch projects, that allows me putting my research on AI and XAI into practice:
+I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
 
 - #### AI4ESCO [2020-2021]
 A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
