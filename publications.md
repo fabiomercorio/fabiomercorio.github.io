@@ -3,21 +3,24 @@ layout: page
 title: Publications
 subtitle: 
 ---
-<script src="jquery.min.js"></script>
-<script src="bib-list-min.js"></script>
-<link rel="stylesheet" href="http://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/main.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/pygment_highlights.css" type="text/css" />
 
-I will try to keep the following list of publications up to date. Also, have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=RnfTeq8AAAAJ) and [DBLP record](http://dblp.uni-trier.de/pers/hd/l/Luckow:Kasper_S=oslash=e).
-
+<noscript>
+      <!-- bibtex source hidden by default, show it if JS disabled -->
+      <style>
+      #bibtex { display: block;}
+      </style>
+</noscript>
 The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
 
-<table id="pubTable" class="display"></table>
-<pre id="bibtex">@article{Karavirta:JVLCTaxonomy,
+<table id="pubTable" class="display">
+</table>
+<pre id="bibtex" style="display:none;">
+
+@article{Karavirta:JVLCTaxonomy,
    title = {A comprehensive taxonomy of algorithm animation languages},
    journal = {Journal of Visual Languages \& Computing},
    volume = {20},
@@ -29,5 +32,11 @@ The copies that can be obtained here are preprints since the copyrights to many 
    author = {Ville Karavirta and Ari Korhonen and Lauri Malmi and Thomas Naps}
 }
 </pre>
-
-bibtexify("#bibtex", "pubTable");
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+</script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js">
+</script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list-min.js">
+</script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
+</script>
