@@ -705,7 +705,5 @@ doi={10.1109/ICOSC.2015.7050852}
 </script>
 <script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js">
 </script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list-min.js">
-</script>
 <script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
 </script>
