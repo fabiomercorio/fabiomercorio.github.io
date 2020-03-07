@@ -282,7 +282,7 @@ doi={10.5220/0006490703430349},
   pages = {3213--3219},
 isbn      = {978-1-57735-770-4},
 url       = {http://www.ijcai.org/Proceedings/16/Papers/455.pdf},
-publisher = {{IJCAI/AAAI} Press}
+publisher = {IJCAI/AAAI Press}
 }
 
 
