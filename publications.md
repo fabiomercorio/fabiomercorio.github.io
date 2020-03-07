@@ -288,7 +288,7 @@ publisher = {IJCAI/AAAI Press}
 
 
 @INPROCEEDINGS{plansig2016,
-  title={{PDDL}+ Planning with Temporal Pattern Databases},
+  title={ {PDDL}+ Planning with Temporal Pattern Databases},
   author={Wiktor Piotrowski and Maria Fox and Derek Long and Daniele Magazzeni and Fabio Mercorio},
   booktitle={The 34th Workshop of the UK PLANNING AND SCHEDULING Special Interest Group  (PlanSIG-16)},
   year={2016},
