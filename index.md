@@ -21,7 +21,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Program Committee
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
-### My current research interests include
+### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, graph-base algorithms, ontology learning 
 - *AI Planning [past]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
