@@ -65,15 +65,16 @@ Please visit my Teaching page for further details
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
-#### Service in the International Community (Selection)
-- (AICom) Associate Editor of AI Communications
+#### Service in International Journals (Selection)
+- ([AICom](https://www.iospress.nl/journal/ai-communications/)) Associate Editor of AI Communications
+
 Member of the review board of:
-- (ASoC) Applied Soft Computing
+- Applied Soft Computing
 - Robotics and Computer-Integrated Manufacturing
 - Future Generation Computer System
 - Knowledge-Based Systems
 
-##### Program committee membership 
+#### Program committee membership 
 - (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
 - (IJCAI) International Joint Conference on Artificial Intelligence (2016, 2017, 2020)
 - (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
