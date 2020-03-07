@@ -32,6 +32,15 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 I’m also interested in putting my research into practice, take a look to Research Projects section for further details.
 
+### Current Positions
+- [2016-present] *Assistant Professor*  at University of Milan-Bicocca
++ [2010-present] *Member* of  CRISP Research Centre, Milan, Italy
+
+### Past Positions
+- [2011-2016] *PostDoc* at University of Milan-Bicocca
+- [2015-2016] *Visiting Researcher* at King's College London, UK
+
+
 ### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
 *Office Hours:* by appointment
