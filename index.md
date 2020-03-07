@@ -67,7 +67,7 @@ Please visit my Teaching page for further details
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
 #### Service in International Journals (Selection)
-- ([AICom](https://www.iospress.nl/journal/ai-communications/)) Associate Editor of AI Communications
+- ([AICom](https://www.iospress.nl/journal/ai-communications/)) Associate Editor of AI Communications   
 Member of the review board of:
 - Applied Soft Computing
 - Robotics and Computer-Integrated Manufacturing
