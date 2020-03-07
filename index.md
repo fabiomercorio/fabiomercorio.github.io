@@ -20,7 +20,7 @@ published: true
 See my service activity for further details
 
 ## About
-I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and research collaborator at [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
