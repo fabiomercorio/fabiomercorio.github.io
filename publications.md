@@ -2,12 +2,11 @@
 layout: page
 title: Publications
 subtitle: 
----
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/main.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bootstrap.min.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/pygment_highlights.css" type="text/css" />
+js: bib-list.js run.js
+ext-js: //ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+css: css/bib-publication-list.css
 
+---
 <noscript>
       <!-- bibtex source hidden by default, show it if JS disabled -->
       <style>
@@ -701,11 +700,5 @@ doi={10.1109/ICOSC.2015.7050852}
   pages = {31--44}
 }
 </pre>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
-</script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js">
-</script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
-</script>
 
 The source bibtex list is rendered using <a href="https://github.com/vkaravir/bib-publication-list" rel="noopener noreferrer" target="_blank">vkaravir's bib-publication-list.</a>
