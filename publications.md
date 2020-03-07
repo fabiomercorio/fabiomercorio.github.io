@@ -233,7 +233,7 @@ series    = {Lecture Notes in Computer Science},
 }
 
 @INPROCEEDINGS{SymInfOpt2016,
-  title={{PDDL}+ Planning with Temporal Pattern Databases},
+  title={PDDL+ Planning with Temporal Pattern Databases},
   author={Wiktor Piotrowski and Maria Fox and Derek Long and Daniele Magazzeni and Fabio Mercorio},
   booktitle={The AAAI-17 Workshop on Symbolic Inference and Optimization  (SymInfOpt-17)},
   year={2017},
@@ -338,7 +338,7 @@ url= {https://www.crisp-org.it/mercorio/papers/SEBD2015.pdf}
                Fabio Mercorio and
                Mario Mezzanzanica},
   title     = {Longitudinal data consistency verification using formal methods},
-  journal   = {{IJIQ}},
+  journal   = {IJIQ},
   volume    = {3},
   number    = {3},
   pages     = {185--206},
