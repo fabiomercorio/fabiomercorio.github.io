@@ -15,7 +15,7 @@ published: true
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) DC and Student Program Committees
 - [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
-- [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Program Committee
+- [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Track Chair
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 See my service activity for further details
 
