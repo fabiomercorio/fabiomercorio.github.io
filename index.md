@@ -40,6 +40,10 @@ I’m also interested in putting my research into practice, take a look to Resea
 - [2011-2016] *PostDoc* at University of Milan-Bicocca
 - [2015-2016] *Visiting Researcher* at King's College London, UK
 
+### Education
+- [2012] *PhD in Computer Science and Applications* Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning, Model Checking and Data Quality.
+- [2008] *Master Degree in Computer Science and Application* University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
+
 
 ### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
