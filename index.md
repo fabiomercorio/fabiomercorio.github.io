@@ -3,6 +3,7 @@ layout: page
 title: Fabio Mercorio
 subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocca, Italy'
 published: true
+js: /js/counter.js
 ---
 
 ### News
