@@ -32,7 +32,13 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 -[[*DiNo*](https://github.com/KCL-Planning/DiNo)] A Planning tool built on top of UPMurphi that employs graph-based heuristics to speed up the plan synthesis (in collaboration with > Planning Group at King's College London)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models DBLP as a graph database for performing graph-based queries and social network analyses
 
-I’m also interested in putting my research into practice, take a look to Research Projects section for further details.
+#### Granted Ongoing Research Projects
+I have been working in the following granted reserch projects, that allows me putting my research on AI and XAI into practice:
+- [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms". Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
+- [2016-2020] Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
+- [2016-2020] The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
+- [2019-2020] ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
+
 
 #### Current Positions
 - [2016-present] **Assistant Professor**  at University of Milan-Bicocca
@@ -57,13 +63,6 @@ Please visit my Teaching page for further details
 - [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research > Finanziamento annuale individuale delle attività base di ricerca [Grants provided on a competitive basis aimed at funding research activities]
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
-
-#### Granted Ongoing Research Projects
-I have been working in the following granted reserch projects:
-- [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms". Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
-- [2016-2020] > Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
-- [2016-2020] The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
-- [2019-2020] ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
 
 
 
