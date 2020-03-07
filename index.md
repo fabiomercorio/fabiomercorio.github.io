@@ -74,7 +74,7 @@ Member of the review board of:
 - Future Generation Computer System
 - Knowledge-Based Systems
 
-#### Program committee membership 
+#### Program committee membership (Selection)
 - (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
 - (IJCAI) International Joint Conference on Artificial Intelligence (2016, 2017, 2020)
 - (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
