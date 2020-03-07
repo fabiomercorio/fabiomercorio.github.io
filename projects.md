@@ -22,7 +22,7 @@ SLEM Smart Legal Management granted by MIUR as PON project to process unstructur
 The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
 
 #### ETF#1 [2019-2020]
-- ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
+”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
 
 ## Past Granted Ongoing Research Projects
 
