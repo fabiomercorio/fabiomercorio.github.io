@@ -1,9 +1,13 @@
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js"></script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list-min.js"></script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/run.js"></script>	
-
 <link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
+
+<noscript>
+      <!-- bibtex source hidden by default, show it if JS disabled -->
+      <style>
+      #bibtex { display: block;}
+      </style>
+</noscript>
+<table id="pubTable" class="display"></table>
+<pre id="bibtex" style="display:none;">
 
 @article{Karavirta:JVLCTaxonomy,
    title = {A comprehensive taxonomy of algorithm animation languages},
@@ -16,5 +20,10 @@
    doi = {DOI: 10.1016/j.jvlc.2009.09.001},
    author = {Ville Karavirta and Ari Korhonen and Lauri Malmi and Thomas Naps}
 }
+</pre>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js"></script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list-min.js"></script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/run.js"></script>	
 
 bibtexify("#bibtex", "pubTable");
