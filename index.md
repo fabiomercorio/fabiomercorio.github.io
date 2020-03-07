@@ -22,6 +22,15 @@ See my service activity for further details
 ## About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
+#### Current Positions
+- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
++ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
+
+####  Past Positions
+- [2011-2016] **PostDoc** at University of Milan-Bicocca
+- [2015-2016] **Visiting Researcher** at King's College London, UK
+
+
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, graph-base algorithms, ontology learning, Graph-database algorithms 
@@ -40,15 +49,6 @@ I have been working on the following granted reserch projects, that allow me put
 - [2016-2020] The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
 - [2019-2020] ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
 
-
-#### Current Positions
-- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
-+ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
-
-####  Past Positions
-- [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2015-2016] **Visiting Researcher** at King's College London, UK
-
 ####  Education
 - [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna (University of L'Aquila, Italy) and prof. Daniele Magazzeni (King's College London, UK). *Topics:* AI Planning, Model Checking and Data Quality.
 - [2008] **Master Degree in Computer Science and Application** University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
@@ -65,6 +65,20 @@ Please visit my Teaching page for further details
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
+#### Service in the International Community (Selection)
+- (AICom) Associate Editor of AI Communications
+Member of the review board of:
+- (ASoC) Applied Soft Computing
+- Robotics and Computer-Integrated Manufacturing
+- Future Generation Computer System
+- Knowledge-Based Systems
+
+##### Program committee membership 
+- (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
+- (IJCAI) International Joint Conference on Artificial Intelligence (2016, 2017, 2020)
+- (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
+- ACM/SIGAPP Symposium On Applied Computing (since 2018)
+- Data Technology and Application  Conference (since 2014)
 
 
 #### Contact
