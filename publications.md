@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Publications
-subtitle: 
-js: bib-list.js run.js
-ext-js: //ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
-css: css/bib-publication-list.css
+subtitle: Selected Publications
 
 ---
+
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/main.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="https://fabiomercorio.github.io/css/pygment_highlights.css" type="text/css" />
+
 <noscript>
       <!-- bibtex source hidden by default, show it if JS disabled -->
       <style>
@@ -61,15 +64,15 @@ isbn      = {978-1-4503-5933-7},
 pages     = {2240--2242},
 year = {2019}
 }
-@INPROCEEDINGS{HICSS19,	 	 
- title={Towards Labour Market Intelligence through Topic Modelling},	 	 
- author={Francesco Colace and Massimo De Santo and Marco Lombardi and Fabio Mercorio and Mario Mezzanzanica and Francesco Pascale},	 	 
- booktitle={Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS)},	 	 
+@INPROCEEDINGS{HICSS19,    
+ title={Towards Labour Market Intelligence through Topic Modelling},     
+ author={Francesco Colace and Massimo De Santo and Marco Lombardi and Fabio Mercorio and Mario Mezzanzanica and Francesco Pascale},    
+ booktitle={Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS)},     
  url = {http://hdl.handle.net/10125/59962},
  pdf = {https://scholarspace.manoa.hawaii.edu/bitstream/10125/59962/0522.pdf},
  pages = {5256--5265},
  isbn = {978-0-9981331-2-6}, 
- year = {2019}	 	 
+ year = {2019}     
 }
 
 @Article{Boselli2018,
@@ -700,5 +703,11 @@ doi={10.1109/ICOSC.2015.7050852}
   pages = {31--44}
 }
 </pre>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+</script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js">
+</script>
+<script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
+</script>
 
 The source bibtex list is rendered using <a href="https://github.com/vkaravir/bib-publication-list" rel="noopener noreferrer" target="_blank">vkaravir's bib-publication-list.</a>
