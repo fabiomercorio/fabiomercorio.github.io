@@ -18,6 +18,9 @@ The [Observatory of Digital Competences](http://competenzedigitali.org/), grante
 ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)).   
 
 ## Past Granted Research Projects
+- #### ``Prototype on Real-Time LMI`` [2014-2016]   
+Real-time Labour Market information on skill requirements: feasibility study and
+working prototype. Granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
 - #### ``Data Consistency Evaluation through AI Planning`` [2012-2014]
 Granted by Arifl Agency on behalf of Lombardy Region. The project goal was to define an algorithm for checking the data quality (consistency) of weakly-structured data, here composed of tens million records from Administrative DBs exploiting the planning-as-model-checking paradigm.
 - #### ``Automatic Data Cleansing through AI Planning`` [2012-2014]
