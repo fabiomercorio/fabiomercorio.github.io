@@ -6,7 +6,7 @@ published: true
 js: /js/counter.js
 ---
 ### ``News``
-- Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** Additional info can be found on the Unimib [E-learning platform](https://elearning.unimib.it/).
+- Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/).
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
@@ -24,7 +24,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 #### Current Positions
 - [2016-present] **Assistant Professor**  at University of Milan-Bicocca
-+ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
++ [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
