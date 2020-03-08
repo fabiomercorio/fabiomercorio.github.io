@@ -6,8 +6,7 @@ published: true
 ---
 ## Ongoing Granted Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
-- #### AI4ESCO [2020-2021]   
-A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
+- #### AI4ESCO [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
 - #### Real-Time LMI [2016-2020]
 Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
 - #### SLEM Smart Legal Management [2018-2020] 
