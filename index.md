@@ -6,7 +6,7 @@ published: true
 js: /js/counter.js
 ---
 ### News
-- Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** Additional info can be found on the Unimib E-learning platform. 
+- ``Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** Additional info can be found on the Unimib [E-learning platform](https://elearning.unimib.it/).``
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
