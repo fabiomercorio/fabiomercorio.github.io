@@ -7,7 +7,7 @@ js: /js/counter.js
 ---
 ### ``News``
 - Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/)
-- Due to the travel restrictions related to COVID-19 emergency, papers of the 35th ACM/SIGAPP ([KomIS-track](https://www.crisp-org.it/komis/)) session will be presented remotely [More info](https://www.sigapp.org/sac/sac2020/index.html)
+- Due to the travel restrictions related to COVID-19, papers of the 35th ACM/SIGAPP ([KomIS-track](https://www.crisp-org.it/komis/)) session will be presented remotely [More info](https://www.sigapp.org/sac/sac2020/index.html)
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
@@ -56,13 +56,13 @@ I have been working on the following granted reserch projects, that allow me put
 
 #### Teaching
 - [2010-present] **Lecturer** at University of Milano-Bicocca. *Topics:* Python, SQL, NoSQL Data Stores, Business Intelligence, eXplainable AI, Text Mining
-- [2010-present] **Teaching Assist** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
+- [2010-present] **Teaching Assistant** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
 Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for further details
 
 #### Awards
 - [2019]  **Research Talent Award** I've received the first prize at the YoungTalentAward 2019 in collaboration with Accademia Nazionale Lincei on Computer Science & Mathematics. > for his contribution on applying AI to labour market for describing and predicting labour market phenomena
 - [2018]  **ASN - Associate Professor in Computer Science** National Scientific Qualification for the position of *Associate Professor in Computer Science*, ANVUR
-- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research > Finanziamento annuale individuale delle attività base di ricerca [Grants provided on a competitive basis aimed at funding research activities]
+- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
