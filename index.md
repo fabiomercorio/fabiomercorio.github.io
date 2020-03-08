@@ -18,7 +18,6 @@ js: /js/counter.js
 - [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
 - [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Track Chair
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
-See my service activity for further details
 
 ## About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
