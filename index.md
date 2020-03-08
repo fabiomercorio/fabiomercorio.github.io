@@ -5,9 +5,6 @@ subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocc
 published: true
 js: /js/counter.js
 ---
-```diff
-- text in red
-
 ### News
 - Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** Additional info can be found on the Unimib E-learning platform. 
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
