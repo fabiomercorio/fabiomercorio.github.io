@@ -70,6 +70,7 @@ Please visit my Teaching page for further details
 - ([AICom](https://www.iospress.nl/journal/ai-communications/)) *Associate Editor* of AI Communications   
 Member of the review board of:
 - Applied Soft Computing
+- Applied Intelligence
 - Robotics and Computer-Integrated Manufacturing
 - Future Generation Computer System
 - Knowledge-Based Systems
