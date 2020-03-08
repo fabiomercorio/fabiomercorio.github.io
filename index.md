@@ -21,7 +21,7 @@ js: /js/counter.js
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ## About
-I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and a member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
 - [2016-present] **Assistant Professor**  at University of Milan-Bicocca
@@ -35,14 +35,14 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, graph-base algorithms, ontology learning, Graph-database algorithms 
-- *AI Planning [past]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
+- *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
 #### (Co)-Developed Tools
 - [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm
 - [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses
 
-#### Granted Ongoing Research Projects  
+#### Granted Ongoing Research Projects   
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
 - [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
 - [2016-2020] Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
@@ -67,7 +67,7 @@ Please visit my Teaching page for further details
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
 #### Service in International Journals (Selection)
-- ([AICom](https://www.iospress.nl/journal/ai-communications/)) Associate Editor of AI Communications   
+- ([AICom](https://www.iospress.nl/journal/ai-communications/)) *Associate Editor* of AI Communications   
 Member of the review board of:
 - Applied Soft Computing
 - Robotics and Computer-Integrated Manufacturing
