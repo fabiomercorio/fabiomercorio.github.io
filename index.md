@@ -7,7 +7,7 @@ js: /js/counter.js
 ---
 ### ``News``
 - Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/)
-- Due to the travel restrictions related to COVID-19 emergency, papers of the 35th ACM/SIGAPP (KomIS-track) session will be presented remotely [More info](https://www.sigapp.org/sac/sac2020/index.html)
+- Due to the travel restrictions related to COVID-19 emergency, papers of the 35th ACM/SIGAPP ([KomIS-track](https://www.crisp-org.it/komis/)) session will be presented remotely [More info](https://www.sigapp.org/sac/sac2020/index.html)
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
