@@ -68,7 +68,8 @@ Please visit my Teaching page for further details
 
 #### Service in International Journals (Selection)
 - ([AICom](https://www.iospress.nl/journal/ai-communications/)) *Associate Editor* of AI Communications   
-Member of the review board of:
+Reviewer for (selection):
+- Artificial Intelligence
 - Applied Soft Computing
 - Applied Intelligence
 - Robotics and Computer-Integrated Manufacturing
