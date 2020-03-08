@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Tools / Projects / Ideas
+subtitle: Putting research into practice 
 published: true
 ---
 ## Ongoing Granted Research Projects
