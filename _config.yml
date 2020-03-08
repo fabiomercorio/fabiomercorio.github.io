@@ -28,7 +28,6 @@ navbar-links:
   Publications: "publications"
   Projects: "projects"
   Teaching: "teaching"
-  Service: "service"
   #  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -82,7 +81,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-50968719-2"
+google_analytics: "UA-60809607-1"
 
 # Facebook App ID
 # fb_app_id: ""

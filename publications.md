@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 subtitle: Selected Publications
-
+published: true
 ---
 
 <link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
@@ -16,7 +16,10 @@ subtitle: Selected Publications
       #bibtex { display: block;}
       </style>
 </noscript>
-The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
+
+I will try to keep the following list of publications up to date. Also, have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it&oi=ao) and [DBLP record](https://dblp.uni-trier.de/pers/hd/m/Mercorio:Fabio.html).
+
+Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
 <table id="pubTable" class="display">
 </table>
@@ -711,3 +714,16 @@ doi={10.1109/ICOSC.2015.7050852}
 </script>
 
 The source bibtex list is rendered using <a href="https://github.com/vkaravir/bib-publication-list" rel="noopener noreferrer" target="_blank">vkaravir's bib-publication-list.</a>
+
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,746089,4,0,0,0,00000000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?746089&101" alt="contatore accessi" border="0"></a></noscript>
+<!-- Histats.com  END  -->

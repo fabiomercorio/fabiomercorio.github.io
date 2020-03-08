@@ -3,6 +3,7 @@ layout: page
 title: Fabio Mercorio
 subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocca, Italy'
 published: true
+js: /js/counter.js
 ---
 
 ### News
@@ -13,7 +14,7 @@ published: true
 ### Some 2020 Events I’m involved in
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
-- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) DC and Student Program Committees
+- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Doctoral Consortium and Student Program Committees
 - [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
 - [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Track Chair
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
@@ -21,6 +22,15 @@ See my service activity for further details
 
 ## About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+
+#### Current Positions
+- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
++ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
+
+####  Past Positions
+- [2011-2016] **PostDoc** at University of Milan-Bicocca
+- [2015-2016] **Visiting Researcher** at King's College London, UK
+
 
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
@@ -32,22 +42,13 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses
 
-#### Granted Ongoing Research Projects
+#### Granted Ongoing Research Projects  
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
 - [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
 - [2016-2020] Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
 - [2018-2020] SLEM Smart Legal Management granted by MIUR as PON project to process unstructured documents to to reduce legal risk through AI.
 - [2016-2020] The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
 - [2019-2020] ”Digital  innovation:   Big  Data  and  Labour  Market  Information  -  SP  EMPL”  -  granted by ETF ([The European  Training  Foundation](https://www.etf.europa.eu/)). 
-
-
-#### Current Positions
-- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
-+ [2010-present] **Member** of  CRISP Research Centre, Milan, Italy
-
-####  Past Positions
-- [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2015-2016] **Visiting Researcher** at King's College London, UK
 
 ####  Education
 - [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna (University of L'Aquila, Italy) and prof. Daniele Magazzeni (King's College London, UK). *Topics:* AI Planning, Model Checking and Data Quality.
@@ -65,6 +66,20 @@ Please visit my Teaching page for further details
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
+#### Service in International Journals (Selection)
+- ([AICom](https://www.iospress.nl/journal/ai-communications/)) Associate Editor of AI Communications   
+Member of the review board of:
+- Applied Soft Computing
+- Robotics and Computer-Integrated Manufacturing
+- Future Generation Computer System
+- Knowledge-Based Systems
+
+#### Program committee membership (Selection)
+- (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
+- (IJCAI) International Joint Conference on Artificial Intelligence (2016, 2017, 2020)
+- (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
+- ACM/SIGAPP Symposium On Applied Computing (since 2018)
+- Data Technology and Application  Conference (since 2014)
 
 
 #### Contact
@@ -74,3 +89,17 @@ Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)
 **Fabio Mercorio**  
 Room 2042 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
 Viale dell'Innovazione 10 - Milan - Italy
+
+
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,746089,4,0,0,0,00000000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?746089&101" alt="contatore accessi" border="0"></a></noscript>
+<!-- Histats.com  END  -->

@@ -29,3 +29,16 @@ Granted by Arifl Agency on behalf of Lombardy Region. The project goal was to de
 
 - #### Automatic Data Cleansing through AI Planning [2012-2014]
 Granted by Arifl Agency on behalf of Lombardy Region. The project goal was to define an algorithm for automatically cleansing weakly-structured data. The project, as a challenge, has required to define and implement a novel technique (on top of UPMurphi) for the synthesis of the Universal Cleanser (a repository of all the feasible actions able to cleanse a dirty data.) The system is directly connected to an external database for retrieving and cleaning up to million records.
+
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,746089,4,0,0,0,00000000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?746089&101" alt="contatore accessi" border="0"></a></noscript>
+<!-- Histats.com  END  -->
