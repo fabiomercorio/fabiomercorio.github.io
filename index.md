@@ -16,6 +16,7 @@ js: /js/counter.js
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Doctoral Consortium and Student Program Committees
 - [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
+- [CD-MAKE-XAI 2020](https://cd-make.net/make-explainable-ai/) Program Committee
 - [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Track Chair
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
