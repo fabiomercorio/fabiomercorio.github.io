@@ -14,14 +14,15 @@ published: true
 - [2019-present] **Lecturer** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on [Databases](https://www.unimib.it/ugov/degreecourse/241848)
 
 #### @Postgraduate Master (Master II Livello)
-- [2011-present] **Lecturer** at Master in Business Intelligence and Big Data Analytics, University of Milano-Bicocca. Module on *Advanced NoSQL*
-- [2011-present] **Lecturer** at Master in Business Intelligence and Big Data Analytics, University of Milano-Bicocca. Module on *Text Processing through Python*
+- [2011-present] **Lecturer** at Master in [Business Intelligence and Big Data Analytics](http://www.bimasterbicocca.it/), University of Milano-Bicocca. Module on *Advanced NoSQL*
+- [2011-present] **Lecturer** at Master in [Business Intelligence and Big Data Analytics](http://www.bimasterbicocca.it/), University of Milano-Bicocca. Module on *Text Processing through Python*
 
 ## Past Teaching
 
 #### @Department of Statistics and Quantitative Methods (DISMEQ)
 - [2016-2018] **Teaching Assistant** at Master Degree in *Biostatistics*,  University of Milano- Bicocca. Master module on *Databases*    
 - [2012-2016] **Teaching Assistant** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on *Informatics*
+
 
    <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
