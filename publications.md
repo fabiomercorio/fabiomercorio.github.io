@@ -5,10 +5,6 @@ subtitle: Selected Publications
 published: true
 ---
 
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/main.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bootstrap.min.css" type="text/css" />
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/pygment_highlights.css" type="text/css" />
 
 <noscript>
       <!-- bibtex source hidden by default, show it if JS disabled -->
