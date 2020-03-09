@@ -20,7 +20,7 @@ published: true
 ## Past Teaching
 
 #### @Department of Statistics and Quantitative Methods (DISMEQ)
-- [2016-2018] **Teaching Assistant** at Master Degree in *Biostatistics*,  University of Milano- Bicocca. Master module on *Databases*
+- [2016-2018] **Teaching Assistant** at Master Degree in *Biostatistics*,  University of Milano- Bicocca. Master module on *Databases*    
 - [2012-2016] **Teaching Assistant** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on *Informatics*
 
    <!-- Histats.com  START  (aync)-->
