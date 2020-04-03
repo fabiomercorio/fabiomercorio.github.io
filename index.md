@@ -44,7 +44,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses
 
-#### Granted Ongoing Research Projects   
+#### Granted Ongoing Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice. (see [Project](https://fabiomercorio.github.io/projects/))    
 - [2020-2021] A Data Driven Bridge Towards ESCO using AI Algorithms. Granted by [EURES](https://ec.europa.eu/eures/public/it/homepage) (call EaSI-EURES VP/2019/010).
 - [2016-2020] Real-time Labour Market information on Skill Requirements: Setting up the EU system for online vacancy analysis granted by [Cedefop EU Agency](https://www.cedefop.europa.eu/it/about-cedefop/public-procurement/real-time-labour-market-information-skill-requirements-setting-eu)
