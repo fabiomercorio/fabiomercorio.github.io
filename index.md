@@ -86,7 +86,7 @@ Reviewer for:
 - ACM/SIGAPP Symposium On Applied Computing (since 2018)
 - Data Technology and Application  Conference (since 2014)
 
-#### Contact   
+#### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
 *Office Hours:* [by appointment](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 
