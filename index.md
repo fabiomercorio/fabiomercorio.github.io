@@ -12,7 +12,6 @@ js: /js/counter.js
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
 
-
 ### Some 2020 Events I’m involved in
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
@@ -31,8 +30,8 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 ####  Past Positions
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2017-2018] **Partner** TabulaeX Ltd, formerly a spin-off working on International projects on Business Intelligence and Big Data Analytics. TabulaeX is now part of the BurningGlass Group
-- [2015-2016] **Visiting Researcher** at King's College London, UK
+- [2017-2018] **Partner** TabulaeX Ltd, formerly a spin-off company working on International projects on BI and Big Data Analytics. TabulaeX is now part of the BurningGlass Group
+- [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
 
 
 #### My research interests include
@@ -89,7 +88,7 @@ Reviewer for:
 
 #### Contact   
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
-*Office Hours:* by appointment
+*Office Hours:* [by appointment](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 
 **Fabio Mercorio**  
 Room 2042 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
