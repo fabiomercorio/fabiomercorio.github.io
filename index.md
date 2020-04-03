@@ -6,7 +6,7 @@ published: true
 js: /js/counter.js
 ---
 ### ``News``
--  ``Mercorio (a)live``. Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/m/BkaZdU-BE)
+-  ``Mercorio (a)live``. Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 - Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/)
 - [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
