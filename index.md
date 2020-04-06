@@ -69,7 +69,7 @@ Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for f
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
 #### Service in International Journals (Selection)
-- ([AICom](https://www.iospress.nl/journal/ai-communications/)) *Associate Editor* of AI Communications   
+- ([AICom](https://www.aicommunications.eu/)) *Associate Editor* of AI Communications   
 Reviewer for:
 - Artificial Intelligence
 - Applied Soft Computing
