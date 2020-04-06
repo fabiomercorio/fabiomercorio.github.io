@@ -7,7 +7,7 @@ js: /js/counter.js
 ---
 ### ``News``
 -  ``Teaching`` Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/l/mercorio/LiveMercorio)
-- ``COVID-19`` Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/)
+- ``Teaching`` Due to the COVID-19 emergency **all 2nd semester teaching activities will be provided through live-streaming.** More info on the [E-learning platform](https://elearning.unimib.it/)
 - ``Award`` [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 - ``Teaching``Our Master on [BI&Big Data Analytics](http://www.bimasterbicocca.it/) is about to start!
 
