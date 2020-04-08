@@ -80,7 +80,7 @@ Reviewer for:
 - Robotics and Computer-Integrated Manufacturing
 - Future Generation Computer System
 - Knowledge-Based Systems
-- Computer in Industry
+- Computers in Industry
 
 #### Program committee membership (Selection)
 - (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
