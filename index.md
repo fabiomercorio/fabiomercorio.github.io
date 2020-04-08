@@ -61,6 +61,7 @@ I have been working on the following granted reserch projects, that allow me put
 #### Teaching
 - [2010-present] **Lecturer** at University of Milano-Bicocca. *Topics:* Python, SQL, NoSQL Data Stores, Business Intelligence, eXplainable AI, Text Mining
 - [2010-present] **Teaching Assistant** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
+
 Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for further details
 
 #### Awards
