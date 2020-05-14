@@ -16,6 +16,7 @@ js: /js/counter.js
 
 ### Some 2020 Events I’m involved in
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
+- [IJCAI-PRICAI-XAI-20](https://sites.google.com/view/xai2020/home) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Doctoral Consortium and Student Program Committees
 - [ICAPS-20](https://icaps20.icaps-conference.org/) Program Committee
