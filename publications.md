@@ -52,13 +52,11 @@ month={}
                Mario Mezzanzanica and
                Vincenzo Moscato and
                Antonio Picariello and
-               Giancarlo Sperl{\`{\i}}},
+               Giancarlo Sperli'},
   title     = {A Tool for Researchers: Querying Big Scholarly Data Through Graph
                Databases},
   booktitle = {Machine Learning and Knowledge Discovery in Databases - European Conference,
-               {ECML} {PKDD} 2019, W{\"{u}}rzburg, Germany, September 16-20,
-               2019, Proceedings, Part {III}},
-  pages     = {760--763},
+               {ECML} {PKDD} 2019},
   year      = {2019},
   crossref  = {DBLP:conf/pkdd/2019-3},
   url       = {https://doi.org/10.1007/978-3-030-46133-1\_46},
