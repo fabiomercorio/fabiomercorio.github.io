@@ -21,12 +21,15 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@article{COLOMBO2019,
+@article{COLOMBO201927,
 title = "AI meets labor market: Exploring the link between automation and skills",
 journal = "Information Economics and Policy",
+volume = "47",
+pages = "27 - 37",
 year = "2019",
+note = "The Economics of Artificial Intelligence and Machine Learning",
 issn = "0167-6245",
-doi = "10.1016/j.infoecopol.2019.05.003",
+doi = "https://doi.org/10.1016/j.infoecopol.2019.05.003",
 url = "http://www.sciencedirect.com/science/article/pii/S0167624518301318",
 author = "Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica",
 keywords = "Machinelearning, Web vacancies, Skill analysis, Automation",
