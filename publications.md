@@ -47,11 +47,25 @@ ISSN={2376-4562},
 month={}
 }
 
-@INPROCEEDINGS{ECML2019,
-author = {Mercorio, Fabio and Sperlì, Giancarlo and Mezzanzanica, Mario and Moscato, Vincenzo and Picariello, Antonio},
-title = {A Tool for Researchers: Querying Big Scholarly Data through Graph Databases},
-booktitle = {The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ECML-PKDD 2019  (to appear)},
-year = {2019}
+@inproceedings{DBLP:conf/pkdd/MercorioMMPS19,
+  author    = {Fabio Mercorio and
+               Mario Mezzanzanica and
+               Vincenzo Moscato and
+               Antonio Picariello and
+               Giancarlo Sperl{\`{\i}}},
+  title     = {A Tool for Researchers: Querying Big Scholarly Data Through Graph
+               Databases},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases - European Conference,
+               {ECML} {PKDD} 2019, W{\"{u}}rzburg, Germany, September 16-20,
+               2019, Proceedings, Part {III}},
+  pages     = {760--763},
+  year      = {2019},
+  crossref  = {DBLP:conf/pkdd/2019-3},
+  url       = {https://doi.org/10.1007/978-3-030-46133-1\_46},
+  doi       = {10.1007/978-3-030-46133-1\_46},
+  timestamp = {Mon, 04 May 2020 14:19:13 +0200},
+  biburl    = {https://dblp.org/rec/conf/pkdd/MercorioMMPS19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 @INPROCEEDINGS{SAC2019,
