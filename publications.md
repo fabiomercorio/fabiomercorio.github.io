@@ -22,10 +22,10 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @Article{Giabelli2020,
-author={Giabelli, Anna
-and Malandri, Lorenzo
-and Mercorio, Fabio
-and Mezzanzanica, Mario},
+author={Giabelli Anna
+and Malandri Lorenzo
+and Mercorio Fabio
+and Mezzanzanica  Mario},
 title={GraphLMI: A data driven system for exploring labor market information through graph databases},
 journal={Multimedia Tools and Applications},
 year={2020},
