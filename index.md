@@ -5,7 +5,7 @@ subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocc
 published: true
 js: /js/counter.js
 ---
-### ``News``
+### ``News 2020``
 -  ``Teaching`` Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 - ``Publication`` New paper published on [IEEE Trans Emerging Topics in Computing](https://www.computer.org/csdl/journal/ec) about [Community Detection on Big Scholarly Data](https://ieeexplore.ieee.org/document/8903467)
 - ``Grant`` AI4ESCO: a new EU Project (granted by [EURES](https://ec.europa.eu/social/main.jsp?catId=629&langId=en&callId=552&furtherCalls=yes)) to make a data-driven bridge between taxonomies through AI
