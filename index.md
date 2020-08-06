@@ -6,11 +6,10 @@ published: true
 js: /js/counter.js
 ---
 ### ``News 2020``
+- ``Publication`` Great news! New paper accepted at [ISWC-2020](https://iswc2020.semanticweb.org/)!!!
 -  ``Teaching`` Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/l/mercorio/LiveMercorio)
-- ``Publication`` New paper published on [IEEE Trans Emerging Topics in Computing](https://www.computer.org/csdl/journal/ec) about [Community Detection on Big Scholarly Data](https://ieeexplore.ieee.org/document/8903467)
 - ``Grant`` AI4ESCO: a new EU Project (granted by [EURES](https://ec.europa.eu/social/main.jsp?catId=629&langId=en&callId=552&furtherCalls=yes)) to make a data-driven bridge between taxonomies through AI
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
-- ``Award`` [First prize winning at Young Talent Award 2019](https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2019)
 
 
 ### Some 2020 Events I’m involved in
