@@ -12,7 +12,9 @@ js: /js/counter.js
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
-### Some 2020 Events I’m involved in
+### Some Events I’m involved in
+- [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
+- [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
 - [IJCAI-PRICAI-XAI-20](https://sites.google.com/view/xai2020/home) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
