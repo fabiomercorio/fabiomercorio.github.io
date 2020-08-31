@@ -21,6 +21,38 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{MercorioISWC,
+  author    = {Anna Giabelli, Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso},
+  title     = {NEO: A Tool for Taxonomy Enrichment with New Emerging Occupations},
+  booktitle = {The International Semantic Web Conference (ISWC) (accepted paper)},
+  year = {2020}
+}
+
+@inproceedings{DBLP:conf/cdmake/MercorioMS20,
+  author    = {Fabio Mercorio and
+               Mario Mezzanzanica and
+               Andrea Seveso},
+  editor    = {Andreas Holzinger and
+               Peter Kieseberg and
+               A Min Tjoa and
+               Edgar R. Weippl},
+  title     = {eXDiL: {A} Tool for Classifying and eXplaining Hospital Discharge
+               Letters},
+  booktitle = {Machine Learning and Knowledge Extraction - 4th {IFIP} {TC} 5, {TC}
+               12, {WG} 8.4, {WG} 8.9, {WG} 12.9 International Cross-Domain Conference,
+               {CD-MAKE} 2020, Dublin, Ireland, August 25-28, 2020, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12279},
+  pages     = {159--172},
+  publisher = {Springer},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-57321-8\_9},
+  doi       = {10.1007/978-3-030-57321-8\_9},
+  timestamp = {Wed, 26 Aug 2020 11:05:42 +0200},
+  biburl    = {https://dblp.org/rec/conf/cdmake/MercorioMS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
 @Article{Giabelli2020,
 author={Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica},
 title={GraphLMI: A data driven system for exploring labor market information through graph databases},
