@@ -22,7 +22,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @inproceedings{MercorioISWC,
-  author    = {Anna Giabelli, Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso},
+  author    = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
   title     = {NEO: A Tool for Taxonomy Enrichment with New Emerging Occupations},
   booktitle = {The International Semantic Web Conference (ISWC) (accepted paper)},
   year = {2020}
