@@ -53,6 +53,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+@Article{CII2020,
+author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
+title={MEET-LM: A Method for Embeddings Evaluation for Taxonomic Data in the Labour Market},
+journal={Computers in Industry (accepted paper)},
+year={2020}
+}
+
 @Article{Giabelli2020,
 author={Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica},
 title={GraphLMI: A data driven system for exploring labor market information through graph databases},
