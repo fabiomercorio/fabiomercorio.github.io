@@ -64,7 +64,7 @@ isbn="978-3-030-62466-8"
 @inproceedings{SENTIRE2020,
 author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
 title={MEET: A Method for Embeddings Evaluation for Taxonomic Data },
-journal={SENTIRE-Sentiment Elicitation from Natural Text for Information Retrieval and Extraction, ICDM workshop (to appear)},
+booktitle={SENTIRE-Sentiment Elicitation from Natural Text for Information Retrieval and Extraction, ICDM workshop (to appear)},
 year={2020}
 }
 
