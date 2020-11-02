@@ -21,13 +21,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@InProceedings{AAAI21,
-author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
-title="NEO: A System for Identifying New Emerging Occupation from Job Ads",
-booktitle="The 35th AAAI Conference on Artificial Intelligence (Demo Track - to appear) - AAAI-21",
-year="2021"
-}
-
 
 @InProceedings{ISWC2020,
 author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
