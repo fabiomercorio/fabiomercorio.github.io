@@ -60,6 +60,14 @@ isbn="978-3-030-62466-8"
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+
+@inproceedings{SENTIRE2020,
+author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
+title={MEET: A Method for Embeddings Evaluation for Taxonomic Data },
+journal={SENTIRE-Sentiment Elicitation from Natural Text for Information Retrieval and Extraction, ICDM workshop (to appear)},
+year={2020}
+}
+
 @Article{CII2020,
 author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
 title={MEET-LM: A Method for Embeddings Evaluation for Taxonomic Data in the Labour Market},
