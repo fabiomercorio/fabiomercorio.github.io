@@ -28,6 +28,7 @@ booktitle="The International Conference of Semantic Web -- ISWC 2020",
 year="2020",
 publisher="Springer International Publishing",
 pages="568--584",
+doi = "https://doi.org/10.1007/978-3-030-62466-8_35",
 url = "https://tinyurl.com/neo-iswc-demo",
 isbn="978-3-030-62466-8"
 }
