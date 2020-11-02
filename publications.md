@@ -21,7 +21,15 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@InProceedings{10.1007/978-3-030-62466-8_35,
+@InProceedings{AAAI21,
+author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
+title="NEO: A System for Identifying New Emerging Occupation from Job Ads",
+booktitle="The 35th AAAI Conference on Artificial Intelligence (Demo Track - to appear) - AAAI-21",
+year="2021"
+}
+
+
+@InProceedings{ISWC2020,
 author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
 title="NEO: A Tool for Taxonomy Enrichment with New Emerging Occupations",
 booktitle="The 19th International Conference of Semantic Web -- ISWC 2020",
