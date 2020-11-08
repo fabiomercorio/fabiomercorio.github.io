@@ -7,8 +7,8 @@ js: /js/counter.js
 ---
 ### ``News 2020``
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://iswc2020.semanticweb.org/)!!!
--  ``Teaching`` Students can book a live-appointment through [Meetingbird!](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 - ``Grant`` AI4ESCO: a new EU Project (granted by [EURES](https://ec.europa.eu/social/main.jsp?catId=629&langId=en&callId=552&furtherCalls=yes)) to make a data-driven bridge between taxonomies through AI
+- Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
@@ -29,6 +29,7 @@ js: /js/counter.js
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and a member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
++ [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
 - [2016-present] **Assistant Professor**  at University of Milan-Bicocca
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
