@@ -6,9 +6,9 @@ published: true
 js: /js/counter.js
 ---
 ### ``News 2020``
+- Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://iswc2020.semanticweb.org/)!!!
 - ``Grant`` AI4ESCO: a new EU Project (granted by [EURES](https://ec.europa.eu/social/main.jsp?catId=629&langId=en&callId=552&furtherCalls=yes)) to make a data-driven bridge between taxonomies through AI
-- Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
