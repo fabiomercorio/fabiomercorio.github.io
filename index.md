@@ -13,6 +13,7 @@ js: /js/counter.js
 
 
 ### Some Events I’m involved in
+- [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
 - [AISTATS-21](http://aistats.org/) Program Committee
