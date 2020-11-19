@@ -86,6 +86,7 @@ Reviewer for:
 - Future Generation Computer System
 - Knowledge-Based Systems
 - Computers in Industry
+- Expert Systems with Applications
 
 #### Program committee membership (Selection)
 - (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
