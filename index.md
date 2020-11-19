@@ -103,12 +103,6 @@ Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)
 Room 2042 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
 Viale dell'Innovazione 10 - Milan - Italy
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 
 
 <!-- Histats.com  START  (aync)-->
