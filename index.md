@@ -18,6 +18,7 @@ js: /js/counter.js
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
 - [AISTATS-21](http://aistats.org/) Program Committee
+- [ICAPS-21](https://icaps21.icaps-conference.org/) Program Committee
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
 - [IJCAI-PRICAI-XAI-20](https://sites.google.com/view/xai2020/home) Program Committee
 - [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
