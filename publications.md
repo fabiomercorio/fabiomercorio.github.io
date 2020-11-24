@@ -68,11 +68,17 @@ booktitle={SENTIRE-Sentiment Elicitation from Natural Text for Information Retri
 year={2020}
 }
 
-@Article{CII2020,
-author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
-title={MEET-LM: A Method for Embeddings Evaluation for Taxonomic Data in the Labour Market},
-journal={Computers in Industry (accepted paper)},
-year={2020}
+@article{MALANDRI2021103341,
+title = "MEET-LM: A method for embeddings evaluation for taxonomic data in the labour market",
+journal = "Computers in Industry",
+volume = "124",
+pages = "103341",
+year = "2021",
+issn = "0166-3615",
+doi = "https://doi.org/10.1016/j.compind.2020.103341",
+url = "http://www.sciencedirect.com/science/article/pii/S0166361520305753",
+author = "Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani",
+keywords = "Embeddings evaluation, Taxonomies, Semantic hierarchies, Labour market, ICT"
 }
 
 @Article{Giabelli2020,
