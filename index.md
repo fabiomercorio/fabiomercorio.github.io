@@ -42,14 +42,13 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-off company of Unimib) working on BI and Big Data Analytics. TabulaeX is now part of the Burning Glass Group
 - [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
 
-
 #### My research interests include
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, ontology learning, Graph-database algorithms 
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
-#### Research team AI@CRISP-UNIMIB   
-_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together:   
+#### Research team AI@CRISP-UNIMIB  
+_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together: 
 - [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student in XAI (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
@@ -83,7 +82,7 @@ Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for f
 #### Awards
 - [2019]  **Research Talent Award** I've received the first prize at the [YoungTalentAward 2019](https://www.unimib.it/ricerca/finanziamenti/finanziamenti-ateneo/premio-giovani-talenti) in collaboration with Accademia Nazionale Lincei in the Computer Science, Engineering & Mathematics area. _"for his contribution on applying AI to labour market for describing and predicting labour market phenomena"_
 - [2018]  **ASN - Associate Professor in Computer Science** National Scientific Qualification for the position of *Associate Professor in Computer Science*, ANVUR
-- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
+- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
