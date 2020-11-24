@@ -5,12 +5,14 @@ subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocc
 published: true
 js: /js/counter.js
 ---
+### ``Breaking News``
+- ``Publication`` Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
+- ``New Grant`` Happy to lead the research activity of a new project granted by Eurostat+Cedefop for putting AI into Labour Market for whole 27+1 EU Country (2021-2025) More details soon, stay tuned! 
+
 ### ``News 2020``
 - ``Position`` Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
-- ``Publication`` Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://link.springer.com/chapter/10.1007%2F978-3-030-62466-8_35)
-- ``H2020`` PILLARS. A new H-2020 project is about to start! Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
-- ``Grant`` AI4ESCO: a new EU Project (granted by [EURES](https://ec.europa.eu/social/main.jsp?catId=629&langId=en&callId=552&furtherCalls=yes)) to make a data-driven bridge between taxonomies through AI
+- ``H2020`` PILLARS. Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
