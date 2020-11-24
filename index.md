@@ -48,7 +48,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
 #### Research team AI@CRISP-UNIMIB  
-_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together: 
+_"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and postdocs I have te honour to (co)supervise
 - [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student in XAI (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
