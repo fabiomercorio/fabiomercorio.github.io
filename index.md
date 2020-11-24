@@ -48,8 +48,8 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, ontology learning, Graph-database algorithms 
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
-#### Research team AI@CRISP-UNIMIB
-_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together:
+#### Research team AI@CRISP-UNIMIB   
+_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together:   
 - [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
