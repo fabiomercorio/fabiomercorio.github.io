@@ -50,11 +50,11 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 #### Research team AI@CRISP-UNIMIB   
 _"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together:   
-- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics
-- [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student (Digital Attitude), Dept of Informatics at Unimib 
+- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
+- [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student in XAI (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
-- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student (Intesa San Paolo), Dept of Informatics at Unimib 
+- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student in XAI for Finance (Intesa San Paolo), Dept of Informatics at Unimib 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), Research Fellow at CRISP-Unimib 
 
 
