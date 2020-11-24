@@ -29,7 +29,7 @@ js: /js/counter.js
 - [ACM-SAC-20](https://www.sigapp.org/sac/sac2020/)  Track Chair
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
-## About
+### About
 I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and a member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
@@ -47,6 +47,21 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 - *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
 - *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, ontology learning, Graph-database algorithms 
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
+
+#### Research team AI@CRISP-UNIMIB
+_"if you want to go fast go alone. if you want to go far go together"_. I'm proud to work with brilliant phd students and postdoc for doing research together:
+- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics
+- [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student (Digital Attitude), Dept of Informatics at Unimib 
+- [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
+- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
+- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student (Intesa San Paolo), Dept of Informatics at Unimib 
+- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), Research Fellow at CRISP-Unimib 
+
+
+
+
+
+
 
 #### (Co)-Developed Tools
 - [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm
