@@ -57,12 +57,6 @@ _"if you want to go fast go alone. if you want to go far go together"_. I'm prou
 - [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student in XAI for Finance (Intesa San Paolo), Dept of Informatics at Unimib 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), Research Fellow at CRISP-Unimib 
 
-
-
-
-
-
-
 #### (Co)-Developed Tools
 - [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm
 - [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London)
