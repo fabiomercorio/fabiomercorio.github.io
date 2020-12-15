@@ -21,6 +21,19 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@InProceedings{AAAI-XAI,
+author="Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Seveso, Andrea",
+title="A Symbolic Approach to Generating Contrastive Explanations for Black Box Classifiers",
+booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)",
+year="2021"
+}
+
+@InProceedings{AAAI-NEO,
+author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
+title="NEO: A System for Identifying New Emerging Occupation from Job Ads",
+booktitle="The 35th AAAI Conference on Artificial Intelligence - Demo Track ",
+year="2021"
+}
 
 @InProceedings{ISWC2020,
 author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
