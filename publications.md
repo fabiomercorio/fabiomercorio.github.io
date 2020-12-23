@@ -27,6 +27,16 @@ title="A Symbolic Approach to Generating Contrastive Explanations for Black Box 
 booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)",
 year="2021"
 }
+@article{ASOC,
+	author = {Giabelli, A and Malandri, L and Mercorio, F and Mezzanzanica, M and Seveso, S},
+	title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
+	year = {2021},
+	publisher = {Springer},
+	issn = {15684946},
+	journal = {APPLIED SOFT COMPUTING (to appear)}
+}
+
+
 
 @InProceedings{AAAI-NEO,
 author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
