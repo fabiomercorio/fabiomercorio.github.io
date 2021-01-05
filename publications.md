@@ -32,9 +32,10 @@ year="2021"
 	title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
 	year = {2021},
 	publisher = {Springer},
-	issn = {15684946},
+	issn = {1568-4946},
 	journal = {Applied Soft Computing},
     doi = {https://doi.org/10.1016/j.asoc.2020.107049},
+    url = {https://doi.org/10.1016/j.asoc.2020.107049}
 }
 
 
