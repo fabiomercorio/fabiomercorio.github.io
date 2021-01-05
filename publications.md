@@ -33,7 +33,7 @@ year="2021"
 	year = {2021},
 	publisher = {Springer},
 	issn = {15684946},
-	journal = {Applied Soft Computing}
+	journal = {Applied Soft Computing},
     doi = {https://doi.org/10.1016/j.asoc.2020.107049},
 }
 
