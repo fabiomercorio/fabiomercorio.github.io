@@ -28,7 +28,7 @@ booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)
 year="2021"
 }
 @article{ASOC,
-	author = {Giabelli, A and Malandri, L and Mercorio, F and Mezzanzanica, M and Seveso, S},
+	author = {Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea},
 	title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
 	year = {2021},
 	publisher = {Springer},
