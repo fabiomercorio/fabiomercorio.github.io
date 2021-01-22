@@ -13,7 +13,7 @@ js: /js/counter.js
 ### ``Updates 2020``
 - ``Position`` Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://link.springer.com/chapter/10.1007%2F978-3-030-62466-8_35)
-- ``H2020`` PILLARS. Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
+- ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
