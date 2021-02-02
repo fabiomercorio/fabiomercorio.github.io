@@ -18,6 +18,7 @@ js: /js/counter.js
 
 
 ### Some Events I’m involved in
+- [IJCAI-21](https://ijcai-21.org/cfp/) Program Committee
 - [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
