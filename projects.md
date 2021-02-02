@@ -6,8 +6,10 @@ published: true
 ---
 ## Ongoing Granted Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
-- #### ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
-- #### ``EUROSTAT+CEDEFOP`` Granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
+- #### ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). 
+Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
+- #### ``EUROSTAT+CEDEFOP`` 
+"Towards the European Web Intelligence Hub — European System for Collection and Analysis of Online Job Advertisement Data (WIH-OJA)". [link](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=6559) Granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 - #### ``Observatory of Digital Competences`` [2017-2021].  
 The [Observatory of Digital Competences](http://competenzedigitali.org/), granted by  the Italian Unions of ICT  (Assinform, Assintel, Assinter) with support of AgiD (Agenzia Italia Digitale) and MIUR. 
 - #### ``AI and Legal Study Perspectives``  [2020-2023].    
