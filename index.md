@@ -14,7 +14,7 @@ js: /js/counter.js
 ### ``Updates``
 - ``Position`` Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://link.springer.com/chapter/10.1007%2F978-3-030-62466-8_35)
-- ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. More details soon, stay tuned! 
+- ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. See the [offical website](https://www.h2020-pillars.eu/) for more info
 - ``Tool`` ``Publication`` [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
@@ -23,6 +23,7 @@ js: /js/counter.js
 - [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
+- [ECML-PKDD-21](https://2021.ecmlpkdd.org/) Program Committee
 - [AISTATS-21](http://aistats.org/) Program Committee
 - [ICAPS-21](https://icaps21.icaps-conference.org/) Program Committee
 - [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2020
