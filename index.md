@@ -6,6 +6,7 @@ published: true
 js: /js/counter.js
 ---
 ### ``News``
+- ``Award`` Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
 - ``Teaching`` Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - ``Publication`` New paper accepted at [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) workshop!
 - ``Publication`` Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
@@ -79,6 +80,7 @@ I have been working on the following granted reserch projects, that allow me put
 Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for further details
 
 #### Awards
+- [2021]  **ASN - Full Professor in Computer Engineering** National Scientific Qualification for the position of *Full Professor in Computer Science*, ANVUR
 - [2019]  **Research Talent Award** I've received the first prize at the [YoungTalentAward 2019](https://www.unimib.it/ricerca/finanziamenti/finanziamenti-ateneo/premio-giovani-talenti) in collaboration with Accademia Nazionale Lincei in the Computer Science, Engineering & Mathematics area. _"for his contribution on applying AI to labour market for describing and predicting labour market phenomena"_
 - [2018]  **ASN - Associate Professor in Computer Science** National Scientific Qualification for the position of *Associate Professor in Computer Science*, ANVUR
 - [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
