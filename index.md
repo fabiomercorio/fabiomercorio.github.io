@@ -13,7 +13,7 @@ js: /js/counter.js
 - ``Publication`` Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
 - ``New Grant`` Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 
-### ``Updates``
+### ``Updates (a bit older but still relevant)``
 - ``Position`` Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - ``Publication`` Great news! New paper accepted at [ISWC-2020](https://link.springer.com/chapter/10.1007%2F978-3-030-62466-8_35)
 - ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. See the [offical website](https://www.h2020-pillars.eu/) for more info
