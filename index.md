@@ -9,6 +9,7 @@ js: /js/counter.js
 - ``Award`` Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
 - ``Teaching`` Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - ``Publication`` New paper accepted at [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) workshop!
+- ``Publication`` Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
 - ``Publication`` Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
 - ``New Grant`` Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 
