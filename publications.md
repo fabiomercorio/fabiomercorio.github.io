@@ -22,7 +22,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @InProceedings{AAAI-XAI,
-author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
 title="A Symbolic Approach to Generating Contrastive Explanations for Black Box Classifiers",
 booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)",
 year="2021"
