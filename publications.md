@@ -28,7 +28,7 @@ booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)
 year="2021"
 }
 @article{ASOC,
-	author = {Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea},
+	author = {Anna Giabelli,  Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso},
 	title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
 	year = {2021},
 	publisher = {Springer},
@@ -41,14 +41,14 @@ year="2021"
 
 
 @InProceedings{AAAI-NEO,
-author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
+author="Anna Giabelli,  Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso",
 title="NEO: A System for Identifying New Emerging Occupation from Job Ads",
 booktitle="The 35th AAAI Conference on Artificial Intelligence - Demo Track ",
 year="2021"
 }
 
 @InProceedings{ISWC2020,
-author="Giabelli, Anna and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
+author="Anna Giabelli,  Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso",
 title="NEO: A Tool for Taxonomy Enrichment with New Emerging Occupations",
 booktitle="The 19th International Conference of Semantic Web -- ISWC 2020",
 year="2020",
