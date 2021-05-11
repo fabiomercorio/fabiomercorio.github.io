@@ -38,7 +38,12 @@ year="2021"
     url = {https://doi.org/10.1016/j.asoc.2020.107049}
 }
 
-
+@InProceedings{IJCAI-skill2job,
+author="Anna Giabelli,  Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso",
+title="Skills2Graph: Processing million Job Ads to face the Job Skill Mismatch problem",
+booktitle="The 30th IJCAI Conference - Demo Track ",
+year="2021"
+}
 
 @InProceedings{AAAI-NEO,
 author="Anna Giabelli,  Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica and Andrea Seveso",
