@@ -6,7 +6,7 @@ published: true
 js: /js/counter.js
 ---
 ### ``News``
-- ``Award`` Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
+- <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
 - ``Teaching`` Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - ``Publication`` New paper accepted at [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) workshop!
 - ``Publication`` Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
