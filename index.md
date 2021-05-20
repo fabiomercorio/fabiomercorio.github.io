@@ -63,9 +63,9 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), Research Fellow at CRISP-Unimib 
 
 #### (Co)-Developed Tools
-- [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm [*ICAPS-09*](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/707/1100) [*Applied Intelligence 2012*](https://link.springer.com/article/10.1007%2Fs10489-011-0306-z)
-- [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London) [*IJCAI-16*](https://www.ijcai.org/Abstract/16/455)
-- [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses [*ECML-PKDD-19*](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)[*MTAP-18*](https://link.springer.com/article/10.1007%2Fs11042-017-5503-2)
+- [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm. Related papers: [*[ICAPS-09]*](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/707/1100), [*[Applied Intelligence 2012]*](https://link.springer.com/article/10.1007%2Fs10489-011-0306-z)
+- [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London). Related papers: [*[IJCAI-16]*](https://www.ijcai.org/Abstract/16/455)
+- [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses. Related papers: [*[ECML-PKDD-19]*](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46), [*[MTAP-18]*](https://link.springer.com/article/10.1007%2Fs11042-017-5503-2)
 
 #### Granted Ongoing Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice. (see [Project](https://fabiomercorio.github.io/projects/))  
