@@ -14,7 +14,7 @@ js: /js/counter.js
 - <span style="color:blue">``New Grant``</span> Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 
 ### <span style="color:#c7254e">``Updates (a bit older but still relevant)``</span> 
-- ``Position`` Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
+- <span style="color:#c7254e">``Position``</span> Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
 - <span style="color:MediumSeaGreen">``Publication``</span>` Great news! New paper accepted at [ISWC-2020](https://link.springer.com/chapter/10.1007%2F978-3-030-62466-8_35)
 - <span style="color:blue">``H2020``</span>[PILLARS](https://www.h2020-pillars.eu/project/work_packages). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. See the [offical website](https://www.h2020-pillars.eu/) for more info
 - <span style="color:blue">``Tool`` ``Publication``</span> [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
