@@ -112,8 +112,9 @@ Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)
 *Office Hours:* [by appointment](https://www.meetingbird.com/l/mercorio/LiveMercorio)
 
 **Fabio Mercorio**  
-Room 2042 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
+Room 2043 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
 Viale dell'Innovazione 10 - Milan - Italy
+Office: (+39) 02 644 82170
 
 
 
