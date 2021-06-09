@@ -46,7 +46,7 @@ I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [Universit
 
 ####  Past Positions
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-off company of Unimib) working on BI and Big Data Analytics. TabulaeX is now part of the Burning Glass Group
+- [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now part of the Burning Glass Group
 - [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
 
 #### My research interests include
