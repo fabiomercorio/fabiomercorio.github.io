@@ -7,7 +7,7 @@ js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
 - <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
-- <span style="color:MediumSeaGreen">``Publication``</span> New paper accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track on taxonomy refinement via word-embedding
+- <span style="color:MediumSeaGreen">``Publication``</span> New paper on taxonomy refinement via word-embedding accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - <span style="color:MediumSeaGreen">``Publication``</span> New paper accepted at [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) workshop!
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
