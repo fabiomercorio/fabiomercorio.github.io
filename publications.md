@@ -21,6 +21,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{ECMLPKDD2021,
+author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
+title={TaxoRef: Embeddings Evaluation for AI-driven Taxonomy Refinement },
+booktitle={ECML-PKDD 2021 (accepted paper)},
+year={2021}
+}
+
 @InProceedings{AAAI-XAI,
 author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
 title="A Symbolic Approach to Generating Contrastive Explanations for Black Box Classifiers",
