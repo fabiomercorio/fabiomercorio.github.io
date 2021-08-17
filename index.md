@@ -21,7 +21,7 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Tool`` ``Publication``</span> [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
-### Some Events I’m involved in
+### Relevant 21/22 Events I’m involved in
 - [AAAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
 - [XAIP-21](http://xaip.mybluemix.net/#/) Program Committee
 - [IJCAI-21 Survey Track](https://ijcai-21.org/call-for-survey-track-papers/) Program Committee
@@ -30,9 +30,7 @@ js: /js/counter.js
 - [ECML-PKDD-21](https://2021.ecmlpkdd.org/) Program Committee
 - [AISTATS-21](http://aistats.org/) Program Committee
 - [ICAPS-21](https://icaps21.icaps-conference.org/) Program Committee
-- [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2020
-- [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
-- [IJCAI-PRICAI-XAI-20](https://sites.google.com/view/xai2020/home) Program Committee
+- [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2021
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
