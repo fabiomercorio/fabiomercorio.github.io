@@ -27,19 +27,16 @@ js: /js/counter.js
 - [IJCAI-21 Survey Track](https://ijcai-21.org/call-for-survey-track-papers/) Program Committee
 - [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
 - [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
-- [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Doctoral Consortium and Student Program Committees
 - [ECML-PKDD-21](https://2021.ecmlpkdd.org/) Program Committee
 - [AISTATS-21](http://aistats.org/) Program Committee
 - [ICAPS-21](https://icaps21.icaps-conference.org/) Program Committee
 - [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2020
 - [IJCAI-PRICAI-20](https://ijcai20.org/) Program Committee
 - [IJCAI-PRICAI-XAI-20](https://sites.google.com/view/xai2020/home) Program Committee
-- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Program Committee
-- [AAAI-20](https://aaai.org/Conferences/AAAI-20/) Doctoral Consortium and Student Program 
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
-I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and a member of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and **deputy director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
 + [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
