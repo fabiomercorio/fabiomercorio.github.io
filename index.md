@@ -24,6 +24,7 @@ js: /js/counter.js
 
 ### Relevant 21/22 Events I’m involved in
 - [AAAI-22](https://aaai.org/Conferences/AAAI-22) SPC
+- [EAAI-21](https://aaai.org/Conferences/AAAI-21/eaai-21-call/) Program Committee
 - [XAIP-21](http://xaip.mybluemix.net/#/) Program Committee
 - [IJCAI-21 Survey Track](https://ijcai-21.org/call-for-survey-track-papers/) Program Committee
 - [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
