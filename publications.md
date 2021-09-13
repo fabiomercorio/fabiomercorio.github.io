@@ -21,12 +21,26 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@inproceedings{ECMLPKDD2021,
-author={Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica and Navid Nobani},
-title={TaxoRef: Embeddings Evaluation for AI-driven Taxonomy Refinement },
-booktitle={ECML-PKDD 2021 (accepted paper)},
-year={2021}
+@InProceedings{10.1007/978-3-030-86523-8_37,
+author="Malandri, Lorenzo
+and Mercorio, Fabio
+and Mezzanzanica, Mario
+and Nobani, Navid",
+editor="Oliver, Nuria
+and P{\'e}rez-Cruz, Fernando
+and Kramer, Stefan
+and Read, Jesse
+and Lozano, Jose A.",
+title="TaxoRef: Embeddings Evaluation for AI-driven Taxonomy Refinement",
+booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="612--627",
+abstract="Taxonomies provide a structured representation of semantic relations between lexical terms. In the case of standard official taxonomies, the refinement task consists of maintaining them updated over time, while preserving their original structure. To date, most of the approaches for automated taxonomy refinement rely on word vector models. However, none of them considers to what extent those models encode the taxonomic similarity between words. Motivated by this, we propose and implement TaxoRef, a methodology that (i) synthesises the semantic similarity between taxonomic elements through a new metric, namely HSS, (ii) evaluates to what extent the embeddings generated from a text corpus preserve those similarity relations and (iii) uses the best embedding resulted from this evaluation to perform taxonomy refinement. TaxoRef is a part of the research activity of a 4-year EU project that collects and classifies millions of Online Job Ads for the 27+1 EU countries. It has been tested over 2M ICT job ads classified over ESCO, the European standard occupation and skill taxonomy.",
+isbn="978-3-030-86523-8"
 }
+
 
 @InProceedings{AAAI-XAI,
 author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
