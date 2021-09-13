@@ -60,7 +60,7 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
 - [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student in XAI for Finance (Intesa San Paolo), Dept of Informatics at Unimib 
-- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), Research Fellow at CRISP-Unimib 
+- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 
 #### (Co)-Developed Tools for Researchers
 - [*TaxoRef*](https://github.com/Crisp-Unimib/TaxoRef) is a methodology for Taxonomy Refinement via word embeddings. It allows evaluating the best embedding on the basis of their ability to represent taxonomic similarity relations. Related papers: [*[ECML-PKDD-21]*](https://link.springer.com/chapter/10.1007%2F978-3-030-86523-8_37)
