@@ -36,7 +36,7 @@ js: /js/counter.js
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
-I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and **deputy director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
 + [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
@@ -111,7 +111,7 @@ Reviewer for:
 
 #### Contact
 Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
-*Office Hours:* [by appointment](https://www.meetingbird.com/l/mercorio/LiveMercorio)
+*Office Hours:* [by appointment](https://calendly.com/fabio-mercorio/meet-mercorio)
 
 **Fabio Mercorio**  
 Room 2043 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
