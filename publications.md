@@ -42,6 +42,14 @@ isbn="978-3-030-86523-8"
 }
 
 
+@InProceedings{BIAS,
+author = {Alessandro Castelnovo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Cosentini},
+title="Towards Fairness Through Time",
+booktitle="The 2nd workshop in bias and fairness in AI (ECML-PKDD)",
+year="2021",
+url = "https://sites.google.com/view/bias2021/"
+}
+
 @InProceedings{AAAI-XAI,
 author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
 title="A Symbolic Approach to Generating Contrastive Explanations for Black Box Classifiers",
