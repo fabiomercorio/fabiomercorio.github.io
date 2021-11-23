@@ -7,7 +7,7 @@ js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
 - <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
-- <span style="color:MediumSeaGreen">``Publication``</span> New paper on taxonomy refinement via word-embedding accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track. Check out the tool on [GitHub]https://github.com/fabiomercorio/TaxoRef)  
+- <span style="color:MediumSeaGreen">``Publication``</span> New paper on taxonomy refinement via word-embedding accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track. Check out the tool on [GitHub](https://github.com/fabiomercorio/TaxoRef)  
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
