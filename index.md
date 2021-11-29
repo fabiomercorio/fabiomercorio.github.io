@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Fabio Mercorio
-subtitle: 'Assistant Professor of Computer Science - University of Milano-Bicocca, Italy'
+subtitle: 'Associate Professor of Computer Science - University of Milano-Bicocca, Italy'
 published: true
+readtime: true
 js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
