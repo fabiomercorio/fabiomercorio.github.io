@@ -38,8 +38,8 @@ js: /js/counter.js
 I am Associate Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
++ [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
 + [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
-- [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
