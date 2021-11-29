@@ -3,6 +3,7 @@ layout: page
 title: Publications
 subtitle: Selected Publications
 published: true
+full-width: true
 ---
 
 <link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
