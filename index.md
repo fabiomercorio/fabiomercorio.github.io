@@ -35,14 +35,15 @@ js: /js/counter.js
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
-I am Assistant Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Associate Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
 + [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
-- [2016-present] **Assistant Professor**  at University of Milan-Bicocca
+- [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
+- [2016-Nov2021] **Assistant Professor**  at University of Milan-Bicocca
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
 - [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now part of the EMSI-BurningGlass Group
 - [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
