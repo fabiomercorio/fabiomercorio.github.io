@@ -36,7 +36,7 @@ js: /js/counter.js
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
-I am Associate Professor (Tenure Track - RTDb) in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
 
 #### Current Positions
 + [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
