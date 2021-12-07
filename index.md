@@ -12,26 +12,19 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
-- <span style="color:blue">``New Grant``</span> Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 
 ### <span style="color:#c7254e">``Updates (a bit older but still relevant)``</span> 
 - <span style="color:#c7254e">``Position``</span> Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
+- <span style="color:blue">``New Grant``</span> Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
 - <span style="color:blue">``H2020``</span>[PILLARS](https://www.h2020-pillars.eu/project/work_packages). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. See the [offical website](https://www.h2020-pillars.eu/) for more info
-- <span style="color:MediumSeaGreen">``Tool`` ``Publication``</span> [GraphDBLP](https://github.com/fabiomercorio/GraphDBLP) has been released with a Web-GUI, check-it out or have a look to the [ECML-PKDD 2019 paper](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46)!
 
 
-### Relevant 21/22 Events I’m involved in
-- [AAAI-22](https://aaai.org/Conferences/AAAI-22) SPC
+### Relevant 2022 Events I’m involved in
+- [AAAI-22](https://aaai.org/Conferences/AAAI-22) Senior PC
+- [AAAI-XAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
+- [NAACL-22](https://2021.naacl.org/) Program Committee
 - [IJCAI-22 Survey Track](https://ijcai-22.org/calls-survey/) Program Committee
 - [ICAPS-22](http://icaps22.icaps-conference.org/) Program Committee
-- [EAAI-21](https://aaai.org/Conferences/AAAI-21/eaai-21-call/) Program Committee
-- [XAIP-21](http://xaip.mybluemix.net/#/) Program Committee
-- [IJCAI-21 Survey Track](https://ijcai-21.org/call-for-survey-track-papers/) Program Committee
-- [AAAI-XAI-21](https://sites.google.com/view/xaiworkshop/topic) Program Committee 
-- [AAAI-21](https://aaai.org/Conferences/AAAI-21/) Program Committee
-- [ECML-PKDD-21](https://2021.ecmlpkdd.org/) Program Committee
-- [AISTATS-21](http://aistats.org/) Program Committee
-- [ICAPS-21](https://icaps21.icaps-conference.org/) Program Committee
 - [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2021
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
@@ -55,8 +48,8 @@ I am Associate Professor in Computer Science at [University of Milan-Bicocca](ht
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
 #### Research team AI@CRISP-UNIMIB  
-_"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and postdocs I have the honour to (co)supervise
-- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Postdoc in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
+_"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and researchers of our team
+- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Reseacher in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student in XAI (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
@@ -106,8 +99,9 @@ Reviewer for:
 
 #### Program committee membership (Selection)
 - (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
-- (IJCAI) International Joint Conference on Artificial Intelligence (2016, 2017, 2020)
+- (IJCAI) International Joint Conference on Artificial Intelligence (since 2016) 
 - (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
+- (ECML-PKDD) European Conference on Machine Learning and Data Mining (since 2020) 
 - ACM/SIGAPP Symposium On Applied Computing (since 2018)
 - Data Technology and Application  Conference (since 2014)
 
