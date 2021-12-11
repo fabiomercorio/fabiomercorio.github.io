@@ -22,6 +22,21 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+
+@article{ContrXT2022,
+title = {ContrXT: Generating contrastive explanations from any text classifier},
+journal = {Information Fusion},
+volume = {81},
+pages = {103-115},
+year = {2022},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2021.11.016},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253521002426},
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani and Andrea Seveso},
+keywords = {Post-hoc explainability, Contrastive explanation methods for XAI, XAI interpretability of text classifiers},
+abstract = {The need for explanations of ML systems is growing as new models outperform their predecessors while becoming more complex and less comprehensible for their end-users. Though several XAI methods have been proposed in recent years, not enough attention was paid to explaining how models change their behaviour in contrast with previous ones (e.g., due to retraining). In such cases, an XAI system should explain why the model changes its predictions concerning past outcomes. Capturing and understanding such differences is crucial, as the need for trust is key in any application to support human-AI decision-making processes. This is the idea of ContrXT, a novel approach that (i) traces the decision criteria of a black box text classifier by encoding the changes in the decision logic through Binary Decision Diagrams. Then (ii) it provides global, model-agnostic, Time-Contrastive (T-contrast) explanations in natural language, estimating why – and to what extent – the model has modified its behaviour over time. We implemented and evaluated ContrXT over several supervised ML models trained on a benchmark dataset and a real-life application, showing it is effective in catching majorly changed classes and in explaining their variation through a user study. The approach has been implemented, and it is available to the community both as a python package and through REST API, providing contrastive explanations as a service.}
+}
+
 @InProceedings{10.1007/978-3-030-86523-8_37,
 author="Malandri, Lorenzo
 and Mercorio, Fabio
