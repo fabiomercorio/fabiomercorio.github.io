@@ -701,18 +701,6 @@ doi={10.1109/ICOSC.2015.7050852}
   booktitle     = {The 17th International Conference on Information Quality (ICIQ 2012) (to appear)}
 }
 
-@phdthesis{mercoriophd2012,
-  author    = {Fabio Mercorio},
-  title     = {Model Checking for the Analysis and Control of Complex and Non-deterministic Systems},
-  school = {Department of Computer Science - University of L'Aquila - Italy},
-  url= {http://hdl.handle.net/10281/36432},
-    keywords = {PDDL, planning, model-checking, Data quality},
-   year = {2012}
-}
-
-
-
-
 
 @INPROCEEDINGS{DATA2012,
   author = {Mario Mezzanzanica and Roberto Boselli and Mirko Cesarini and Fabio Mercorio},
