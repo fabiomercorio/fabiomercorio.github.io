@@ -27,7 +27,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 title = {Embeddings Evaluation using a Novel Measure of Semantic Similarity},
 journal = {Cognitive Computation},
 year = {2022},
-author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
+author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani}
 
 @article{ContrXT2022,
 title = {ContrXT: Generating contrastive explanations from any text classifier},
