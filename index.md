@@ -14,12 +14,6 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got three DC papers accepted at [IJCAI-21](https://ijcai-21.org/call-for-doctoral-consortium/). Congrats to [@AndreaSeveso](https://www.unimib.it/andrea-seveso), [@NavidNobani](https://www.unimib.it/navid-nobani), and [@AlessandroCastelnono](https://www.unimib.it/alessandro-castelnovo)
 - <span style="color:MediumSeaGreen">``Publication``</span> Three PhD students of our research team have got two student papers accepted at [AAAI-21](https://aaai.org/Conferences/AAAI-21/student-abstract-call/), and one at [AAAI-21 demo track](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/). Congrats to [@AnnaGiabelli](https://www.unimib.it/anna-giabelli), [@AndreaSeveso](https://www.unimib.it/andrea-seveso), and [@NavidNobani](https://www.unimib.it/navid-nobani)
 
-### <span style="color:#c7254e">``Updates (a bit older but still relevant)``</span> 
-- <span style="color:#c7254e">``Position``</span> Honoured to be elected as Deputy Director of [CRISP Research Centre](https://www.crisp-org.it/)
-- <span style="color:blue">``New Grant``</span> Happy to lead the research team of a new project granted by Eurostat+Cedefop for building the European Web Intelligence Hub, putting AI into Labour Market for whole 27+1 EU Country (2021-2024) More details soon, stay tuned! 
-- <span style="color:blue">``H2020``</span>[PILLARS](https://www.h2020-pillars.eu/project/work_packages). Happy to lead the Unimib research unit of a new H-2020 project: Disvovering new occupations/skills and effect of robotisation within jobs through AI. See the [offical website](https://www.h2020-pillars.eu/) for more info
-
-
 ### Relevant 2022 Events I’m involved in
 - [AAAI-22](https://aaai.org/Conferences/AAAI-22) Senior PC
 - [AAAI-XAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
