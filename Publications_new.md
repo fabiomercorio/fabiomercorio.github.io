@@ -11,6 +11,8 @@ I will try to keep the following list of publications up to date. Also, have a l
 
 Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
+<table id="pubTable" class="display">
+</table>
 <pre id="bibtex" style="display:none;">
 
 @article{CogComp,
@@ -851,12 +853,6 @@ doi={10.1109/ICOSC.2015.7050852}
   pages = {31--44}
 }
 </pre>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
-</script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js">
-</script>
-<script type="text/javascript" src="https://fabiomercorio.github.io/run.js">
-</script>
 
 The source bibtex list is rendered using <a href="https://github.com/vkaravir/bib-publication-list" rel="noopener noreferrer" target="_blank">vkaravir's bib-publication-list.</a>
 
