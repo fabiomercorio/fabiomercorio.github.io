@@ -11,7 +11,9 @@ I will try to keep the following list of publications up to date. Also, have a l
 
 Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
-<pre id="bibtex" style="display:none;">
+<table id="pubTable">
+</table>
+<pre id="bibtex">
 
 @article{CogComp,
 author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
