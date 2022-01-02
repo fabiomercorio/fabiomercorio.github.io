@@ -13,7 +13,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 <table id="pubTable">
 </table>
-<pre id="bibtexxx">
+<pre id="bibtex">
 
 @article{CogComp,
 author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
