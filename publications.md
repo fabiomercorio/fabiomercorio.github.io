@@ -29,6 +29,18 @@ journal = {Cognitive Computation (to appear)},
 year = {2022}
 }
 
+@article{GOZZI2022108053,
+title = {XAI for myo-controlled prosthesis: Explaining EMG data for hand gesture classification},
+journal = {Knowledge-Based Systems},
+pages = {108053},
+year = {2022},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.108053},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121011394},
+author = {Noemi Gozzi and Lorenzo Malandri and Fabio Mercorio and Alessandra Pedrocchi},
+keywords = {EMG signal decoding, eXplainable AI, Myo-controlled prosthesis}
+}
+
 @article{ContrXT2022,
 title = {ContrXT: Generating contrastive explanations from any text classifier},
 journal = {Information Fusion},
