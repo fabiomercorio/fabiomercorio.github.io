@@ -26,7 +26,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
 title = {Embeddings Evaluation using a Novel Measure of Semantic Similarity},
 journal = {Cognitive Computation},
-url = {https://link.springer.com/article/10.1007/s12559-021-09987-7}
+url = {https://link.springer.com/article/10.1007/s12559-021-09987-7},
 year = {2022}
 }
 
