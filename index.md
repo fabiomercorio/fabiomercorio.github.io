@@ -7,7 +7,7 @@ readtime: true
 js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT, a model agnostic, global, time contrastive explainer for any text classifier. Published on [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author) and available on [GitHub](https://github.com/Crisp-Unimib/ContrXT) 
+- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT, a model agnostic, global, time contrastive explainer for any text classifier. Published on [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author) and available on [GitHub](http://contrxt.ai) 
 - <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
 - <span style="color:MediumSeaGreen">``Publication``</span> New paper on taxonomy refinement via word-embedding accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track. Check out the tool on [GitHub](https://github.com/fabiomercorio/TaxoRef)  
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
@@ -53,7 +53,7 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 
 #### (Co)-Developed Tools for Researchers
-- [*ContrXT*](https://github.com/Crisp-Unimib/ContrXT) is a model agnostic, global, time contrastive explainer for any text classifier. It is available as a python tool on Github. Related papers: [*[Information-Fusion-22]*](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author)
+- [*ContrXT*](http://contrxt.ai) is a model agnostic, global, time contrastive explainer for any text classifier. It is available as a python tool on Github. Related papers: [*[Information-Fusion-22]*](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author)
 - [*TaxoRef*](https://github.com/Crisp-Unimib/TaxoRef) is a methodology for Taxonomy Refinement via word embeddings. It allows evaluating the best embedding on the basis of their ability to represent taxonomic similarity relations. Related papers: [*[ECML-PKDD-21]*](https://link.springer.com/chapter/10.1007%2F978-3-030-86523-8_37)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses. Related papers: [*[ECML-PKDD-19]*](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46), [*[MTAP-18]*](https://link.springer.com/article/10.1007%2Fs11042-017-5503-2)
 - [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm. Related papers: [*[ICAPS-09]*](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/707/1100), [*[Applied Intelligence 2012]*](https://link.springer.com/article/10.1007%2Fs10489-011-0306-z)
