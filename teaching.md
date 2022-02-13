@@ -11,11 +11,17 @@ published: true
 - [2018-present] **Lecturer** at Master Degree in *Data Science* - Dept of Computer Science , University of Milano- Bicocca. Master module on [Business Intelligence](https://www.unimib.it/ugov/degreecourse/230371)
 
 #### @Department of Statistics and Quantitative Methods (DISMEQ)
-- [2019-present] **Lecturer** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on [Databases](https://www.unimib.it/ugov/degreecourse/241848)
+- [2019-present] **Lecturer** at Bachelor Degree in *Statistics*,  University of Milano- Bicocca. Master module on [Databases](https://www.unimib.it/ugov/degreecourse/241848)
+- [2022-present] **Lecturer** at Master Degree in *Statistics*,  University of Milano- Bicocca. Master module on [Big Data Processing and Analytics](https://www.unimib.it/ugov/degreecourse/266028)
+- [2022-present] **Lecturer** at Master Degree in *Biostatistics*,  University of Milano- Bicocca. Master module on [Big Data Analytics](https://www.unimib.it/ugov/degreecourse/290352)
 
 #### @Postgraduate Master (Master II Livello)
 - [2011-present] **Lecturer** at Master in [Business Intelligence and Big Data Analytics](http://www.bimasterbicocca.it/), University of Milano-Bicocca. Module on *Advanced NoSQL*
-- [2011-present] **Lecturer** at Master in [Business Intelligence and Big Data Analytics](http://www.bimasterbicocca.it/), University of Milano-Bicocca. Module on *Text Processing through Python*
+- [2011-present] **Lecturer** at Master in [Business Intelligence and Big Data Analytics](http://www.bimasterbicocca.it/), University of Milano-Bicocca. Module on *NLP and XAI*
+
+#### @PhD (PhD in Data Analytics for Business)
+- [2022-present] **Lecturer** at Master in [PhD in Data Analytics for Business](https://www.dems.unimib.it/en/research/phd-programme), University of Milano-Bicocca. Course on *eXplainable AI for Business Value*
+- [2022-present] **Lecturer** at Master in [PhD in Data Analytics for Business](https://www.dems.unimib.it/en/research/phd-programme), University of Milano-Bicocca. Course on *Databases for Structured and Unstructured Data*
 
 ## Past Teaching
 
