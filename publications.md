@@ -86,12 +86,18 @@ isbn="978-3-030-86523-8"
 }
 
 
-@InProceedings{BIAS,
-author = {Alessandro Castelnovo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Cosentini},
+@InProceedings{10.1007/978-3-030-93736-2_46,
+author="Castelnovo, Alessandro
+and Malandri, Lorenzo
+and Mercorio, Fabio
+and Mezzanzanica, Mario
+and Cosentini, Andrea",
 title="Towards Fairness Through Time",
-booktitle="The 2nd workshop in bias and fairness in AI (ECML-PKDD)",
+booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
 year="2021",
-url = "https://sites.google.com/view/bias2021/"
+publisher="Springer International Publishing",
+address="Cham",
+isbn="978-3-030-93736-2"
 }
 
 @InProceedings{AAAI-XAI,
