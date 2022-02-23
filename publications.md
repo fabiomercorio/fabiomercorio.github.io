@@ -87,7 +87,7 @@ isbn="978-3-030-86523-8"
 
 
 @InProceedings{10.1007/978-3-030-93736-2_46,
-author="Castelnovo, Alessandro and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Cosentini, Andrea",
+author="Alessandro Castelnovo and Lorenzo Malandri and Fabio Mercorio Mario and Mezzanzanica, Mario and Andrea Cosentini",
 title="Towards Fairness Through Time",
 booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
 year="2021",
