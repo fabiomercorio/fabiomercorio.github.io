@@ -8,9 +8,9 @@ js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT, a model agnostic, global, time contrastive explainer for any text classifier. Published on [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author) and available on [GitHub](http://contrxt.ai) 
+- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our 2022 publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
 - <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
 - <span style="color:MediumSeaGreen">``Publication``</span> New paper on taxonomy refinement via word-embedding accepted at [ECML-PKDD-21](https://2021.ecmlpkdd.org/) research track. Check out the tool on [GitHub](https://github.com/fabiomercorio/TaxoRef)  
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our new publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2022 Events I’m involved in
