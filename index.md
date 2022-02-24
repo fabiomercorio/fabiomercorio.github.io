@@ -19,8 +19,8 @@ js: /js/counter.js
 - [NAACL-22](https://2021.naacl.org/) Program Committee
 - [IJCAI-22 Survey Track](https://ijcai-22.org/calls-survey/) Program Committee
 - [ICAPS-22](http://icaps22.icaps-conference.org/) Program Committee
-- [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) Reviewer for Special issue on XAI 2021
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
+- [Big Data Analytics - Course Executive](https://www.bdaexecutive.it/) (lecturer)
 
 ### About
 I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
