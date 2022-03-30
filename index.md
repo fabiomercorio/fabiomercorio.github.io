@@ -15,6 +15,7 @@ js: /js/counter.js
 
 ### Relevant 2022 Events I’m involved in
 - [AAAI-22](https://aaai.org/Conferences/AAAI-22) Senior PC
+- [IJCAI-XAI-22](https://sites.google.com/view/xai2022/home) Program Committee
 - [ECML-PKDD-22](https://2022.ecmlpkdd.org/) Program Committee
 - [AAAI-XAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
 - [NAACL-22](https://2021.naacl.org/) Program Committee
