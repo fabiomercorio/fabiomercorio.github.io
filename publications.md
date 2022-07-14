@@ -23,6 +23,22 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@inproceedings{malandri-etal-2022-contrastive,
+    title = "Contrastive Explanations of Text Classifiers as a Service",
+    author = "Malandri, Lorenzo  and
+      Mercorio, Fabio  and
+      Mezzanzanica, Mario  and
+      Nobani, Navid  and
+      Seveso, Andrea",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations",
+    month = jul,
+    year = "2022",
+    address = "Hybrid: Seattle, Washington + Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-demo.6",
+    pages = "46--53"
+}
+
 @Article{Giabelli2022,
 author={Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica},
 title={WETA: Automatic Taxonomy Alignment via Word Embeddings},
