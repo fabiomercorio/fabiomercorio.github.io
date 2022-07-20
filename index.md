@@ -14,6 +14,8 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2022 Events I’m involved in
+- [CIKM-22](https://www.cikm2022.org/) PC
+- [EMNLP-22](https://2022.emnlp.org/) PC
 - [AAAI-22](https://aaai.org/Conferences/AAAI-22) Senior PC
 - [IJCAI-XAI-22](https://sites.google.com/view/xai2022/home) Program Committee
 - [ECML-PKDD-22](https://2022.ecmlpkdd.org/) Program Committee
