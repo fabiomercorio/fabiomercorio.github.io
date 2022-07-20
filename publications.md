@@ -22,8 +22,23 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{ijcai2022-858,
+  title     = {The Good, the Bad, and the Explainer: A Tool for Contrastive Explanations of Text Classifiers},
+  author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Seveso, Andrea},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {5936--5939},
+  year      = {2022},
+  month     = {7},
+  note      = {Demo Track}
+  doi       = {10.24963/ijcai.2022/858},
+  url       = {https://doi.org/10.24963/ijcai.2022/858},
+}
 
-@inproceedings{malandri-etal-2022-contrastive,
+
+@inproceedings{NAACL-22,
     title = {Contrastive Explanations of Text Classifiers as a Service},
     author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
     booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations},
