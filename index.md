@@ -7,6 +7,7 @@ readtime: true
 js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
+- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT presented at IJCAI-22. [Check it out]([https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author](https://www.ijcai.org/proceedings/2022/858)
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT, a model agnostic, global, time contrastive explainer for any text classifier. Published on [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author) and available on [GitHub](http://contrxt.ai) 
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our 2022 publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
 - <span style="color:blue">``Award``</span>  Happy to announce I've obtained the national scientific qualification as Full Professor of Computer Engineering
