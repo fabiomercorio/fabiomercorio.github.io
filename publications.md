@@ -37,6 +37,14 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   url       = {https://doi.org/10.24963/ijcai.2022/858},
 }
 
+@article{XAI-survey,
+  title={A Survey on XAI and Natural Language Explanations},
+  author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
+  journal={Information Processing \& Management (to appear)},
+  year={2022}
+  publisher={Elsevier}
+}
+
 @article{fftree2022,
   title={FFTree: A Flexible Tree to Handle Multiple Fairness Criteria},
   author={Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},
