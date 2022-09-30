@@ -41,7 +41,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   title={A Survey on XAI and Natural Language Explanations},
   author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
   journal={Information Processing \& Management (to appear)},
-  year={2022}
+  year={2022},
   publisher={Elsevier}
 }
 
