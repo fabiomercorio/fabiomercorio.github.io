@@ -45,6 +45,14 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   publisher={Elsevier}
 }
 
+@article{ConvXAI,
+  title={ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer},
+  author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
+  journal={Cognitive Computation (to appear)},
+  year={2022},
+  publisher={Springer}
+}
+
 @article{fftree2022,
   title={FFTree: A Flexible Tree to Handle Multiple Fairness Criteria},
   author={Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},
