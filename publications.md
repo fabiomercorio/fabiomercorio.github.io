@@ -53,13 +53,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   publisher={Springer}
 }
 
-@article{fftree2022,
-  title={FFTree: A Flexible Tree to Handle Multiple Fairness Criteria},
-  author={Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},
-  journal={Information Processing \& Management (to appear)},
-  year={2022},
-  keywords = {Fairness, XAI, machine learning},
-  publisher={Elsevier}
+@article{FFtree2022,
+title = {FFTree: A flexible tree to handle multiple fairness criteria},
+journal = {Information Processing & Management},
+volume = {59},
+number = {6},
+pages = {103099},
+year = {2022},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2022.103099},
+url = {https://www.sciencedirect.com/science/article/pii/S030645732200200X},
+author = {Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},
+keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware decision tree}
 }
 
 @inproceedings{NAACL-22,
