@@ -176,18 +176,48 @@ year="2021"
     url = {https://doi.org/10.1016/j.asoc.2020.107049}
 }
 
-@InProceedings{IJCAI-skill2job,
-author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-title="Skills2Graph: Processing million Job Ads to face the Job Skill Mismatch problem",
-booktitle="The 30th IJCAI Conference - Demo Track ",
-year="2021"
+@inproceedings{DBLP:conf/ijcai/GiabelliMMMS21,
+  author    = {Anna Giabelli and
+               Lorenzo Malandri and
+               Fabio Mercorio and
+               Mario Mezzanzanica and
+               Andrea Seveso},
+  editor    = {Zhi{-}Hua Zhou},
+  title     = {Skills2Graph: Processing million Job Ads to face the Job Skill Mismatch
+               Problem},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial
+               Intelligence, {IJCAI} 2021, Virtual Event / Montreal, Canada, 19-27
+               August 2021},
+  pages     = {4984--4987},
+  publisher = {ijcai.org},
+  year      = {2021},
+  url       = {https://doi.org/10.24963/ijcai.2021/708},
+  doi       = {10.24963/ijcai.2021/708},
+  timestamp = {Wed, 25 Aug 2021 17:11:16 +0200},
+  biburl    = {https://dblp.org/rec/conf/ijcai/GiabelliMMMS21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
-@InProceedings{AAAI-NEO,
-author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-title="NEO: A System for Identifying New Emerging Occupation from Job Ads",
-booktitle="The 35th AAAI Conference on Artificial Intelligence - Demo Track ",
-year="2021"
+@inproceedings{DBLP:conf/aaai/GiabelliMMMS21,
+  author    = {Anna Giabelli and
+               Lorenzo Malandri and
+               Fabio Mercorio and
+               Mario Mezzanzanica and
+               Andrea Seveso},
+  title     = {{NEO:} {A} System for Identifying New Emerging Occupation from Job
+               Ads},
+  booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2021, Thirty-Third Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
+               2021},
+  pages     = {16035--16037},
+  publisher = {{AAAI} Press},
+  year      = {2021},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/18004},
+  timestamp = {Mon, 07 Jun 2021 11:46:04 +0200},
+  biburl    = {https://dblp.org/rec/conf/aaai/GiabelliMMMS21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 @InProceedings{ISWC2020,
