@@ -77,13 +77,22 @@ keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware dec
     pages = {46--53}
 }
 
-@Article{Giabelli2022,
-author={Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and  Mario Mezzanzanica},
-title={WETA: Automatic Taxonomy Alignment via Word Embeddings},
-journal={Computers in Industry (to appear)},
-year={2022}
+@article{DBLP:journals/cii/GiabelliMMM22,
+  author    = {Anna Giabelli and
+               Lorenzo Malandri and
+               Fabio Mercorio and
+               Mario Mezzanzanica},
+  title     = {{WETA:} Automatic taxonomy alignment via word embeddings},
+  journal   = {Comput. Ind.},
+  volume    = {138},
+  pages     = {103626},
+  year      = {2022},
+  url       = {https://doi.org/10.1016/j.compind.2022.103626},
+  doi       = {10.1016/j.compind.2022.103626},
+  timestamp = {Mon, 04 Jul 2022 17:06:09 +0200},
+  biburl    = {https://dblp.org/rec/journals/cii/GiabelliMMM22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
 
 
 @article{CogComp,
