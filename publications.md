@@ -37,14 +37,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   url       = {https://doi.org/10.24963/ijcai.2022/858},
 }
 
-@article{XAI-survey,
-  title={A Survey on XAI and Natural Language Explanations},
-  author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
-  journal={Information Processing \& Management (to appear)},
-  year={2022},
-  publisher={Elsevier}
+@article{XAIsurvey,
+title = {A survey on XAI and natural language explanations},
+journal = {Information Processing & Management},
+volume = {60},
+number = {1},
+pages = {103111},
+year = {2023},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2022.103111},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
+author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani}
 }
-
 @article{ConvXAI,
   title={ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer},
   author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
