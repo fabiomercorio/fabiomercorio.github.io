@@ -23,6 +23,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @article{XAIsurvey,
+author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
 title = {A survey on XAI and natural language explanations},
 journal = {Information Processing \& Management},
 volume = {60},
@@ -32,7 +33,6 @@ year = {2023},
 issn = {0306-4573},
 doi = {https://doi.org/10.1016/j.ipm.2022.103111},
 url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
-author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani}
 }
 
 @inproceedings{ijcai2022-858,
