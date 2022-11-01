@@ -89,7 +89,7 @@ keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware dec
                Lorenzo Malandri and
                Fabio Mercorio and
                Mario Mezzanzanica},
-  title     = {WETA: Automatic taxonomy alignment via word embeddings},
+  title     = { {WETA: Automatic taxonomy alignment via word embeddings},
   journal   = {Comput. Ind.},
   volume    = {138},
   pages     = {103626},
@@ -211,7 +211,7 @@ year="2021"
                Fabio Mercorio and
                Mario Mezzanzanica and
                Andrea Seveso},
-  title     = {{NEO:} {A} System for Identifying New Emerging Occupation from Job
+  title     = { {NEO}: {A} System for Identifying New Emerging Occupation from Job
                Ads},
   booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
                2021, Thirty-Third Conference on Innovative Applications of Artificial
@@ -219,7 +219,7 @@ year="2021"
                in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
                2021},
   pages     = {16035--16037},
-  publisher = {{AAAI} Press},
+  publisher = {AAAI Press},
   year      = {2021},
   url       = {https://ojs.aaai.org/index.php/AAAI/article/view/18004},
   timestamp = {Mon, 07 Jun 2021 11:46:04 +0200},
