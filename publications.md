@@ -52,14 +52,14 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 
 
 
-@article{ConvXAI,
-  title={ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer},
-  author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
-  journal={Cognitive Computation (to appear)},
+@article{convxai,
+  title={ConvXAI: a System for Multimodal Interaction with Any Black-box Explainer},
+  author={Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid},
+  journal={Cognitive Computation},
+  pages={1--32},
   year={2022},
   publisher={Springer}
 }
-
 @article{FFtree2022,
 title = {FFTree: A flexible tree to handle multiple fairness criteria},
 journal = {Information Processing & Management},
