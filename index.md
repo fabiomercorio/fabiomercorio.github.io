@@ -16,7 +16,7 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2022-23 Events I’m involved in
-- [AAAI-23](https://aaai.org/Conferences/AAAI-23) Senior PC
+- [AAAI-23](https://aaai.org/Conferences/AAAI-23) PC
 - [AIxIA-22](https://aixia2022.uniud.it/call-for-papers) Sponsorhip-chair
 - [CIKM-22](https://www.cikm2022.org/) PC
 - [EMNLP-22](https://2022.emnlp.org/) PC
@@ -52,12 +52,14 @@ I am Associate Professor in Computer Science at [University of Milan-Bicocca](ht
 #### Research team AI@CRISP-UNIMIB  
 _"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and researchers of our team
 - [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Reseacher in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
+- [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Industrial PhD Student in XAI (Digital Attitude), Dept of Informatics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PhD Student, Dept of Informatics at Unimib 
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
 - [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student in XAI for Finance (Intesa San Paolo), Dept of Informatics at Unimib 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
+- Alessia De Santo, PhD Student in Big Data Analytics for Business 
 
 #### (Co)-Developed Tools for Researchers
 - [*ContrXT*](http://contrxt.ai) is a model agnostic, global, time contrastive explainer for any text classifier. It is available as a python tool on Github. Related papers: [*[Information-Fusion-22]*](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author)
