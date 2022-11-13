@@ -35,6 +35,24 @@ doi = {https://doi.org/10.1016/j.ipm.2022.103111},
 url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 }
 
+@Inbook{Mezzanzanica2020,
+author="Mezzanzanica, Mario
+and Mercorio, Fabio",
+editor="Zomaya, Albert
+and Taheri, Javid
+and Sakr, Sherif",
+title="Big Data as Fuel of Skill Intelligence",
+bookTitle="Encyclopedia of Big Data Technologies",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="1--14",
+isbn="978-3-319-63962-8",
+doi="10.1007/978-3-319-63962-8_276-2",
+url="https://doi.org/10.1007/978-3-319-63962-8_276-2"
+}
+
+
 @inproceedings{ijcai2022-858,
   title     = {The Good, the Bad, and the Explainer: A Tool for Contrastive Explanations of Text Classifiers},
   author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Seveso, Andrea},
