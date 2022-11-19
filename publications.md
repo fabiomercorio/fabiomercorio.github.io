@@ -35,6 +35,18 @@ doi = {https://doi.org/10.1016/j.ipm.2022.103111},
 url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 }
 
+@ARTICLE{Guo202211,
+	author = {Guo, Yuchen and Langer, Christina and Mercorio, Fabio and Trentini, Francesco},
+	title = {Skills Mismatch, Automation, and Training: Evidence from 17 European Countries Using Survey Data and Online Job Ads},
+	year = {2022},
+	journal = {CESifo Forum},
+	volume = {23},
+	number = {5},
+	pages = {11 – 15},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141179931&partnerID=40&md5=35bc2b2cd2e622ad47533b7fa0adc699},
+	type = {Article}
+}
+
 @Inbook{Mezzanzanica2020,
 author="Mezzanzanica, Mario
 and Mercorio, Fabio",
