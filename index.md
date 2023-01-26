@@ -7,7 +7,7 @@ readtime: true
 js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
-- <span style="color:MediumSeaGreen">``Position``</span> Glad to be the new director of Unimib Master in BI and Big Data Analytics, the call for application for the 12nd edition is going to be published soon! [stay tuned](https://bimasterbicocca.it/)
+- ``Position`` Glad to be the new director of Unimib Master in BI and Big Data Analytics, the call for application for the 12nd edition is going to be published soon! [stay tuned](https://bimasterbicocca.it/)
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"FFTree: A Flexible Tree to Handle Multiple Fairness Criteria"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> New paper _"A Survey on XAI and Natural Language Explanations"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
