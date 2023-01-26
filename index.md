@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fabio Mercorio
-subtitle: 'Associate Professor of Computer Science - University of Milano-Bicocca, Italy'
+subtitle: 'Associate Professor of Data Science and Artificial Intelligence - University of Milano-Bicocca, Italy'
 published: true
 readtime: true
 js: /js/counter.js
@@ -31,7 +31,6 @@ js: /js/counter.js
 - [IJCAI-22 Survey Track](https://ijcai-22.org/calls-survey/) Program Committee
 - [ICAPS-22](http://icaps22.icaps-conference.org/) Program Committee
 - [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
-- [Big Data Analytics - Course Executive](https://www.bdaexecutive.it/) (lecturer)
 
 ### About
 I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
@@ -45,7 +44,7 @@ I am Associate Professor in Computer Science at [University of Milan-Bicocca](ht
 ####  Past Positions
 - [2016-Nov2021] **Assistant Professor**  at University of Milan-Bicocca
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now part of the EMSI-BurningGlass Group
+- [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now LightCast
 - [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
 
 #### My research interests include
