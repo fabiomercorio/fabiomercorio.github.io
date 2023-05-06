@@ -82,14 +82,24 @@ url="https://doi.org/10.1007/978-3-319-63962-8_276-2"
 
 
 
-@article{convxai,
-  title={ConvXAI: a System for Multimodal Interaction with Any Black-box Explainer},
-  author={Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid},
-  journal={Cognitive Computation},
-  pages={1--32},
-  year={2022},
-  publisher={Springer}
+@article{DBLP:journals/cogcom/MalandriMMN23,
+  author       = {Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica and
+                  Navid Nobani},
+  title        = {ConvXAI: a System for Multimodal Interaction with Any Black-box Explainer},
+  journal      = {Cogn. Comput.},
+  volume       = {15},
+  number       = {2},
+  pages        = {613--644},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/s12559-022-10067-7},
+  doi          = {10.1007/s12559-022-10067-7},
+  timestamp    = {Thu, 04 May 2023 20:29:30 +0200},
+  biburl       = {https://dblp.org/rec/journals/cogcom/MalandriMMN23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
 @article{FFtree2022,
 title = {FFTree: A flexible tree to handle multiple fairness criteria},
 journal = {Information Processing & Management},
