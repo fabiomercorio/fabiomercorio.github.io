@@ -7,7 +7,7 @@ readtime: true
 js: /js/counter.js
 ---
 ### <span style="color:#c7254e">``News``</span> 
-- ``Position`` Glad to be the new director of Unimib Master in BI and Big Data Analytics, the call for application for the 12nd edition is going to be published soon! [stay tuned](https://bimasterbicocca.it/)
+- ``Position`` Glad to be the new director of [Unimib Master in BI and Big Data Analytics](https://bimasterbicocca.it/)
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"FFTree: A Flexible Tree to Handle Multiple Fairness Criteria"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> New paper _"A Survey on XAI and Natural Language Explanations"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
@@ -17,6 +17,7 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2022-23 Events I’m involved in
+- [CIKM-23]([https://sites.google.com/view/xai2023/home?pli=1](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls)) PC
 - [IJCAI-XAI-23](https://sites.google.com/view/xai2023/home?pli=1) PC
 - [ECML-PKDD-23](https://2023.ecmlpkdd.org/) PC
 - [IJCAI-23 (survey track)](https://ijcai-23.org/) PC
@@ -31,8 +32,6 @@ js: /js/counter.js
 - [AAAI-XAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
 - [NAACL-22](https://2021.naacl.org/) Program Committee
 - [IJCAI-22 Survey Track](https://ijcai-22.org/calls-survey/) Program Committee
-- [ICAPS-22](http://icaps22.icaps-conference.org/) Program Committee
-- [BI&Big Data Analytics](http://www.bimasterbicocca.it/) (lecturer)
 
 ### About
 I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
