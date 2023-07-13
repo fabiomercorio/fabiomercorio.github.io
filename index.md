@@ -17,8 +17,9 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our 2022 publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant 2022-23 Events I’m involved in
-- [CIKM-23]([https://sites.google.com/view/xai2023/home?pli=1](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls)) PC
+### Relevant Events I’m involved in
+- [AAAI-24](https://aaai.org/aaai-conference/) PC
+- [CIKM-23](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls)) PC
 - [IJCAI-XAI-23](https://sites.google.com/view/xai2023/home?pli=1) PC
 - [ECML-PKDD-23](https://2023.ecmlpkdd.org/) PC
 - [IJCAI-23 (survey track)](https://ijcai-23.org/) PC
