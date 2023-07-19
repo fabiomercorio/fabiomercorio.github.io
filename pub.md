@@ -1096,7 +1096,6 @@ keywords = {Big Data, Labour Market Intelligence, Web Job Vacancy},
 pages = {31--44}
 }
 
-
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"> </script> <script type="text/javascript" src="https://fabiomercorio.github.io/bib-list.js"> </script> <script type="text/javascript" src="https://fabiomercorio.github.io/run.js"> </script>
 The source bibtex list is rendered using vkaravir's bib-publication-list.
 
