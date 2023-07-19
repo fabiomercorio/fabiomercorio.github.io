@@ -22,6 +22,17 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@article{MERLIN,
+title = {Model-contrastive explanations through symbolic reasoning},
+journal = {Decision Support Systems},
+pages = {114040},
+year = {2023},
+issn = {0167-9236},
+doi = {https://doi.org/10.1016/j.dss.2023.114040},
+url = {https://www.sciencedirect.com/science/article/pii/S016792362300115X},
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
+keywords = {eXplainable AI, Contrastive explanation methods for XAI, Post-hoc explainability, XAI Interpretability}
+
 @article{XAIsurvey,
 author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
 title = {A survey on XAI and natural language explanations},
