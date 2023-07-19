@@ -30,8 +30,8 @@ year = {2023},
 issn = {0167-9236},
 doi = {https://doi.org/10.1016/j.dss.2023.114040},
 url = {https://www.sciencedirect.com/science/article/pii/S016792362300115X},
-author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-keywords = {eXplainable AI, Contrastive explanation methods for XAI, Post-hoc explainability, XAI Interpretability}
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso}
+}
 
 @article{XAIsurvey,
 author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
