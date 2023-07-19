@@ -35,6 +35,28 @@ doi = {https://doi.org/10.1016/j.ipm.2022.103111},
 url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 }
 
+@inproceedings{DBLP:conf/bias/AlimondaCCMM23,
+  author       = {Nicola Alimonda and
+                  Alessandro Castelnovo and
+                  Riccardo Crupi and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica},
+  title        = {Preserving Utility in Fair Top-k Ranking with Intersectional Bias},
+  booktitle    = {Advances in Bias and Fairness in Information Retrieval - 4th International
+                  Workshop, {BIAS} 2023, Dublin, Ireland, April 2, 2023, Revised Selected
+                  Papers},
+  series       = {Communications in Computer and Information Science},
+  volume       = {1840},
+  pages        = {59--73},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-37249-0\_5},
+  doi          = {10.1007/978-3-031-37249-0\_5},
+  timestamp    = {Tue, 18 Jul 2023 17:49:11 +0200},
+  biburl       = {https://dblp.org/rec/conf/bias/AlimondaCCMM23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
 @ARTICLE{Guo202211,
 	author = {Guo, Yuchen and Langer, Christina and Mercorio, Fabio and Trentini, Francesco},
 	title = {Skills Mismatch, Automation, and Training: Evidence from 17 European Countries Using Survey Data and Online Job Ads},
