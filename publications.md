@@ -22,43 +22,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@article{MERLIN,
-title = {Model-contrastive explanations through symbolic reasoning},
-journal = {Decision Support Systems},
-pages = {114040},
-year = {2023},
-issn = {0167-9236},
-doi = {https://doi.org/10.1016/j.dss.2023.114040},
-url = {https://www.sciencedirect.com/science/article/pii/S016792362300115X},
-author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-keywords = {eXplainable AI, Contrastive explanation methods for XAI, Post-hoc explainability, XAI Interpretability}
-
-@inproceedings{DBLP:conf/bias/AlimondaCCMM23,
-  author       = {Nicola Alimonda and
-                  Alessandro Castelnovo and
-                  Riccardo Crupi and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica},
-  editor       = {Ludovico Boratto and
-                  Stefano Faralli and
-                  Mirko Marras and
-                  Giovanni Stilo},
-  title        = {Preserving Utility in Fair Top-k Ranking with Intersectional Bias},
-  booktitle    = {Advances in Bias and Fairness in Information Retrieval - 4th International
-                  Workshop, {BIAS} 2023, Dublin, Ireland, April 2, 2023, Revised Selected
-                  Papers},
-  series       = {Communications in Computer and Information Science},
-  volume       = {1840},
-  pages        = {59--73},
-  publisher    = {Springer},
-  year         = {2023},
-  url          = {https://doi.org/10.1007/978-3-031-37249-0\_5},
-  doi          = {10.1007/978-3-031-37249-0\_5},
-  timestamp    = {Tue, 18 Jul 2023 17:49:11 +0200},
-  biburl       = {https://dblp.org/rec/conf/bias/AlimondaCCMM23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
 @article{XAIsurvey,
 author = {Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
 title = {A survey on XAI and natural language explanations},
