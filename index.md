@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Fabio Mercorio
-subtitle: 'Associate Professor of Data Science and Artificial Intelligence - University of Milano-Bicocca, Italy'
+subtitle: >-
+  Associate Professor of Data Science and Artificial Intelligence - University
+  of Milano-Bicocca, Italy
 published: true
 readtime: true
 js: /js/counter.js
@@ -19,7 +21,7 @@ js: /js/counter.js
 
 ### Relevant Events I’m involved in
 - [AAAI-24](https://aaai.org/aaai-conference/) PC
-- [CIKM-23](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls)) PC
+- [CIKM-23](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls) PC
 - [IJCAI-XAI-23](https://sites.google.com/view/xai2023/home?pli=1) PC
 - [ECML-PKDD-23](https://2023.ecmlpkdd.org/) PC
 - [IJCAI-23 (survey track)](https://ijcai-23.org/) PC
