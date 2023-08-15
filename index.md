@@ -27,7 +27,7 @@ js: /js/counter.js
 - [AAAI-23](https://aaai.org/Conferences/AAAI-23) PC
 
 ### About
-I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
+I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm deputy director of the [CRISP Research Centre](https://www.crisp-org.it/) and director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/), both at University of Milano-Bicocca, Italy.
 
 #### Current Positions
 + [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
