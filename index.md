@@ -19,23 +19,15 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our 2022 publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant Events I’m involved in
+### Relevant 23/24 Events I’m involved in
 - [AAAI-24](https://aaai.org/aaai-conference/) PC
+- [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) PC
 - [CIKM-23](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls) PC
 - [IJCAI-XAI-23](https://sites.google.com/view/xai2023/home?pli=1) PC
 - [ECML-PKDD-23](https://2023.ecmlpkdd.org/) PC
 - [IJCAI-23 (survey track)](https://ijcai-23.org/) PC
 - [ACL-23](https://2023.aclweb.org/calls/industry_track/) PC
 - [AAAI-23](https://aaai.org/Conferences/AAAI-23) PC
-- [AIxIA-22](https://aixia2022.uniud.it/call-for-papers) Sponsorhip-chair
-- [CIKM-22](https://www.cikm2022.org/) PC
-- [EMNLP-22](https://2022.emnlp.org/) PC
-- [AAAI-22](https://aaai.org/Conferences/AAAI-22) Senior PC
-- [IJCAI-XAI-22](https://sites.google.com/view/xai2022/home) Program Committee
-- [ECML-PKDD-22](https://2022.ecmlpkdd.org/) Program Committee
-- [AAAI-XAI-22](https://aaai.org/Conferences/AAAI-22) Program Committee
-- [NAACL-22](https://2021.naacl.org/) Program Committee
-- [IJCAI-22 Survey Track](https://ijcai-22.org/calls-survey/) Program Committee
 
 ### About
 I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/), and deputy director of the [CRISP Research Centre](https://www.crisp-org.it/), Italy.
@@ -70,6 +62,7 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
 
 #### (Co)-Developed Tools for Researchers
+- [*MERLIN*](https://github.com/Crisp-Unimib/MERLIN) is a global, model-agnostic, contrastive explainer for any tabular or text classifier. It provides contrastive explanations of how the behaviour of two machine learning models differs. It is available as a python tool on Github. Related papers: [*[Decision Support Systems 2023]*](https://www.sciencedirect.com/science/article/pii/S016792362300115X)
 - [*ContrXT*](http://contrxt.ai) is a model agnostic, global, time contrastive explainer for any text classifier. It is available as a python tool on Github. Related papers: [*[Information-Fusion-22]*](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author)
 - [*TaxoRef*](https://github.com/Crisp-Unimib/TaxoRef) is a methodology for Taxonomy Refinement via word embeddings. It allows evaluating the best embedding on the basis of their ability to represent taxonomic similarity relations. Related papers: [*[ECML-PKDD-21]*](https://link.springer.com/chapter/10.1007%2F978-3-030-86523-8_37)
 - [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses. Related papers: [*[ECML-PKDD-19]*](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46), [*[MTAP-18]*](https://link.springer.com/article/10.1007%2Fs11042-017-5503-2)
