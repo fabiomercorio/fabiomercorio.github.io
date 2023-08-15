@@ -11,12 +11,9 @@ js: /js/counter.js
 ### <span style="color:#c7254e">``News``</span> 
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned! 
 - ``Position`` Glad to be the new director of [Unimib Master in BI and Big Data Analytics](https://bimasterbicocca.it/)
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"FFTree: A Flexible Tree to Handle Multiple Fairness Criteria"_ accepted on IPM journal - special issue on XAI
-- <span style="color:MediumSeaGreen">``Publication``</span> New paper _"A Survey on XAI and Natural Language Explanations"_ accepted on IPM journal - special issue on XAI
+- <span style="color:MediumSeaGreen">``Publication``</span> <span - <span style="color:MediumSeaGreen">``Publication``</span> New paper _"A Survey on XAI and Natural Language Explanations"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT presented at IJCAI-22. [Check it out](https://www.ijcai.org/proceedings/2022/858)
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> ContrXT, a model agnostic, global, time contrastive explainer for any text classifier. Published on [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author) and available on [GitHub](http://contrxt.ai) 
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> Check-out our 2022 publications on [Knowledge Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705121011394), [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-021-09987-7), and [Computers in Industry ](https://www.sciencedirect.com/science/article/pii/S0166361522000215) about XAI and word-embedding!
+- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 23/24 Events I’m involved in
