@@ -12,7 +12,6 @@ js: /js/counter.js
 - ``Call for papers`` Our Special Issue on Granular Computing for XAI is now open on [Cognitive Computation](https://www.springer.com/journal/12559/updates/25931758)
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned! 
 - ``Position`` Glad to be the new director of [Unimib Master in BI and Big Data Analytics](https://bimasterbicocca.it/)
-- <span style="color:MediumSeaGreen">``Publication``</span> <span - <span style="color:MediumSeaGreen">``Publication``</span> New paper _"A Survey on XAI and Natural Language Explanations"_ accepted on IPM journal - special issue on XAI
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
