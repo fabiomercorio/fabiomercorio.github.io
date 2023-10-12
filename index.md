@@ -42,8 +42,8 @@ I am Associate Professor in Computer Science at [University of Milan-Bicocca](ht
 - [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
 
 #### My research interests include
-- *Artificial Intelligence:* eXplainable AI, interpretable models, local and global interpretation, explanation through symbolic approaches
-- *Data Science:* data quality and data cleaning, vector-space models, word-embeddings, ontology learning, Graph-database algorithms 
+- *Artificial Intelligence*: eXplainable AI, interpretable models, local and global interpreta- tion, explanation through symbolic approaches, fairness.
+- *Data Science*: Big Data Analytics, ontology Learning, word embedding evaluation, Large Language Models
 - *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
 
 #### Research team AI@CRISP-UNIMIB  
