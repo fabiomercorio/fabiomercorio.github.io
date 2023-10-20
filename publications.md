@@ -22,6 +22,26 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@InProceedings{10.1007/978-3-031-44070-0_17,
+author="Castelnovo, Alessandro
+and Inverardi, Nicole
+and Malandri, Lorenzo
+and Mercorio, Fabio
+and Mezzanzanica, Mario
+and Seveso, Andrea",
+editor="Longo, Luca",
+title="Leveraging Group Contrastive Explanations for Handling Fairness",
+booktitle="Explainable Artificial Intelligence",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="332--345",
+abstract="With the increasing adoption of Artificial Intelligence (AI) for decision-making processes by companies, developing systems that behave fairly and do not discriminate against specific groups of people becomes crucial. Reaching this objective requires a multidisciplinary approach that includes domain experts, data scientists, philosophers, and legal experts, to ensure complete accountability for algorithmic decisions. In such a context, Explainable AI (XAI) plays a key role in enabling professionals from different backgrounds to comprehend the functioning of automatized decision-making processes and, consequently, being able to identify the presence of fairness issues. This paper presents FairX, an innovative approach that uses Group-Contrastive (G-contrast) explanations to estimate whether different decision criteria apply among distinct population subgroups. FairX provides actionable insights through a comprehensive explanation of the decision-making process, enabling businesses to: detect the presence of direct discrimination on the target variable and choose the most appropriate fairness framework.",
+isbn="978-3-031-44070-0"
+}
+
+
+
 @article{MERLIN,
 title = {Model-contrastive explanations through symbolic reasoning},
 journal = {Decision Support Systems},
