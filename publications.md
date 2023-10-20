@@ -23,13 +23,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @InProceedings{10.1007/978-3-031-44070-0_17,
-author="Castelnovo, Alessandro
-and Inverardi, Nicole
-and Malandri, Lorenzo
-and Mercorio, Fabio
-and Mezzanzanica, Mario
-and Seveso, Andrea",
-editor="Longo, Luca",
+author="Alessandro Castelnovo and Nicole Inverardi and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso",
 title="Leveraging Group Contrastive Explanations for Handling Fairness",
 booktitle="Explainable Artificial Intelligence",
 year="2023",
