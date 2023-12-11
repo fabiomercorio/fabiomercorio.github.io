@@ -35,6 +35,13 @@ isbn="978-3-031-44070-0"
 }
 
 
+@article{vec2best,
+title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings},
+journal = {Cognitive Computation (to appear)},
+year = {2024},
+author = {Roberto Ascari and Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica}
+}
+
 
 @article{MERLIN,
 title = {Model-contrastive explanations through symbolic reasoning},
@@ -58,6 +65,28 @@ year = {2023},
 issn = {0306-4573},
 doi = {https://doi.org/10.1016/j.ipm.2022.103111},
 url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
+}
+
+@inproceedings{DBLP:conf/ic3k/DAmicoMMM23,
+  author       = {Simone D'Amico and
+                  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica},
+  editor       = {Ana L. N. Fred and
+                  Frans Coenen and
+                  Jorge Bernardino},
+  title        = {{KRAKEN:} {A} Novel Semantic-Based Approach for Keyphrases Extraction},
+  booktitle    = {Proceedings of the 15th International Joint Conference on Knowledge
+                  Discovery, Knowledge Engineering and Knowledge Management, {IC3K}
+                  2023, Volume 1: KDIR, Rome, Italy, November 13-15, 2023},
+  pages        = {289--297},
+  publisher    = {{SCITEPRESS}},
+  year         = {2023},
+  url          = {https://doi.org/10.5220/0012179500003598},
+  doi          = {10.5220/0012179500003598},
+  timestamp    = {Fri, 08 Dec 2023 12:38:46 +0100},
+  biburl       = {https://dblp.org/rec/conf/ic3k/DAmicoMMM23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 @inproceedings{DBLP:conf/bias/AlimondaCCMM23,
