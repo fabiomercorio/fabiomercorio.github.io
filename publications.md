@@ -47,12 +47,15 @@ isbn="978-3-031-44070-0"
 @article{MERLIN,
 title = {Model-contrastive explanations through symbolic reasoning},
 journal = {Decision Support Systems},
+volume = {176},
 pages = {114040},
 year = {2024},
 issn = {0167-9236},
 doi = {https://doi.org/10.1016/j.dss.2023.114040},
 url = {https://www.sciencedirect.com/science/article/pii/S016792362300115X},
-author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso}
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
+keywords = {eXplainable AI, Contrastive explanation methods for XAI, Post-hoc explainability, XAI Interpretability},
+abstract = {Explaining how two machine learning classification models differ in their behaviour is gaining significance in eXplainable AI, given the increasing diffusion of learning-based decision support systems. Human decision-makers deal with more than one machine learning model in several practical situations. Consequently, the importance of understanding how two machine learning models work beyond their prediction performances is key to understanding their behaviour, differences, and likeness. Some attempts have been made to address these problems, for instance, by explaining text classifiers in a time-contrastive fashion. In this paper, we present MERLIN, a novel eXplainable AI approach that provides contrastive explanations of two machine learning models, introducing the concept of model-contrastive explanations. We propose an encoding that allows MERLIN to work with both text and tabular data and with mixed continuous and discrete features. To show the effectiveness of our approach, we evaluate it on an extensive set of benchmark datasets. MERLIN is also implemented as a python-pip package.}
 }
 
 @article{XAIsurvey,
