@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@article{vec2best,
+title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings},
+journal = {Cognitive Computation (to appear)},
+year = {2024},
+author = {Roberto Ascari and Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica}
+}
+
  
 @InProceedings{10.1007/978-3-031-44070-0_17,
 author="Alessandro Castelnovo and Nicole Inverardi and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso",
@@ -34,6 +41,7 @@ pages="332--345",
 abstract="With the increasing adoption of Artificial Intelligence (AI) for decision-making processes by companies, developing systems that behave fairly and do not discriminate against specific groups of people becomes crucial. Reaching this objective requires a multidisciplinary approach that includes domain experts, data scientists, philosophers, and legal experts, to ensure complete accountability for algorithmic decisions. In such a context, Explainable AI (XAI) plays a key role in enabling professionals from different backgrounds to comprehend the functioning of automatized decision-making processes and, consequently, being able to identify the presence of fairness issues. This paper presents FairX, an innovative approach that uses Group-Contrastive (G-contrast) explanations to estimate whether different decision criteria apply among distinct population subgroups. FairX provides actionable insights through a comprehensive explanation of the decision-making process, enabling businesses to: detect the presence of direct discrimination on the target variable and choose the most appropriate fairness framework.",
 isbn="978-3-031-44070-0"
 }
+
 
 
 @article{MERLIN,
@@ -68,7 +76,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
   editor       = {Ana L. N. Fred and
                   Frans Coenen and
                   Jorge Bernardino},
-  title        = {{KRAKEN:} {A} Novel Semantic-Based Approach for Keyphrases Extraction},
+  title        = {{KRAKEN:} A Novel Semantic-Based Approach for Keyphrases Extraction},
   booktitle    = {Proceedings of the 15th International Joint Conference on Knowledge
                   Discovery, Knowledge Engineering and Knowledge Management, {IC3K}
                   2023, Volume 1: KDIR, Rome, Italy, November 13-15, 2023},
