@@ -21,7 +21,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <table id="pubTable" class="display">
 </table>
 <pre id="bibtex" style="display:none;">
-
 @InProceedings{10.1007/978-3-031-44070-0_17,
 author="Alessandro Castelnovo and Nicole Inverardi and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso",
 title="Leveraging Group Contrastive Explanations for Handling Fairness",
