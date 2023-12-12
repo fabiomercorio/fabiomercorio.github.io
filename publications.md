@@ -73,21 +73,13 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
                   Lorenzo Malandri and
                   Fabio Mercorio and
                   Mario Mezzanzanica},
-  editor       = {Ana L. N. Fred and
-                  Frans Coenen and
-                  Jorge Bernardino},
-  title        = {{KRAKEN:} A Novel Semantic-Based Approach for Keyphrases Extraction},
+  title        = {KRAKEN: A Novel Semantic-Based Approach for Keyphrases Extraction},
   booktitle    = {Proceedings of the 15th International Joint Conference on Knowledge
-                  Discovery, Knowledge Engineering and Knowledge Management, {IC3K}
-                  2023, Volume 1: KDIR, Rome, Italy, November 13-15, 2023},
+                  Discovery, Knowledge Engineering and Knowledge Management},
   pages        = {289--297},
-  publisher    = {{SCITEPRESS}},
   year         = {2023},
   url          = {https://doi.org/10.5220/0012179500003598},
-  doi          = {10.5220/0012179500003598},
-  timestamp    = {Fri, 08 Dec 2023 12:38:46 +0100},
-  biburl       = {https://dblp.org/rec/conf/ic3k/DAmicoMMM23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  doi          = {10.5220/0012179500003598}
 }
 
 @inproceedings{DBLP:conf/bias/AlimondaCCMM23,
