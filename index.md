@@ -59,6 +59,8 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
+- Antonio Serino, PhD Student in Big Data Analytics for Business 
+- Daniele Poterrtì, PhD Student in Big Data Analytics for Business 
 
 #### (Co)-Developed Tools for Researchers
 - [*MERLIN*](https://github.com/Crisp-Unimib/MERLIN) is a global, model-agnostic, contrastive explainer for any tabular or text classifier. It provides contrastive explanations of how the behaviour of two machine learning models differs. It is available as a python tool on Github. Related papers: [*[Decision Support Systems 2023]*](https://www.sciencedirect.com/science/article/pii/S016792362300115X)
