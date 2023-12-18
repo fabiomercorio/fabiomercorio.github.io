@@ -33,11 +33,11 @@ I am Associate Professor in Computer Science at [University of Milan-Bicocca](ht
 
 #### Current Positions
 + [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
-+ [2020-present] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
 + [2022-present] **Director** of the [Bicocca's Master in BI and Big Data Analytics](https://bimasterbicocca.it/), Italy
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
++ [2020-Ago2023] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
 - [2016-Nov2021] **Assistant Professor**  at University of Milan-Bicocca
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
 - [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now LightCast
