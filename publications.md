@@ -24,8 +24,9 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 @article{vec2best,
 title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings},
-journal = {Cognitive Computation (to appear)},
+journal = {Cognitive Computation},
 year = {2024},
+doi = {https://doi.org/10.1007/s12559-023-10235-3},
 author = {Roberto Ascari and Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica}
 }
 
