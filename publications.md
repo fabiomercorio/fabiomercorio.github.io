@@ -22,6 +22,14 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+
+@article{sense,
+title = {SeNSe: Embedding Alignment via Semantic Anchors Selection},
+journal = {Journal of Data Science and Analytics (to appear)},
+year = {2024},
+author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini}
+}
+
 @article{vec2best,
 title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings},
 journal = {Cognitive Computation},
