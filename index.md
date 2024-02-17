@@ -16,21 +16,16 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant 23/24 Events I’m involved in
+### Relevant 2024 Events I’m involved in
+- [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/) PC
 - [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/) PC
 - [NAACL-24](https://2024.naacl.org/calls/papers/) PC
 - [ICAPS-24](https://icaps24.icaps-conference.org/) PC
 - [AAAI-24](https://aaai.org/aaai-conference/) PC
 - [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) PC
-- [CIKM-23](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls) PC
-- [IJCAI-XAI-23](https://sites.google.com/view/xai2023/home?pli=1) PC
-- [ECML-PKDD-23](https://2023.ecmlpkdd.org/) PC
-- [IJCAI-23 (survey track)](https://ijcai-23.org/) PC
-- [ACL-23](https://2023.aclweb.org/calls/industry_track/) PC
-- [AAAI-23](https://aaai.org/Conferences/AAAI-23) PC
 
 ### About
-I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm deputy director of the [CRISP Research Centre](https://www.crisp-org.it/) and director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/), both at University of Milano-Bicocca, Italy.
+I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
 
 #### Current Positions
 + [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
