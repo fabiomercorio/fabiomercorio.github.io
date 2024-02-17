@@ -35,6 +35,7 @@ title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embedding
 journal = {Cognitive Computation},
 year = {2024},
 doi = {https://doi.org/10.1007/s12559-023-10235-3},
+url = {https://doi.org/10.1007/s12559-023-10235-3},
 author = {Roberto Ascari and Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica}
 }
 
