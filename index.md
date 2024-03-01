@@ -2,8 +2,8 @@
 layout: page
 title: Fabio Mercorio
 subtitle: >-
-  Associate Professor of Data Science and Artificial Intelligence - University
-  of Milano-Bicocca, Italy
+  Full Professor of Data Science and Artificial Intelligence - University of
+  Milano-Bicocca, Italy
 published: true
 readtime: true
 js: /js/counter.js
