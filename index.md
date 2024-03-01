@@ -81,20 +81,18 @@ I have been working on the following granted reserch projects, that allow me put
 Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for further details
 
 #### Awards
-- [2021]  **ASN - Full Professor in Computer Engineering** National Scientific Qualification for the position of *Full Professor in Computer Science*, ANVUR
 - [2019]  **Research Talent Award** I've received the first prize at the [YoungTalentAward 2019](https://www.unimib.it/ricerca/finanziamenti/finanziamenti-ateneo/premio-giovani-talenti) in collaboration with Accademia Nazionale Lincei in the Computer Science, Engineering & Mathematics area. _"for his contribution on applying AI to labour market for describing and predicting labour market phenomena"_
-- [2018]  **ASN - Associate Professor in Computer Science** National Scientific Qualification for the position of *Associate Professor in Computer Science*, ANVUR
 - [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
 - [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
 - [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
 
 #### Service in International Journals (Selection)
 - ([AICom](https://www.aicommunications.eu/)) *Associate Editor* of AI Communications   
-Reviewer for:
+Reviewer for (selection):
 - Artificial Intelligence
+- Cognitive Computation
 - Applied Soft Computing
 - Applied Intelligence
-- Robotics and Computer-Integrated Manufacturing
 - Future Generation Computer System
 - Knowledge-Based Systems
 - Computers in Industry
