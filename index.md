@@ -8,7 +8,7 @@ published: true
 readtime: true
 js: /js/counter.js
 ---
-### <span style="color:#c7254e">``News``</span> 
+- ``News`` Glad to be appointed as full professor of computer science at University of Milano-Bicocca! 
 - ``Call for papers`` Our Special Issue on Granular Computing for XAI is now open on [Cognitive Computation](https://www.springer.com/journal/12559/updates/25931758)
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned! 
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
