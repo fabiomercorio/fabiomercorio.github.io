@@ -24,14 +24,15 @@ js: /js/counter.js
 - [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) PC
 
 ### About
-I am Associate Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
+I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
 
 #### Current Positions
-+ [Dec2021-present] **Associate Professor**  at University of Milan-Bicocca
++ [March23-present] **Full Professor**  at University of Milan-Bicocca
 + [2022-present] **Director** of the [Bicocca's Master in BI and Big Data Analytics](https://bimasterbicocca.it/), Italy
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
++ [Dec2021-Feb2024] **Associate Professor**  at University of Milan-Bicocca
 + [2020-Ago2023] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
 - [2016-Nov2021] **Assistant Professor**  at University of Milan-Bicocca
 - [2011-2016] **PostDoc** at University of Milan-Bicocca
