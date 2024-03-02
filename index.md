@@ -17,6 +17,7 @@ js: /js/counter.js
 
 ### Relevant 2024 Events I’m involved in
 - [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/) PC
+- [ECML-PKDD-24](https://2024.ecmlpkdd.org/) PC
 - [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/) PC
 - [NAACL-24](https://2024.naacl.org/calls/papers/) PC
 - [ICAPS-24](https://icaps24.icaps-conference.org/) PC
@@ -27,7 +28,7 @@ js: /js/counter.js
 I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
 
 #### Current Positions
-+ [March23-present] **Full Professor**  at University of Milan-Bicocca
++ [March24-present] **Full Professor**  at University of Milan-Bicocca
 + [2022-present] **Director** of the [Bicocca's Master in BI and Big Data Analytics](https://bimasterbicocca.it/), Italy
 + [2010-present] **Member** of CRISP Research Centre, Milan, Italy
 
@@ -50,8 +51,8 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Researcher on XAI, Dept of Statistics and Quantitative Methods at Unimib 
 - [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD Student, Dept of Informatics at Unimib
-- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), Industrial PhD Student in XAI for Finance (Intesa San Paolo), Dept of Informatics at Unimib 
+- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science
+- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now at Intesa SanPaolo 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
