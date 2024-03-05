@@ -11,16 +11,12 @@ js: /js/counter.js
 - ``News`` Glad to be appointed as full professor of computer science at University of Milano-Bicocca! 
 - ``Call for papers`` Our Special Issue on Granular Computing for XAI is now open on [Cognitive Computation](https://www.springer.com/journal/12559/updates/25931758)
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned!
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/fabio-mercorio/meet-mercorio', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
-<!-- Calendly badge widget end -->
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2024 Events I’m involved in
+- [ECAI-24](https://www.ecai2024.eu/) PC
 - [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/) PC
 - [ECML-PKDD-24](https://2024.ecmlpkdd.org/) PC
 - [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/) PC
@@ -120,6 +116,12 @@ Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)
 Room 2043 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
 Viale dell'Innovazione 10 - Milan - Italy
 Office: (+39) 02 644 82170
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/fabio-mercorio/meet-mercorio', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
 
 
 
