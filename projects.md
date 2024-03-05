@@ -4,7 +4,7 @@ title: Projects
 subtitle: Putting research into practice
 published: true
 ---
-
+``Notice: This content is not updated!``
 
 ## Ongoing Granted Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
