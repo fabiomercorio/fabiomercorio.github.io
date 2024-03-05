@@ -4,6 +4,8 @@ title: Projects
 subtitle: Putting research into practice
 published: true
 ---
+ **_NOTE:_**  The content is not updated.
+
 ## Ongoing Granted Research Projects
 I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice:
 - #### ``H2020``[PILLARS](https://cordis.europa.eu/project/id/101004703). 
