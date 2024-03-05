@@ -10,7 +10,12 @@ js: /js/counter.js
 ---
 - ``News`` Glad to be appointed as full professor of computer science at University of Milano-Bicocca! 
 - ``Call for papers`` Our Special Issue on Granular Computing for XAI is now open on [Cognitive Computation](https://www.springer.com/journal/12559/updates/25931758)
-- ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned! 
+- ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned!
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/fabio-mercorio/meet-mercorio', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
