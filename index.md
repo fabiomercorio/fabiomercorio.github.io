@@ -16,14 +16,15 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2024 Events I’m involved in
-- [ECAI-24](https://www.ecai2024.eu/) PC
-- [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/) PC
-- [ECML-PKDD-24](https://2024.ecmlpkdd.org/) PC
-- [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/) PC
-- [NAACL-24](https://2024.naacl.org/calls/papers/) PC
-- [ICAPS-24](https://icaps24.icaps-conference.org/) PC
-- [AAAI-24](https://aaai.org/aaai-conference/) PC
-- [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) PC
+- [CIKM-24](https://cikm2024.org/)
+- [ECAI-24](https://www.ecai2024.eu/)
+- [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/)
+- [ECML-PKDD-24](https://2024.ecmlpkdd.org/)
+- [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/)
+- [NAACL-24](https://2024.naacl.org/calls/papers/) 
+- [ICAPS-24](https://icaps24.icaps-conference.org/)
+- [AAAI-24](https://aaai.org/aaai-conference/) 
+- [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) 
 
 ### About
 I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
