@@ -15,7 +15,9 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant 2024 Events I’m involved in
+### Relevant events I’m involved in
+- [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
+- [EMNLP-24](https://2024.emnlp.org/calls/industry_track/)
 - [CIKM-24](https://cikm2024.org/)
 - [ECAI-24](https://www.ecai2024.eu/)
 - [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/)
@@ -23,8 +25,6 @@ js: /js/counter.js
 - [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/)
 - [NAACL-24](https://2024.naacl.org/calls/papers/) 
 - [ICAPS-24](https://icaps24.icaps-conference.org/)
-- [AAAI-24](https://aaai.org/aaai-conference/) 
-- [EMNLP-24](https://2023.emnlp.org/calls/industry_track/) 
 
 ### About
 I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
@@ -53,13 +53,14 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Researcher on XAI, Dept of Statistics and Quantitative Methods at Unimib 
 - [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science
-- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now at Intesa SanPaolo 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
 - Antonio Serino, PhD Student in Big Data Analytics for Business 
 - Daniele Poterrtì, PhD Student in Big Data Analytics for Business 
+##### Past members
+- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science
+- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now at Intesa SanPaolo 
 
 #### (Co)-Developed Tools for Researchers
 - [*MERLIN*](https://github.com/Crisp-Unimib/MERLIN) is a global, model-agnostic, contrastive explainer for any tabular or text classifier. It provides contrastive explanations of how the behaviour of two machine learning models differs. It is available as a python tool on Github. Related papers: [*[Decision Support Systems 2023]*](https://www.sciencedirect.com/science/article/pii/S016792362300115X)
