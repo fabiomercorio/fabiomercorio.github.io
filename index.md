@@ -9,7 +9,6 @@ readtime: true
 js: /js/counter.js
 ---
 - ``News`` Glad to be appointed as full professor of computer science at University of Milano-Bicocca! 
-- ``Call for papers`` Our Special Issue on Granular Computing for XAI is now open on [Cognitive Computation](https://www.springer.com/journal/12559/updates/25931758)
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned!
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
