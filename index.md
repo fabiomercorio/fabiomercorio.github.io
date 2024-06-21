@@ -52,6 +52,7 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Researcher on XAI, Dept of Statistics and Quantitative Methods at Unimib 
 - [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
+- Anna Velyka, PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
