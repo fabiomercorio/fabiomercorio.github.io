@@ -49,20 +49,40 @@ isbn="978-3-031-44070-0"
 
 
 
-@article{sense,
-title = {SeNSe: Embedding Alignment via Semantic Anchors Selection},
-journal = {Journal of Data Science and Analytics (to appear)},
-year = {2024},
-author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini}
+@article{DBLP:journals/dss/MalandriMMS24,
+  author       = {Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica and
+                  Andrea Seveso},
+  title        = {Model-contrastive explanations through symbolic reasoning},
+  journal      = {Decis. Support Syst.},
+  volume       = {176},
+  pages        = {114040},
+  year         = {2024},
+  url          = {https://doi.org/10.1016/j.dss.2023.114040},
+  doi          = {10.1016/J.DSS.2023.114040},
+  timestamp    = {Sat, 08 Jun 2024 13:15:24 +0200},
+  biburl       = {https://dblp.org/rec/journals/dss/MalandriMMS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@article{vec2best,
-title = {A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings},
-journal = {Cognitive Computation},
-year = {2024},
-doi = {https://doi.org/10.1007/s12559-023-10235-3},
-url = {https://doi.org/10.1007/s12559-023-10235-3},
-author = {Roberto Ascari and Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica}
+@article{DBLP:journals/cogcom/AscariGMMM24,
+  author       = {Roberto Ascari and
+                  Anna Giabelli and
+                  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica},
+  title        = {A Fistful of Vectors: {A} Tool for Intrinsic Evaluation of Word Embeddings},
+  journal      = {Cogn. Comput.},
+  volume       = {16},
+  number       = {3},
+  pages        = {949--963},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/s12559-023-10235-3},
+  doi          = {10.1007/S12559-023-10235-3},
+  timestamp    = {Wed, 19 Jun 2024 08:52:47 +0200},
+  biburl       = {https://dblp.org/rec/journals/cogcom/AscariGMMM24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
  
