@@ -23,6 +23,17 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@misc{mercorio2024disceautdeficereevaluating,
+      title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark}, 
+      author={Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
+      year={2024},
+      eprint={2406.17535},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.17535}, 
+}
+
+
 @InProceedings{10.1007/978-3-031-44070-0_17,
 author="Castelnovo, Alessandro and Inverardi, Nicole and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
 editor="Longo, Luca",
