@@ -23,6 +23,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@misc{mercorio2024disce,
+  title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark},
+  author={Mercorio, Fabio and Mezzanzanica, Mario and Potert{\`\i}, Daniele and Serino, Antonio and Seveso, Andrea},
+  journal={arXiv preprint arXiv:2406.17535},
+  year={2024}
+}
+
 @misc{mercorio2024disceautdeficereevaluating,
       title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark}, 
       author={Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
