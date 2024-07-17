@@ -22,6 +22,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+
+@article{malandri2024sense,
+  title={SeNSe: embedding alignment via semantic anchors selection},
+  author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
+  journal={International Journal of Data Science and Analytics},
+  pages={1--15},
+  year={2024},
+  url = {https://link.springer.com/article/10.1007/s41060-024-00522-z},
+  publisher={Springer}
+}
+
+
 @misc{mercorio2024disceautdeficereevaluating,
       title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark}, 
       author={Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
