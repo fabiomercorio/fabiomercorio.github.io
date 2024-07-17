@@ -47,24 +47,6 @@ isbn="978-3-031-44070-0"
 }
 
 
-
-@article{DBLP:journals/dss/MalandriMMS24,
-  author       = {Lorenzo Malandri and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica and
-                  Andrea Seveso},
-  title        = {Model-contrastive explanations through symbolic reasoning},
-  journal      = {Decis. Support Syst.},
-  volume       = {176},
-  pages        = {114040},
-  year         = {2024},
-  url          = {https://doi.org/10.1016/j.dss.2023.114040},
-  doi          = {10.1016/J.DSS.2023.114040},
-  timestamp    = {Sat, 08 Jun 2024 13:15:24 +0200},
-  biburl       = {https://dblp.org/rec/journals/dss/MalandriMMS24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
 @article{DBLP:journals/cogcom/AscariGMMM24,
   author       = {Roberto Ascari and
                   Anna Giabelli and
