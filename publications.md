@@ -33,6 +33,15 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   publisher={Springer}
 }
 
+@inproceedings{castelnovo2024augmenting,
+  title={Augmenting XAI with LLMs: A Case Study in Banking Marketing Recommendation},
+  author={Castelnovo, Alessandro and Depalmas, Roberto and Mercorio, Fabio and Mombelli, Nicol{\`o} and Potert{\`\i}, Daniele and Serino, Antonio and Seveso, Andrea and Sorrentino, Salvatore and Viola, Laura},
+  booktitle={World Conference on Explainable Artificial Intelligence},
+  pages={211--229},
+  year={2024},
+  organization={Springer}
+}
+
 
 @misc{mercorio2024disceautdeficereevaluating,
       title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark}, 
