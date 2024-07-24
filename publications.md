@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{castelnovo2024augmenting,
+  title={Alignment of Multilingual Embeddings to Estimate Job Similarities in Online Labour Market},
+  author={Simone D'Amico and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
+  booktitle={The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA) (to appear)},
+  year={2024}
+}
+
 
 @article{malandri2024sense,
   title={SeNSe: embedding alignment via semantic anchors selection},
