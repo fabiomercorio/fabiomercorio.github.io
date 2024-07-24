@@ -42,6 +42,15 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   organization={Springer}
 }
 
+@misc{cambria2024xaimeetsllmssurvey,
+      title={XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models}, 
+      author={Erik Cambria and Lorenzo Malandri and Fabio Mercorio and Navid Nobani and Andrea Seveso},
+      year={2024},
+      eprint={2407.15248},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.15248}, 
+}
 
 @misc{mercorio2024disceautdeficereevaluating,
       title={Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark}, 
