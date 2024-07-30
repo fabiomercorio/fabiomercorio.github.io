@@ -30,6 +30,16 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 }
 
 
+@misc{colombo2024terminatoreconomyassessingjob,
+      title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
+      author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
+      year={2024},
+      eprint={2407.19204},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2407.19204}, 
+}
+
 @article{malandri2024sense,
   title={SeNSe: embedding alignment via semantic anchors selection},
   author={Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
