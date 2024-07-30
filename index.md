@@ -57,10 +57,10 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - Simone D'Amico, PhD Student in Big Data Analytics for Business 
 - Alessia De Santo, PhD Student in Big Data Analytics for Business 
 - Antonio Serino, PhD Student in Big Data Analytics for Business 
-- Daniele Poterrtì, PhD Student in Big Data Analytics for Business 
+- Daniele Potertì, PhD Student in Big Data Analytics for Business 
 ##### Past members
-- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science
-- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now at Intesa SanPaolo 
+- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science, now Research Fellow at Istituto Mario Negri
+- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now Data Science Manager at Intesa SanPaolo Bank
 
 #### (Co)-Developed Tools for Researchers
 - [*MERLIN*](https://github.com/Crisp-Unimib/MERLIN) is a global, model-agnostic, contrastive explainer for any tabular or text classifier. It provides contrastive explanations of how the behaviour of two machine learning models differs. It is available as a python tool on Github. Related papers: [*[Decision Support Systems 2023]*](https://www.sciencedirect.com/science/article/pii/S016792362300115X)
