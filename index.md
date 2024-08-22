@@ -10,8 +10,8 @@ js: /js/counter.js
 ---
 - ``News`` Glad to be appointed as full professor of computer science at University of Milano-Bicocca! 
 - ``Projects`` Our Project on XAI for Finance has been funded under the Italian PRIN-2022 call, stay tuned!
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> New paper _"ConvXAI: A System for Multimodal Interaction with Any Black-box Explainer"_ accepted on Cognitive Computation
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
+- <span style="color:MediumSeaGreen">``Speech``</span> "Social Media and AI: No Screen Neededs To Grow Smart". See my speech about the impact of AI in education (with Pellai, Botturi and Wolf) [IT](https://lnkd.in/dchmhuFS), [EN](https://lnkd.in/dfuirfKt), [FR](https://lnkd.in/dcQvdqu4)
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant events I’m involved in
