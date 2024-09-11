@@ -29,6 +29,12 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   year={2024}
 }
 
+@inproceedings{ECAI25,
+author="Ermellino, Andrea and Malandri, Lorenzo and Mercorio, Fabio and Nobani, Navid and Serino, Antonio",
+title="An approach to Evaluative AI through Large Language Models",
+booktitle="27th European Conference on Artificial Intelligence, Workshop on Multimodal, Affective, and Interactive Explainable AI (to appear)",
+year="2024"
+}
 
 @misc{colombo2024terminatoreconomyassessingjob,
       title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
