@@ -16,6 +16,7 @@ js: /js/counter.js
 
 ### Relevant events I’m involved in
 - [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
+- [COLING-25](https://coling2025.org/calls/industry_track/)
 - [EMNLP-24](https://2024.emnlp.org/calls/industry_track/)
 - [CIKM-24](https://cikm2024.org/)
 - [ECAI-24](https://www.ecai2024.eu/)
