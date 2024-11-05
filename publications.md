@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{COLING25,
+  title     = {RE-FIN: Retrieval-based Enrichment for Financial data},
+  author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Pallucchini, Filippo},
+  booktitle = {The 31st International Conference on Computational Linguistics (COLING 2025) - to appear},
+  year      = {2025
+}
+
 @inproceedings{DSAA24,
   title={Alignment of Multilingual Embeddings to Estimate Job Similarities in Online Labour Market},
   author={Simone D'Amico and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
