@@ -25,8 +25,8 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 @inproceedings{VESPATE,
   title     = {Enriching Skill Taxonomies through Vector Space Models"},
   author    = {D'Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
-  booktitle = {2024 IEEE International Conference on Big Data (IEEE BigData 2024) - to appear},
-  year      = {2025}
+  booktitle = {IEEE International Conference on Big Data (IEEE BigData 2024) - to appear},
+  year      = {2024}
 }
 
 
