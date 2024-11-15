@@ -22,11 +22,19 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@inproceedings{VESPATE,
+  title     = {Enriching Skill Taxonomies through Vector Space Models"},
+  author    = {D'Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
+  booktitle = {2024 IEEE International Conference on Big Data (IEEE BigData 2024) - to appear},
+  year      = {2025}
+}
+
+
 @inproceedings{COLING25,
   title     = {RE-FIN: Retrieval-based Enrichment for Financial data},
   author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Pallucchini, Filippo},
   booktitle = {The 31st International Conference on Computational Linguistics (COLING 2025) - to appear},
-  year      = {2025
+  year      = {2025}
 }
 
 @inproceedings{DSAA24,
