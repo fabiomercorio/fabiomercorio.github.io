@@ -27,12 +27,13 @@ js: /js/counter.js
 - [ICAPS-24](https://icaps24.icaps-conference.org/)
 
 ### About
-I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics](https://bimasterbicocca.it/) at University of Milano-Bicocca, Italy.
+I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in BI and Big Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) at University of Milano-Bicocca, Italy.
 
 #### Current Positions
 + [March24-present] **Full Professor**  at University of Milan-Bicocca
-+ [2022-present] **Director** of the [Bicocca's Master in BI and Big Data Analytics](https://bimasterbicocca.it/), Italy
-+ [2010-present] **Member** of CRISP Research Centre, Milan, Italy
++ [October24-present] **Deputy Director**  Department of Statistics and Quantitative Methods at University of Milan-Bicocca
++ [2022-present] **Director** of the [Master in BI and Big Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) , Italy
++ [2010-present] **Member of the Scientific Committee** of CRISP Research Centre, Milan, Italy
 
 ####  Past Positions
 + [Dec2021-Feb2024] **Associate Professor**  at University of Milan-Bicocca
