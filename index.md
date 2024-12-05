@@ -8,6 +8,7 @@ published: true
 readtime: true
 js: /js/counter.js
 ---
+### News
 - <span style="color:MediumSeaGreen">``Publication`` </span> New paper on "RE-FIN: Retrieval-based Enrichment for Financial data" accepted at COLING-25!
 - <span style="color:MediumSeaGreen">``Publication``</span> Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2024), with Emilio Colombo, Mario Mezzanzanica and Antonio Serino [preprint](https://arxiv.org/abs/2407.19204). Featured in [La Repubblica](https://www.repubblica.it/economia/2024/08/13/news/intelligenza_artificiale_impatto_professioni-423445016/?ref=search), [Radio24](https://giornaleradio.fm/puntate/27-11-2024-120-minuti/), [Canadian HRReporter](https://www.hrreporter.com/focus-areas/hr-technology/ai-exposure-in-highly-skilled-jobs-how-hr-should-adapt/389043), [Wired](https://www.wired.it/article/intelligenza-artificiale-lavoro-impatti-professione-classifica-italia/), and [RaiNews24](https://www.raiplay.it/video/2024/12/Specchio-dei-tempi-4e71ae71-b704-4f10-b233-52b65bf2495f.html?wt_mc=2.www.cpy.raiplay_vid_Specchiodeitempi.). 
 - <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
