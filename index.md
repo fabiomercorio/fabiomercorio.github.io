@@ -16,6 +16,7 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant events I’m involved in
+- [IJCAI-25 (Survey Track)](https://ijcai25.org/call-for-papers/)
 - [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
 - [COLING-25](https://coling2025.org/calls/industry_track/)
 - [EMNLP-24](https://2024.emnlp.org/calls/industry_track/)
