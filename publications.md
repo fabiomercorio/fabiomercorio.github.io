@@ -79,11 +79,20 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@inproceedings{ECAI25,
-author="Ermellino, Andrea and Malandri, Lorenzo and Mercorio, Fabio and Nobani, Navid and Serino, Antonio",
-title="An approach to Evaluative AI through Large Language Models",
-booktitle="27th European Conference on Artificial Intelligence, Workshop on Multimodal, Affective, and Interactive Explainable AI (to appear)",
-year="2024"
+@inproceedings{DBLP:conf/mai-xai/AndreaMMNS24,
+  author       = {Ermellino Andrea and
+                  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Navid Nobani and
+                  Antonio Serino},
+  title        = {An approach to Evaluative {AI} through Large Language Models},
+  booktitle    = {MAI-XAI@ECAI},
+  pages        = {1--15},
+  year         = {2024},
+  url          = {https://ceur-ws.org/Vol-3803/paper1.pdf},
+  timestamp    = {Fri, 08 Nov 2024 15:21:04 +0100},
+  biburl       = {https://dblp.org/rec/conf/mai-xai/AndreaMMNS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 @misc{colombo2024terminatoreconomyassessingjob,
@@ -1258,4 +1267,3 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?746089&101" alt="contatore accessi" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-
