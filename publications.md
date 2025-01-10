@@ -5,7 +5,6 @@ subtitle: Selected Publications
 published: true
 full-width: true
 ---
-
 <link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
 <noscript>
       <!-- bibtex source hidden by default, show it if JS disabled -->
@@ -22,28 +21,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@inproceedings{DBLP:conf/clic-it/MercorioPSS24,
-  author       = {Fabio Mercorio and
-                  Daniele Poterti and
-                  Antonio Serino and
-                  Andrea Seveso},
-  editor       = {Felice Dell'Orletta and
-                  Alessandro Lenci and
-                  Simonetta Montemagni and
-                  Rachele Sprugnoli},
-  title        = {BEEP - BEst DrivEr's License Performer: A Calamita Challenge},
-  booktitle    = {Proceedings of the Tenth Italian Conference on Computational Linguistics
-                  (CLiC-it 2024), Pisa, Italy, December 4-6, 2024},
-  series       = {CEUR Workshop Proceedings},
-  volume       = {3878},
-  publisher    = {CEUR-WS.org},
-  year         = {2024},
-  url          = {https://ceur-ws.org/Vol-3878/135\_calamita\_short.pdf},
-  timestamp    = {Tue, 07 Jan 2025 17:28:28 +0100},
-  biburl       = {https://dblp.org/rec/conf/clic-it/MercorioPSS24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
 @inproceedings{VESPATE,
   title     = {Enriching Skill Taxonomies through Vector Space Models"},
   author    = {D'Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
@@ -59,40 +36,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   year      = {2025}
 }
 
-@inproceedings{DBLP:conf/dsaa/DAmicoMMMP24,
-  author       = {Simone D'Amico and
-                  Lorenzo Malandri and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica and
-                  Filippo Pallucchini},
-  title        = {Alignment of Multilingual Embeddings to Estimate Job Similarities
-                  in Online Labour Market},
-  booktitle    = {11th {IEEE} International Conference on Data Science and Advanced
-                  Analytics, {DSAA} 2024, San Diego, CA, USA, October 6-10, 2024},
-  pages        = {1--10},
-  publisher    = {{IEEE}},
-  year         = {2024},
-  url          = {https://doi.org/10.1109/DSAA61799.2024.10722820},
-  doi          = {10.1109/DSAA61799.2024.10722820},
-  timestamp    = {Wed, 06 Nov 2024 16:56:23 +0100},
-  biburl       = {https://dblp.org/rec/conf/dsaa/DAmicoMMMP24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{DSAA24,
+  title={Alignment of Multilingual Embeddings to Estimate Job Similarities in Online Labour Market},
+  author={Simone D'Amico and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
+  booktitle={The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA) (to appear)},
+  year={2024}
 }
 
-@inproceedings{DBLP:conf/mai-xai/AndreaMMNS24,
-  author       = {Ermellino Andrea and
-                  Lorenzo Malandri and
-                  Fabio Mercorio and
-                  Navid Nobani and
-                  Antonio Serino},
-  title        = {An approach to Evaluative {AI} through Large Language Models},
-  booktitle    = {MAI-XAI@ECAI},
-  pages        = {1--15},
-  year         = {2024},
-  url          = {https://ceur-ws.org/Vol-3803/paper1.pdf},
-  timestamp    = {Fri, 08 Nov 2024 15:21:04 +0100},
-  biburl       = {https://dblp.org/rec/conf/mai-xai/AndreaMMNS24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{ECAI25,
+author="Ermellino, Andrea and Malandri, Lorenzo and Mercorio, Fabio and Nobani, Navid and Serino, Antonio",
+title="An approach to Evaluative AI through Large Language Models",
+booktitle="27th European Conference on Artificial Intelligence, Workshop on Multimodal, Affective, and Interactive Explainable AI (to appear)",
+year="2024"
 }
 
 @misc{colombo2024terminatoreconomyassessingjob,
@@ -148,7 +103,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 @InProceedings{10.1007/978-3-031-44070-0_17,
 author="Castelnovo, Alessandro and Inverardi, Nicole and Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Seveso, Andrea",
 editor="Longo, Luca",
-title="Leveraging Group Contrastive Explanations for Handling Fairness",
+title="Leveraging Group Contrastive Explanations for Handling Fairness",
 booktitle="Explainable Artificial Intelligence",
 year="2023",
 publisher="Springer Nature Switzerland",
@@ -181,7 +136,7 @@ isbn="978-3-031-44070-0"
  
 @InProceedings{10.1007/978-3-031-44070-0_17,
 author="Alessandro Castelnovo and Nicole Inverardi and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso",
-title="Leveraging Group Contrastive Explanations for Handling Fairness",
+title="Leveraging Group Contrastive Explanations for Handling Fairness",
 booktitle="Explainable Artificial Intelligence",
 year="2023",
 publisher="Springer Nature Switzerland",
@@ -257,15 +212,15 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 }
 
 @ARTICLE{Guo202211,
-  author = {Guo, Yuchen and Langer, Christina and Mercorio, Fabio and Trentini, Francesco},
-  title = {Skills Mismatch, Automation, and Training: Evidence from 17 European Countries Using Survey Data and Online Job Ads},
-  year = {2022},
-  journal = {CESifo Forum},
-  volume = {23},
-  number = {5},
-  pages = {11 – 15},
-  url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141179931&partnerID=40&md5=35bc2b2cd2e622ad47533b7fa0adc699},
-  type = {Article}
+	author = {Guo, Yuchen and Langer, Christina and Mercorio, Fabio and Trentini, Francesco},
+	title = {Skills Mismatch, Automation, and Training: Evidence from 17 European Countries Using Survey Data and Online Job Ads},
+	year = {2022},
+	journal = {CESifo Forum},
+	volume = {23},
+	number = {5},
+	pages = {11 – 15},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141179931&partnerID=40&md5=35bc2b2cd2e622ad47533b7fa0adc699},
+	type = {Article}
 }
 
 @Inbook{Mezzanzanica2020,
@@ -434,12 +389,12 @@ booktitle="The Explainable Agency in Artificial Intelligence Workshop (AAAI-XAI)
 year="2021"
 }
 @article{ASOC,
-  author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-  title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
-  year = {2021},
-  publisher = {Springer},
-  issn = {1568-4946},
-  journal = {Applied Soft Computing},
+	author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
+	title = {Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases},
+	year = {2021},
+	publisher = {Springer},
+	issn = {1568-4946},
+	journal = {Applied Soft Computing},
     doi = {https://doi.org/10.1016/j.asoc.2020.107049},
     url = {https://doi.org/10.1016/j.asoc.2020.107049}
 }
