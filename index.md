@@ -17,6 +17,7 @@ js: /js/counter.js
 
 ### Relevant events I’m involved in
 - [IJCAI-25 (Survey Track)](https://ijcai25.org/call-for-papers/)
+- [ECML-PKDD-25](https://ecmlpkdd.org/2025/)
 - [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
 - [COLING-25](https://coling2025.org/calls/industry_track/)
 - [EMNLP-24](https://2024.emnlp.org/calls/industry_track/)
