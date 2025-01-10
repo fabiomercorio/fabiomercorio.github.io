@@ -40,7 +40,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   title        = {BEEP - BEst DrivEr's License Performer: A Calamita Challenge},
   booktitle    = {Proceedings of the Tenth Italian Conference on Computational Linguistics
                   (CLiC-it 2024), Pisa, Italy, December 4-6, 2024},
-  series       = {{CEUR} Workshop Proceedings},
+  series       = {CEUR Workshop Proceedings},
   volume       = {3878},
   publisher    = {CEUR-WS.org},
   year         = {2024},
@@ -62,7 +62,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   author={Simone D'Amico and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
   booktitle={The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA)},
    pages        = {1--10},
-  publisher    = {{IEEE}},
   url          = {https://doi.org/10.1109/DSAA61799.2024.10722820},
   doi          = {10.1109/DSAA61799.2024.10722820},
   timestamp    = {Wed, 06 Nov 2024 16:56:23 +0100},
@@ -77,7 +76,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
                   Fabio Mercorio and
                   Navid Nobani and
                   Antonio Serino},
-  title        = {An approach to Evaluative {AI} through Large Language Models},
+  title        = {An approach to Evaluative AI through Large Language Models},
   booktitle    = {MAI-XAI - ECAI},
   pages        = {1--15},
   year         = {2024},
