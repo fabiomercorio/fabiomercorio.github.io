@@ -24,7 +24,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 @inproceedings{DBLP:conf/clic-it/MercorioPSS24,
   author       = {Fabio Mercorio and
-                  Daniele Potert{\`{\i}} and
+                  Daniele Poterti and
                   Antonio Serino and
                   Andrea Seveso},
   editor       = {Felice Dell'Orletta and
