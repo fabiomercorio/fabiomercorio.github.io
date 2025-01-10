@@ -31,7 +31,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
                   Alessandro Lenci and
                   Simonetta Montemagni and
                   Rachele Sprugnoli},
-  title        = {BEEP - BEst DrivEr's License Performer: {A} {CALAMITA} Challenge},
+  title        = {BEEP - BEst DrivEr's License Performer: A Calamita Challenge},
   booktitle    = {Proceedings of the Tenth Italian Conference on Computational Linguistics
                   (CLiC-it 2024), Pisa, Italy, December 4-6, 2024},
   series       = {CEUR Workshop Proceedings},
