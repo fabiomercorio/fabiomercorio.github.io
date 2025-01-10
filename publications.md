@@ -16,17 +16,6 @@ full-width: true
 
 I try to keep the following list of publications up to date. Have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it&oi=ao) and [DBLP record](https://dblp.uni-trier.de/pers/hd/m/Mercorio:Fabio.html).
 
-Notice: The copies that can be obtaine
-<link rel="stylesheet" href="https://fabiomercorio.github.io/css/bib-publication-list.css" type="text/css" />
-<noscript>
-      <!-- bibtex source hidden by default, show it if JS disabled -->
-      <style>
-      #bibtex { display: block;}
-      </style>
-</noscript>
-
-I try to keep the following list of publications up to date. Have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it&oi=ao) and [DBLP record](https://dblp.uni-trier.de/pers/hd/m/Mercorio:Fabio.html).
-
 Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
 <table id="pubTable" class="display">
