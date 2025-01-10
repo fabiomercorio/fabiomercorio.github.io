@@ -28,6 +28,27 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   year      = {2024}
 }
 
+@inproceedings{DBLP:conf/clic-it/MercorioPSS24,
+  author       = {Fabio Mercorio and
+                  Daniele Poterti and
+                  Antonio Serino and
+                  Andrea Seveso},
+  editor       = {Felice Dell'Orletta and
+                  Alessandro Lenci and
+                  Simonetta Montemagni and
+                  Rachele Sprugnoli},
+  title        = {BEEP - BEst DrivEr's License Performer: A Calamita Challenge},
+  booktitle    = {Proceedings of the Tenth Italian Conference on Computational Linguistics
+                  (CLiC-it 2024), Pisa, Italy, December 4-6, 2024},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3878},
+  publisher    = {CEUR-WS.org},
+  year         = {2024},
+  url          = {https://ceur-ws.org/Vol-3878/135\_calamita\_short.pdf},
+  timestamp    = {Tue, 07 Jan 2025 17:28:28 +0100},
+  biburl       = {https://dblp.org/rec/conf/clic-it/MercorioPSS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 @inproceedings{COLING25,
   title     = {RE-FIN: Retrieval-based Enrichment for Financial data},
@@ -39,16 +60,31 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 @inproceedings{DSAA24,
   title={Alignment of Multilingual Embeddings to Estimate Job Similarities in Online Labour Market},
   author={Simone D'Amico and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
-  booktitle={The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA) (to appear)},
+  booktitle={The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA)},
+   pages        = {1--10},
+  publisher    = {{IEEE}},
+  url          = {https://doi.org/10.1109/DSAA61799.2024.10722820},
+  doi          = {10.1109/DSAA61799.2024.10722820},
+  timestamp    = {Wed, 06 Nov 2024 16:56:23 +0100},
+  biburl       = {https://dblp.org/rec/conf/dsaa/DAmicoMMMP24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
   year={2024}
 }
 
-@inproceedings{ECAI25,
-author="Ermellino, Andrea and Malandri, Lorenzo and Mercorio, Fabio and Nobani, Navid and Serino, Antonio",
-title="An approach to Evaluative AI through Large Language Models",
-booktitle="27th European Conference on Artificial Intelligence, Workshop on Multimodal, Affective, and Interactive Explainable AI (to appear)",
-year="2024"
-}
+@inproceedings{DBLP:conf/mai-xai/AndreaMMNS24,
+  author       = {Ermellino Andrea and
+                  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Navid Nobani and
+                  Antonio Serino},
+  title        = {An approach to Evaluative {AI} through Large Language Models},
+  booktitle    = {MAI-XAI - ECAI},
+  pages        = {1--15},
+  year         = {2024},
+  url          = {https://ceur-ws.org/Vol-3803/paper1.pdf},
+  timestamp    = {Fri, 08 Nov 2024 15:21:04 +0100},
+  biburl       = {https://dblp.org/rec/conf/mai-xai/AndreaMMNS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 
 @misc{colombo2024terminatoreconomyassessingjob,
       title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
