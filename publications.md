@@ -21,24 +21,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@article{DBLP:journals/corr/abs-2407-19204,
-  author       = {Emilio Colombo and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica and
-                  Antonio Serino},
-  title        = {Towards the Terminator Economy: Assessing Job Exposure to AI through
-                  LLMs},
-  journal      = {CoRR},
-  volume       = {abs/2407.19204},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2407.19204},
-  doi          = {10.48550/ARXIV.2407.19204},
-  eprinttype    = {arXiv},
-  eprint       = {2407.19204},
-  timestamp    = {Sat, 24 Aug 2024 12:32:24 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2407-19204.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
 
 @inproceedings{VESPATE,
   title     = {Enriching Skill Taxonomies through Vector Space Models"},
