@@ -22,11 +22,22 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
-@inproceedings{VESPATE,
-  title     = {Enriching Skill Taxonomies through Vector Space Models"},
-  author    = {D'Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
-  booktitle = {IEEE International Conference on Big Data (IEEE BigData 2024) - to appear},
-  year      = {2024}
+@INPROCEEDINGS{10825415,
+  author={D’Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+  title={Enriching Skill Taxonomies through Vector Space Models}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2297-2302},
+  doi={10.1109/BigData62323.2024.10825415}}
+
+
+@inproceedings{ITALIC,
+  title     = {ITALIC:An Italian Culture-Aware Natural Language Benchmark},
+  author    = {Fabio Mercorio and Daniele Poterti and Andrea Seveso and Edoardo Federici and Fabio Mercorio},
+  booktitle = {NAACL - Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (to appear)},
+  year      = {2025}
 }
 
 @inproceedings{DBLP:conf/clic-it/MercorioPSS24,
