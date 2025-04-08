@@ -21,6 +21,22 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@InProceedings{10.1007/978-3-031-74633-8_28,
+author="Haardt, Vittorio
+and Malandri, Lorenzo
+and Mercorio, Fabio
+and Porcelli, Luca",
+editor="Meo, Rosa
+and Silvestri, Fabrizio",
+title="SEEDOT: Tool for Enhancing Sentiment Lexicon with Machine Learning",
+booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="390--402",
+isbn="978-3-031-74633-8"
+}
+
 
 @INPROCEEDINGS{10825415,
   author={D’Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
