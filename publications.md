@@ -78,11 +78,28 @@ isbn="978-3-031-74633-8"
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@inproceedings{COLING25,
-  title     = {RE-FIN: Retrieval-based Enrichment for Financial data},
-  author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Pallucchini, Filippo},
-  booktitle = {The 31st International Conference on Computational Linguistics (COLING 2025) - to appear},
-  year      = {2025}
+@inproceedings{malandri-etal-2025-fin,
+    title = "{RE}-{FIN}: Retrieval-based Enrichment for Financial data",
+    author = "Malandri, Lorenzo  and
+      Mercorio, Fabio  and
+      Mezzanzanica, Mario  and
+      Pallucchini, Filippo",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven  and
+      Darwish, Kareem  and
+      Agarwal, Apoorv",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics: Industry Track",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-industry.62/",
+    pages = "751--759",
+    abstract = "Enriching sentences with knowledge from qualitative sources benefits various NLP tasks and enhances the use of labeled data in model training. This is crucial for Financial Sentiment Analysis (FSA), where texts are often brief and contain implied information. We introduce RE-FIN (Retrieval-based Enrichment for FINancial data), an automated system designed to retrieve information from a knowledge base to enrich financial sentences, making them more knowledge-dense and explicit. RE-FIN generates propositions from the knowledge base and employs Retrieval-Augmented Generation (RAG) to augment the original text with relevant information. A large language model (LLM) rewrites the original sentence, incorporating this data. Since the LLM does not create new content, the risk of hallucinations is significantly reduced. The LLM generates multiple new sentences using different relevant information from the knowledge base; we developed an algorithm to select one that best preserves the meaning of the original sentence while avoiding excessive syntactic similarity. Results show that enhanced sentences present lower perplexity than the original ones and improve performances on FSA."
 }
 
 @inproceedings{DSAA24,
