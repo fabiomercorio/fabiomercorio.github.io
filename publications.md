@@ -51,11 +51,7 @@ isbn="978-3-031-74633-8"
 
 @inproceedings{seveso-etal-2025-italic,
     title = "ITALIC: An Italian Culture-Aware Natural Language Benchmark",
-    author = "Seveso, Andrea  and
-      Poterti, Daniele  and
-      Federici, Edoardo  and
-      Mezzanzanica, Mario  and
-      Mercorio, Fabio",
+    author = "Seveso, Andrea  and Poterti, Daniele  and Federici, Edoardo  and Mezzanzanica, Mario  and Mercorio, Fabio",
     booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     month = apr,
     year = "2025",
