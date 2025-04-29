@@ -52,7 +52,7 @@ isbn="978-3-031-74633-8"
 @inproceedings{seveso-etal-2025-italic,
     title = "{ITALIC}: An {I}talian Culture-Aware Natural Language Benchmark",
     author = "Seveso, Andrea  and
-      Potert{\`i}, Daniele  and
+      Poterti, Daniele  and
       Federici, Edoardo  and
       Mezzanzanica, Mario  and
       Mercorio, Fabio",
