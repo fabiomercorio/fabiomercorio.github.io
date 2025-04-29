@@ -49,11 +49,25 @@ isbn="978-3-031-74633-8"
   doi={10.1109/BigData62323.2024.10825415}}
 
 
-@inproceedings{ITALIC,
-  title     = {ITALIC:An Italian Culture-Aware Natural Language Benchmark},
-  author    = {Fabio Mercorio and Daniele Poterti and Andrea Seveso and Edoardo Federici and Fabio Mercorio},
-  booktitle = {NAACL - Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (to appear)},
-  year      = {2025}
+@inproceedings{seveso-etal-2025-italic,
+    title = "{ITALIC}: An {I}talian Culture-Aware Natural Language Benchmark",
+    author = "Seveso, Andrea  and
+      Potert{\`i}, Daniele  and
+      Federici, Edoardo  and
+      Mezzanzanica, Mario  and
+      Mercorio, Fabio",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.68/",
+    pages = "1469--1478",
+    ISBN = "979-8-89176-189-6",
+    abstract = "We present ITALIC, a large-scale benchmark dataset of 10,000 multiple-choice questions designed to evaluate the natural language understanding of the Italian language and culture. ITALIC spans 12 domains, exploiting public tests to score domain experts in real-world scenarios. We detail our data collection process, stratification techniques, and selection strategies. ITALIC provides a comprehensive assessment suite that captures commonsense reasoning and linguistic proficiency in a morphologically rich language. We establish baseline performances using 17 state-of-the-art LLMs, revealing current limitations in Italian language understanding and highlighting significant linguistic complexity and cultural specificity challenges. ITALIC serves as a benchmark for evaluating existing models and as a roadmap for future research, encouraging the development of more sophisticated and culturally aware natural language systems."
 }
 
 @inproceedings{DBLP:conf/clic-it/MercorioPSS24,
