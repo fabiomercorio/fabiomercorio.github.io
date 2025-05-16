@@ -21,6 +21,14 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@InProceedings{IJCAI25_terminator,
+      title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
+      author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
+      year={2025},
+      booktitle={IJCAI 2025, the 34th International Joint Conference on Artificial Intelligence (to appear)}
+
+}
+
 @InProceedings{10.1007/978-3-031-74633-8_28,
 author="Haardt, Vittorio
 and Malandri, Lorenzo
