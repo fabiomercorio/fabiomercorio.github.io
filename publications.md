@@ -29,6 +29,60 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 }
 
+@inproceedings{10.1145/3672608.3707960,
+author = {Malandri, Lorenzo and Mercorio, Fabio and Serino, Antonio},
+title = {SkiLLMo: Normalized ESCO Skill Extraction through Transformer Models},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707960},
+doi = {10.1145/3672608.3707960},
+abstract = {In recent years, natural language processing (NLP) technologies have made a significant contribution in addressing a number of labour market tasks. One of the most interesting challenges is the automatic extraction of competences from unstructured texts.This paper presents a pipeline for efficiently extracting and standardizing skills from job advertisements using NLP techniques. The proposed methodology leverages open-source Transformer and Large Language Models to extract skills and map them to the European labour market taxonomy, ESCO.To address the computational challenges of processing lengthy job advertisements, a BERT model was fine-tuned to identify text segments likely containing skills. This filtering step reduces noise and ensures that only relevant content is processed further. The filtered text is then passed to an LLM, which extracts implicit and explicit hard and soft skills through prompt engineering. The extracted skills are subsequently matched with entries in a vector store containing the ESCO taxonomy to achieve standardization.Evaluation by domain experts shows that the pipeline achieves a precision of 91\% for skill extraction, 80\% for skill standardization and a combined overall precision of 79\%. These results demonstrate the effectiveness of the proposed approach in facilitating structured and standardized skill extraction from job postings.},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {1969–1978},
+numpages = {10},
+keywords = {skill extraction, large language models, transformer models, information extraction, labor market},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
+@inproceedings{10.1145/3672608.3707718,
+author = {Colombo, Samuele and D'Amico, Simone and Malandri, Lorenzo and Mercorio, Fabio and Seveso, Andrea},
+title = {JobSet: Synthetic Job Advertisements Dataset for Labour Market Intelligence},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707718},
+doi = {10.1145/3672608.3707718},
+abstract = {The use of online services for advertising job positions has grown in the last decade, thanks to the ability of Online Job Advertisements (OJAs) to observe the labour market in near real-time, predict new occupation trends, identify relevant skills, and support policy and decision-making activities. Unsurprisingly, 2023 was declared the Year of Skills by the EU, as skill mismatch is a key challenge for European economies. In such a scenario, machine learning-based approaches have played a key role in classifying job ads and extracting skills according to well-established taxonomies. However, the effectiveness of ML depends on access to annotated job advertisement datasets, which are often limited and require time-consuming manual annotation. The lack of OJA annotated benchmarks representative of the real online OJA and skills distributions is currently limiting advances in skill intelligence. To deal with this, we propose JobGen, which leverages Large Language Models (LLMs) to generate synthetic OJAs. We use real OJAs collected from an EU project and the ESCO taxonomy to represent job market distributions accurately. JobGen enhances data diversity and semantic alignment, addressing common issues in synthetic data generation. The resulting dataset, JobSet, provides a valuable resource for tasks like skill extraction and job matching and is openly available to the community1.},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {928–935},
+numpages = {8},
+keywords = {large language models, benchmark, labour market},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
+@inproceedings{10.1145/3672608.3707906,
+author = {D'Amico, Simone and De Santo, Alessia and Mezzanzanica, Mario and Mercorio, Fabio},
+title = {Taxonomy Expansion through Collaborative LLM Mapping},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707906},
+doi = {10.1145/3672608.3707906},
+abstract = {Hierarchical taxonomies are crucial for organizing concepts across domains like healthcare, finance, and economics. However, maintaining their accuracy requires continuous updates, often demanding expert input. To address this, we propose TAXMAP (TAxonomy eXpansion through Collaborative LLM MAPping), a system that autonomously expands hierarchical taxonomies using contextual word embeddings and three generative models, with a human validation step ensuring relevance. Implemented within an EU initiative to enhance the European Skill taxonomy (ESCO), our framework processed over 40,000 digital terms gathered from the Web, aligning ESCO skills with labor market needs. This effort resulted in 924 proposed terms, 757 of which were validated by experts as correct. By leveraging large language models (LLMs) as encoders, TAXMAP reduces errors, ensures high precision, and minimizes human effort. Compared to a baseline based on ESCO's hierarchy, our system achieved an 81\% Positive Predictive Value (PPV) when combining all three models.},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {1961–1968},
+numpages = {8},
+keywords = {automated taxonomy enrichment, labour market intelligence, large language models, NLP},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
 @InProceedings{10.1007/978-3-031-74633-8_28,
 author="Haardt, Vittorio
 and Malandri, Lorenzo
