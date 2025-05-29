@@ -29,7 +29,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 }
 
-@misc{mercorio2025invalsi,
+@inproceedings{mercorio2025invalsi,
       title={A Benchmark to Evaluate LLMs’ Proficiency on Italian Student Competencies}, 
       author={Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
       year={2025},
