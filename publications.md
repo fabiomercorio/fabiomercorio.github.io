@@ -29,6 +29,14 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 }
 
+@misc{mercorio2025invalsi,
+      title={A Benchmark to Evaluate LLMs’ Proficiency on Italian Student Competencies}, 
+      author={Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
+      year={2025},
+      booktitle={ECML-PKDD 2025, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (to appear)} 
+}
+
+
 @inproceedings{10.1145/3672608.3707960,
 author = {Malandri, Lorenzo and Mercorio, Fabio and Serino, Antonio},
 title = {SkiLLMo: Normalized ESCO Skill Extraction through Transformer Models},
