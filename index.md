@@ -146,3 +146,40 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?746089&101" alt="contatore accessi" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Fabio Mercorio",
+  "jobTitle": "Professore Ordinario",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Università degli Studi di Milano-Bicocca",
+    "url": "https://www.unimib.it"
+  },
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "Università degli Studi di Milano-Bicocca",
+    "url": "https://www.unimib.it"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Università degli Studi di Milano-Bicocca"
+  },
+  "url": "https://www.unimib.it/fabio-mercorio", 
+  "image": "https://www.unimib.it/sites/default/files/2024-08/mercorio_foto_2024_b_1.JPG",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it",
+    "https://orcid.org/0000-0001-6864-2702",
+    "https://linkedin.com/in/mercorio"
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Data Science",
+    "Natural Language Processing",
+    "Big Data Analytics"
+  ],
+  "nationality": "Italian"
+}
+</script>
