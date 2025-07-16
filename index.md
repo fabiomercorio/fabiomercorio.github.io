@@ -18,18 +18,14 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant events I’m involved in
+- [AAAI-26](https://aaai.org/conference/aaai/aaai-26/)
+- [CIKM-25](https://cikm2025.org/)
+- [EMNLP-25](https://2025.emnlp.org)
+- [NAACL-25](https://2025.naacl.org/calls/papers/) 
 - [IJCAI-25 (Survey Track)](https://ijcai25.org/call-for-papers/)
 - [ECML-PKDD-25](https://ecmlpkdd.org/2025/)
 - [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
 - [COLING-25](https://coling2025.org/calls/industry_track/)
-- [EMNLP-24](https://2024.emnlp.org/calls/industry_track/)
-- [CIKM-24](https://cikm2024.org/)
-- [ECAI-24](https://www.ecai2024.eu/)
-- [IJCAI-24 (Survey Track)](https://ijcai24.org/call-for-papers/)
-- [ECML-PKDD-24](https://2024.ecmlpkdd.org/)
-- [ACL-24](https://2024.aclweb.org/calls/main_conference_papers/)
-- [NAACL-24](https://2024.naacl.org/calls/papers/) 
-- [ICAPS-24](https://icaps24.icaps-conference.org/)
 
 ### About
 I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in AI and Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) at University of Milano-Bicocca, Italy.
