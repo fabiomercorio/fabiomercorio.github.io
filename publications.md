@@ -30,6 +30,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 }
 
+@article{ACSUR25,
+  author       = {Filippo Pallucchini and 
+  				  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica
+                  },
+  title        = {Lost in Alignment: A Survey on Cross-lingual Alignment Methods for
+Contextualised Representation},
+	year = {2025},
+  journal      = {ACM Computing Survey (to appear)}
+}
+
 @article{DBLP:journals/ijdsa/MalandriMMP25,
   author       = {Lorenzo Malandri and
                   Fabio Mercorio and
