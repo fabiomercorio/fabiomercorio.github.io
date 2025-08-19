@@ -29,6 +29,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
                   },
   title        = {Lost in Alignment: A Survey on Cross-lingual Alignment Methods for
 Contextualised Representation},
+	year = {2025},
   journal      = {ACM Computing Survey (to appear)}
 }
 
