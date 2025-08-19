@@ -21,6 +21,18 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@article{ACSUR25,
+  author       = {Filippo Pallucchini and 
+  				  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica
+                  },
+  title        = {Lost in Alignment: A Survey on Cross-lingual Alignment Methods for
+Contextualised Representation},
+  journal      = {ACM Computing Survey (to appear)}
+}
+
+
 @InProceedings{IJCAI25_terminator,
       title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
       author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
