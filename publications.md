@@ -22,6 +22,21 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@inproceedings{SAFE,
+      title={SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs}, 
+      author={Samir Abdaljalil and Filippo Pallucchini and Andrea Seveso and HASAN KURBAN and Fabio Mercorio and Erchin Serpedin},
+      year={2025},
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
+
+@inproceedings{RoleVector,
+      title={Can Role Vectors Affect LLM Behaviour?}, 
+      author={Daniele Poterti and Andrea Seveso and Fabio Mercorio},
+      year={2025},
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
 @InProceedings{IJCAI25_terminator,
       title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
       author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
