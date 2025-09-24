@@ -37,13 +37,22 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
       booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
 }
 
-@InProceedings{IJCAI25_terminator,
-      title={Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs}, 
-      author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
-      year={2025},
-      booktitle={IJCAI 2025, the 34th International Joint Conference on Artificial Intelligence (to appear)}
 
+@inproceedings{ijcai2025p1066,
+  title     = {Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs},
+   author={Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {9591--9600},
+  year      = {2025},
+  month     = {8},
+  note      = {AI and Social Good},
+  doi       = {10.24963/ijcai.2025/1066},
+  url       = {https://doi.org/10.24963/ijcai.2025/1066},
 }
+
 
 @article{10.1145/3764112,
 author = {Filippo Pallucchini and 
