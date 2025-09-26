@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@inproceedings{SFAL,
+      title={SFAL: Semantic-Functional Alignment Scores for Distributional Evaluation of Auto-Interpretability in Sparse Autoencoders}, 
+      author={Fabio Mercorio, Filippo Pallucchini, Daniele Potertì, Antonio Serino, Andrea Seveso},
+      year={2025},
+      booktitle={EMNLP 2025, The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
 @inproceedings{SAFE,
       title={SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs}, 
       author={Samir Abdaljalil and Filippo Pallucchini and Andrea Seveso and HASAN KURBAN and Fabio Mercorio and Erchin Serpedin},
