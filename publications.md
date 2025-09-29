@@ -222,18 +222,7 @@ isbn="978-3-031-74633-8"
 
 @inproceedings{malandri-etal-2025-fin,
     title = "{RE}-{FIN}: Retrieval-based Enrichment for Financial data",
-    author = "Malandri, Lorenzo  and
-      Mercorio, Fabio  and
-      Mezzanzanica, Mario  and
-      Pallucchini, Filippo",
-    editor = "Rambow, Owen  and
-      Wanner, Leo  and
-      Apidianaki, Marianna  and
-      Al-Khalifa, Hend  and
-      Eugenio, Barbara Di  and
-      Schockaert, Steven  and
-      Darwish, Kareem  and
-      Agarwal, Apoorv",
+    author = "Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Filippo Pallucchini",
     booktitle = "Proceedings of the 31st International Conference on Computational Linguistics: Industry Track",
     month = jan,
     year = "2025",
