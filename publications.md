@@ -24,7 +24,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 @inproceedings{SFAL,
       title={SFAL: Semantic-Functional Alignment Scores for Distributional Evaluation of Auto-Interpretability in Sparse Autoencoders}, 
-      author={Fabio Mercorio, Filippo Pallucchini, Daniele Potertì, Antonio Serino, Andrea Seveso},
+      author={Fabio Mercorio and Filippo Pallucchini and Daniele Potertì and Antonio Serino and Andrea Seveso},
       year={2025},
       booktitle={EMNLP 2025, The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
 }
