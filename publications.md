@@ -159,10 +159,7 @@ series = {SAC '25}
 }
 
 @InProceedings{10.1007/978-3-031-74633-8_28,
-author="Haardt, Vittorio
-and Malandri, Lorenzo
-and Mercorio, Fabio
-and Porcelli, Luca",
+author="Vittorio Haardt and Lorenzo Malandri and Fabio Mercorio and Luca Porcelli",
 editor="Meo, Rosa
 and Silvestri, Fabrizio",
 title="SEEDOT: Tool for Enhancing Sentiment Lexicon with Machine Learning",
