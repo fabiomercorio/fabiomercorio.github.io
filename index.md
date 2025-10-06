@@ -19,7 +19,7 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Speech``</span> "Social Media and AI: No Screen Neededs To Grow Smart". See my speech about the impact of AI in education (with Pellai, Botturi and Wolf) [IT](https://lnkd.in/dchmhuFS), [EN](https://lnkd.in/dfuirfKt), [FR](https://lnkd.in/dcQvdqu4)
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant events I’m involved in
+### Relevant events I’m involved in as (senior) PC
 - [AAAI-26](https://aaai.org/conference/aaai/aaai-26/)
 - [CIKM-25](https://cikm2025.org/)
 - [EMNLP-25](https://2025.emnlp.org)
