@@ -59,10 +59,12 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 - [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
 - Anna Velyka, PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
 - [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
-- Simone D'Amico, PhD Student in Big Data Analytics for Business 
-- Alessia De Santo, PhD Student in Big Data Analytics for Business 
+- Simone D'Amico, PhD Candidate in Big Data Analytics for Business 
+- Alessia De Santo, PhD Candidate in Big Data Analytics for Business 
 - Antonio Serino, PhD Student in Big Data Analytics for Business 
 - Daniele Potertì, PhD Student in Big Data Analytics for Business 
+- Simone Adobati, PhD Student in Big Data Analytics for Business 
+
 ##### Past members
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science, now Research Fellow at Istituto Mario Negri
 - [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now Data Science Manager at Intesa SanPaolo Bank
