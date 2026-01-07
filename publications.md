@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@inproceedings{Safe-Unsafe,
+      title={Safe-Unsafe Concept Separation Emerges from a Single Direction in Language Models Activation Space}, 
+      author={Antonio Serino and Andrea Ermellino and Lorenzo Malandri and Fabio Mercorio},
+      year={2026},
+      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) (to appear)} 
+}
+
 @inproceedings{SFAL,
       title={SFAL: Semantic-Functional Alignment Scores for Distributional Evaluation of Auto-Interpretability in Sparse Autoencoders}, 
       author={Fabio Mercorio and Filippo Pallucchini and Daniele Potertì and Antonio Serino and Andrea Seveso},
