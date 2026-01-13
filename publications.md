@@ -20,6 +20,28 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <table id="pubTable" class="display">
 </table>
 <pre id="bibtex" style="display:none;">
+@inproceedings{DBLP:conf/pkdd/HaardtMMP23,
+  author       = {Vittorio Haardt and
+                  Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Luca Porcelli},
+  editor       = {Rosa Meo and
+                  Fabrizio Silvestri},
+  title        = {{SEEDOT:} Tool for Enhancing Sentiment Lexicon with Machine Learning},
+  booktitle    = {Machine Learning and Principles and Practice of Knowledge Discovery
+                  in Databases - International Workshops of {ECML} {PKDD} 2023, Turin,
+                  Italy, September 18-22, 2023, Revised Selected Papers, Part {III}},
+  series       = {Communications in Computer and Information Science},
+  volume       = {2135},
+  pages        = {390--402},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-74633-8\_28},
+  doi          = {10.1007/978-3-031-74633-8\_28},
+  timestamp    = {Sat, 25 Jan 2025 23:15:44 +0100},
+  biburl       = {https://dblp.org/rec/conf/pkdd/HaardtMMP23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 @inproceedings{Skillens,
