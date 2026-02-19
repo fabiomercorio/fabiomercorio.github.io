@@ -2798,18 +2798,26 @@ var bibtexify = (function($) {
         $(".bibclose", this.$pubTable).on('click', EventHandlers.hidebib);
     };
     // updates the stats, called whenever a new bibtex entry is parsed
+    // updates the stats, called whenever a new bibtex entry is parsed
     bibproto.updateStats = function updateStats(item) {
-        if (!this.stats[item.year]) {
-            this.stats[item.year] = { 'count': 1, 'types': {} };
-            this.stats[item.year].types[item.entryType] = 1;
+      // Bucket SOLO per il grafico: raggruppa 2009..2012 in un'unica colonna
+      var yearKey = item.year;
+      var y = parseInt(item.year, 10);
+      if (!isNaN(y) && y >= 2009 && y <= 2012) {
+        yearKey = '2009-2012';
+      }
+    
+      if (!this.stats[yearKey]) {
+        this.stats[yearKey] = { 'count': 1, 'types': {} };
+        this.stats[yearKey].types[item.entryType] = 1;
+      } else {
+        this.stats[yearKey].count += 1;
+        if (this.stats[yearKey].types[item.entryType]) {
+          this.stats[yearKey].types[item.entryType] += 1;
         } else {
-            this.stats[item.year].count += 1;
-            if (this.stats[item.year].types[item.entryType]) {
-                this.stats[item.year].types[item.entryType] += 1;
-            } else {
-                this.stats[item.year].types[item.entryType] = 1;
-            }
+          this.stats[yearKey].types[item.entryType] = 1;
         }
+      }
     };
     // adds the barchart of year and publication types
     bibproto.addBarChart = function addBarChart() {
@@ -2825,22 +2833,24 @@ var bibtexify = (function($) {
               return bib2html.importance[y] - bib2html.importance[x];
             });
 
-            yearstats.push({'year': key, 'count': value.count,
-                'item': value, 'types': value.types, typeArr: types});
+            var sortYear = parseInt(key, 10);
+            if (isNaN(sortYear) && key.indexOf('-') !== -1) {
+              sortYear = parseInt(key.split('-')[0], 10); // "2009-2012" -> 2009
+            }
+            yearstats.push({'year': key, 'sortYear': sortYear, 'count': value.count, 'item': value, 'types': value.types, typeArr: types});
             maxItems = Math.max(maxItems, value.count);
             maxTypes = Math.max(maxTypes, types.length);
         });
         var isTypeMode = maxItems > 15;
         yearstats.sort(function(a, b) {
-            var diff = a.year - b.year;
-            if (!isNaN(diff)) {
-              return diff;
-            } else if (a.year < b.year) {
-              return -1;
-            } else if (a.year > b.year) {
-              return 1;
-            }
-            return 0;
+          if (!isNaN(a.sortYear) && !isNaN(b.sortYear)) {
+            return a.sortYear - b.sortYear;
+          }
+          var diff = a.year - b.year;
+          if (!isNaN(diff)) { return diff; }
+          if (a.year < b.year) { return -1; }
+          if (a.year > b.year) { return 1; }
+          return 0;
         });
         var chartIdSelector = '#' + this.$pubTable[0].id + 'pubchart';
         var chartHeight = $(chartIdSelector).height();
