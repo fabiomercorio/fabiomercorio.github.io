@@ -2804,7 +2804,7 @@ var bibtexify = (function($) {
       var yearKey = item.year;
       var y = parseInt(item.year, 10);
       if (!isNaN(y) && y >= 2009 && y <= 2012) {
-        yearKey = '2009-2012';
+        yearKey = '09-12';
       }
     
       if (!this.stats[yearKey]) {
