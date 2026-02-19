@@ -22,6 +22,13 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@article{fusion26,
+author = {Simone D'Amico and Fabio Mercorio and  Navid Nobani and  Giancarlo Sperl`ı and  Carmine Ventre},
+title = {Learning Across Modalities: A Systematic Survey of Multimodal Models for Financial Analysis},
+year = {2026},
+journal = {Information Fusion (to appear)}
+}
+
 @inproceedings{Skillens,
       title={SkiLLens: Recognising and Mapping Novel Skills from Millions of Job Ads Across Europe Using Language Models}, 
       author={Alessia De Santo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
