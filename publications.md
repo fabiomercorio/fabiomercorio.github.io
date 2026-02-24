@@ -22,6 +22,17 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@article{COLOMBO2026123274,
+title = {VEUCTOR: Training and selecting best vector space models from online job ads for European countries},
+journal = {Information Sciences},
+pages = {123274},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123274},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526002057},
+author = {Emilio Colombo and Simone D'Amico and Fabio Mercorio and Mario Mezzanzanica}
+}
+
 @article{fusion26,
 author = {Simone D'Amico and Fabio Mercorio and  Navid Nobani and  Giancarlo Sperl`ı and  Carmine Ventre},
 title = {Learning Across Modalities: A Systematic Survey of Multimodal Models for Financial Analysis},
