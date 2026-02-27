@@ -32,12 +32,16 @@ doi = {https://doi.org/10.1016/j.ins.2026.123274},
 url = {https://www.sciencedirect.com/science/article/pii/S0020025526002057},
 author = {Emilio Colombo and Simone D'Amico and Fabio Mercorio and Mario Mezzanzanica}
 }
-
-@article{fusion26,
-author = {Simone D'Amico and Fabio Mercorio and  Navid Nobani and  Giancarlo Sperl`ı and  Carmine Ventre},
+@article{DAMICO2026104249,
 title = {Learning Across Modalities: A Systematic Survey of Multimodal Models for Financial Analysis},
+journal = {Information Fusion},
+pages = {104249},
 year = {2026},
-journal = {Information Fusion (to appear)}
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2026.104249},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253526001284},
+author = {Simone D'Amico and Fabio Mercorio and Navid Nobani and Giancarlo Sperlì and Carmine Ventre},
+keywords = {Fusion Strategies, Multimodal Analysis, Market predictive analysis, Stock Market analysis}
 }
 
 @inproceedings{Skillens,
