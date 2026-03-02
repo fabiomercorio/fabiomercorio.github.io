@@ -22,6 +22,38 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+
+@inproceedings{10.1145/3672608.3707906,
+author = {D'Amico, Simone and De Santo, Alessia and Mezzanzanica, Mario and Mercorio, Fabio},
+title = {Taxonomy Expansion through Collaborative LLM Mapping},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707906},
+doi = {10.1145/3672608.3707906},
+abstract = {Hierarchical taxonomies are crucial for organizing concepts across domains like healthcare, finance, and economics. However, maintaining their accuracy requires continuous updates, often demanding expert input. To address this, we propose TAXMAP (TAxonomy eXpansion through Collaborative LLM MAPping), a system that autonomously expands hierarchical taxonomies using contextual word embeddings and three generative models, with a human validation step ensuring relevance. Implemented within an EU initiative to enhance the European Skill taxonomy (ESCO), our framework processed over 40,000 digital terms gathered from the Web, aligning ESCO skills with labor market needs. This effort resulted in 924 proposed terms, 757 of which were validated by experts as correct. By leveraging large language models (LLMs) as encoders, TAXMAP reduces errors, ensures high precision, and minimizes human effort. Compared to a baseline based on ESCO's hierarchy, our system achieved an 81\% Positive Predictive Value (PPV) when combining all three models.},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {1961–1968},
+numpages = {8},
+keywords = {automated taxonomy enrichment, labour market intelligence, large language models, NLP},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
+@InProceedings{10.1007/978-3-031-74633-8_28,
+author="Vittorio Haardt and Lorenzo Malandri and Fabio Mercorio and Luca Porcelli",
+editor="Meo, Rosa
+and Silvestri, Fabrizio",
+title="SEEDOT: Tool for Enhancing Sentiment Lexicon with Machine Learning",
+booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="390--402",
+isbn="978-3-031-74633-8"
+}
+
 @INPROCEEDINGS{10825415,
   author={D’Amico, Simone and De Santo, Alessia and Mercorio, Fabio and Mezzanzanica, Mario},
   booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
