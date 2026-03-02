@@ -21,6 +21,12 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@article{IPM2026,
+title = {Synthetic Data Generation: A Tertiary Study},
+journal = {Information Processing and Management (to appear)}
+author = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo Sperlì and Giovanni Officioso}
+}
+
 
 @article{COLOMBO2026123274,
 title = {VEUCTOR: Training and selecting best vector space models from online job ads for European countries},
@@ -32,6 +38,8 @@ doi = {https://doi.org/10.1016/j.ins.2026.123274},
 url = {https://www.sciencedirect.com/science/article/pii/S0020025526002057},
 author = {Emilio Colombo and Simone D'Amico and Fabio Mercorio and Mario Mezzanzanica}
 }
+
+
 @article{DAMICO2026104249,
 title = {Learning Across Modalities: A Systematic Survey of Multimodal Models for Financial Analysis},
 journal = {Information Fusion},
