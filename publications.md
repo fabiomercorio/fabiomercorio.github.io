@@ -39,23 +39,6 @@ keywords = {embedding alignment, cross-lingual alignment}
 
 
 
-@inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
-  author       = {Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
-  title        = {A Benchmark to Evaluate LLMs' Proficiency on Italian Student
-                  Competencies},
-  booktitle    = {Machine Learning and Knowledge Discovery in Databases. Research Track
-                  and Applied Data Science Track - European Conference, {ECML} {PKDD}
-                  2025, Porto, Portugal, September 15-19, 2025, Proceedings, Part {VIII}},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {16020},
-  pages        = {292--309},
-  publisher    = {Springer},
-  year         = {2025},
-  url          = {https://doi.org/10.1007/978-3-662-72243-5\_17},
-  doi          = {10.1007/978-3-662-72243-5\_17},
-  biburl       = {https://dblp.org/rec/conf/pkdd/MercorioMPSS25.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
 
 
 @inproceedings{10.1145/3672608.3707960,
