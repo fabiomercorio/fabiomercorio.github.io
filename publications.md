@@ -21,17 +21,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@article{DBLP:journals/ijdsa/MalandriMMP25,
-  author       = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
-  title        = {SeNSe: embedding alignment via semantic anchors selection},
-  journal      = {Int. J. Data Sci. Anal.},
-  volume       = {20},
-  number       = {1},
-  pages        = {167--181},
-  year         = {2025},
-  url          = {https://doi.org/10.1007/s41060-024-00522-z},
-  doi          = {10.1007/S41060-024-00522-Z}
-}
+
 
 
 @inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
