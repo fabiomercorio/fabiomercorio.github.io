@@ -492,7 +492,7 @@ url="https://doi.org/10.1007/978-3-319-63962-8_276-2"
 
 @inproceedings{ijcai2022-858,
   title     = {The Good, the Bad, and the Explainer: A Tool for Contrastive Explanations of Text Classifiers},
-  author    = {Malandri, Lorenzo and Mercorio, Fabio and Mezzanzanica, Mario and Nobani, Navid and Seveso, Andrea},
+  author    = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani and Andrea Seveso},
   booktitle = {Proceedings of the Thirty-First International Joint Conference on
                Artificial Intelligence, {IJCAI-22}},
   publisher = {International Joint Conferences on Artificial Intelligence Organization},
