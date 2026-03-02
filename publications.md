@@ -32,6 +32,30 @@ author = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo 
 }
 
 
+@article{COLOMBO2026123274,
+title = {VEUCTOR: Training and selecting best vector space models from online job ads for European countries},
+journal = {Information Sciences},
+pages = {123274},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123274},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526002057},
+author = {Emilio Colombo and Simone D'Amico and Fabio Mercorio and Mario Mezzanzanica}
+}
+
+
+@article{DAMICO2026104249,
+title = {Learning Across Modalities: A Systematic Survey of Multimodal Models for Financial Analysis},
+journal = {Information Fusion},
+pages = {104249},
+year = {2026},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2026.104249},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253526001284},
+author = {Simone D'Amico and Fabio Mercorio and Navid Nobani and Giancarlo Sperlì and Carmine Ventre},
+keywords = {Fusion Strategies, Multimodal Analysis, Market predictive analysis, Stock Market analysis}
+}
+
 
 
 @inproceedings{10.1145/3672608.3707960,
