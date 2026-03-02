@@ -23,7 +23,8 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 @article{IPM2026,
 title = {Synthetic Data Generation: A Tertiary Study},
-journal = {Information Processing and Management (to appear)}
+journal = {Information Processing and Management (to appear)},
+year = {2026},
 author = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo Sperlì and Giovanni Officioso}
 }
 
