@@ -41,11 +41,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 
 @inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
-  author       = {Fabio Mercorio and
-                  Mario Mezzanzanica and
-                  Daniele Potertì and
-                  Antonio Serino and
-                  Andrea Seveso},
+  author       = {Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},
   title        = {A Benchmark to Evaluate LLMs' Proficiency on Italian Student
                   Competencies},
   booktitle    = {Machine Learning and Knowledge Discovery in Databases. Research Track
@@ -58,7 +54,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
   year         = {2025},
   url          = {https://doi.org/10.1007/978-3-662-72243-5\_17},
   doi          = {10.1007/978-3-662-72243-5\_17},
-  timestamp    = {Sat, 15 Nov 2025 13:48:07 +0100},
   biburl       = {https://dblp.org/rec/conf/pkdd/MercorioMPSS25.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
