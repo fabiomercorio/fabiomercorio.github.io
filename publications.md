@@ -531,7 +531,7 @@ url="https://doi.org/10.1007/978-3-319-63962-8_276-2"
 
 @article{FFtree2022,
 title = {FFTree: A flexible tree to handle multiple fairness criteria},
-journal = {Information Processing & Management},
+journal = {Information Processing \& Management},
 volume = {59},
 number = {6},
 pages = {103099},
@@ -543,7 +543,15 @@ author = {Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fa
 keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware decision tree}
 }
 
-
+@inproceedings{NAACL-22,
+    title = {Contrastive Explanations of Text Classifiers as a Service},
+    author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
+    booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations},
+    year = {2022},
+    publisher = {Association for Computational Linguistics},
+    url = {https://aclanthology.org/2022.naacl-demo.6},
+    pages = {46--53}
+}
 
 @article{DBLP:journals/cii/GiabelliMMM22,
   author    = {Anna Giabelli and
