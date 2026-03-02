@@ -543,14 +543,22 @@ author = {Alessandro Castelnovo and Andrea Cosentini and Lorenzo Malandri and Fa
 keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware decision tree}
 }
 
-@inproceedings{NAACL-22,
-    title = {Contrastive Explanations of Text Classifiers as a Service},
-    author = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Andrea Seveso},
-    booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations},
-    year = {2022},
-    publisher = {Association for Computational Linguistics},
-    url = {https://aclanthology.org/2022.naacl-demo.6},
-    pages = {46--53}
+
+
+@article{DBLP:journals/cii/GiabelliMMM22,
+  author    = {Anna Giabelli and
+               Lorenzo Malandri and
+               Fabio Mercorio and
+               Mario Mezzanzanica},
+  title     = { WETA: Automatic taxonomy alignment via word embeddings},
+  journal   = {Comput. Ind.},
+  volume    = {138},
+  pages     = {103626},
+  year      = {2022},
+  url       = {https://doi.org/10.1016/j.compind.2022.103626},
+  doi       = {10.1016/j.compind.2022.103626},
+  biburl    = {https://dblp.org/rec/journals/cii/GiabelliMMM22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 
