@@ -24,10 +24,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 
 @article{10.1145/3764112,
-author = {Filippo Pallucchini and 
-  				  Lorenzo Malandri and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica},
+author = {Filippo Pallucchini and  Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},
 title = {Lost in Alignment: A Survey on Cross-Lingual Alignment Methods for Contextualized Representation},
 year = {2025},
 publisher = {Association for Computing Machinery},
