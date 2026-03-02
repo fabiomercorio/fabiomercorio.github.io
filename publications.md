@@ -477,11 +477,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457322002126},
 }
 
 @Inbook{Mezzanzanica2020,
-author="Mezzanzanica, Mario
-and Mercorio, Fabio",
-editor="Zomaya, Albert
-and Taheri, Javid
-and Sakr, Sherif",
+author="Mario Mezzanzanica and Fabio Mercorio",
 title="Big Data as Fuel of Skill Intelligence",
 bookTitle="Encyclopedia of Big Data Technologies",
 year="2020",
