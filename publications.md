@@ -25,7 +25,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 @inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
   author       = {Fabio Mercorio and
                   Mario Mezzanzanica and
-                  Daniele Potert{\`{\i}} and
+                  Daniele Potertì and
                   Antonio Serino and
                   Andrea Seveso},
   title        = {A Benchmark to Evaluate LLMs' Proficiency on Italian Student
