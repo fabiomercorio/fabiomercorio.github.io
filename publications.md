@@ -22,6 +22,46 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 
+@article{DBLP:journals/ijdsa/MalandriMMP25,
+  author       = {Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica and
+                  Filippo Pallucchini},
+  title        = {SeNSe: embedding alignment via semantic anchors selection},
+  journal      = {Int. J. Data Sci. Anal.},
+  volume       = {20},
+  number       = {1},
+  pages        = {167--181},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/s41060-024-00522-z},
+  doi          = {10.1007/S41060-024-00522-Z},
+  timestamp    = {Mon, 16 Jun 2025 16:15:15 +0200},
+  biburl       = {https://dblp.org/rec/journals/ijdsa/MalandriMMP25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
+  author       = {Fabio Mercorio and
+                  Mario Mezzanzanica and
+                  Daniele Potert{\`{\i}} and
+                  Antonio Serino and
+                  Andrea Seveso},
+  title        = {A Benchmark to Evaluate LLMs' Proficiency on Italian Student
+                  Competencies},
+  booktitle    = {Machine Learning and Knowledge Discovery in Databases. Research Track
+                  and Applied Data Science Track - European Conference, {ECML} {PKDD}
+                  2025, Porto, Portugal, September 15-19, 2025, Proceedings, Part {VIII}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {16020},
+  pages        = {292--309},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/978-3-662-72243-5\_17},
+  doi          = {10.1007/978-3-662-72243-5\_17},
+  timestamp    = {Sat, 15 Nov 2025 13:48:07 +0100},
+  biburl       = {https://dblp.org/rec/conf/pkdd/MercorioMPSS25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 @inproceedings{10.1145/3672608.3707960,
