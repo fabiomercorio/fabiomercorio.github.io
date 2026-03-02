@@ -565,7 +565,6 @@ keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware dec
   year      = {2022},
   url       = {https://doi.org/10.1016/j.compind.2022.103626},
   doi       = {10.1016/j.compind.2022.103626},
-  timestamp = {Mon, 04 Jul 2022 17:06:09 +0200},
   biburl    = {https://dblp.org/rec/journals/cii/GiabelliMMM22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
@@ -596,7 +595,7 @@ title = {ContrXT: Generating contrastive explanations from any text classifier},
 journal = {Information Fusion},
 volume = {81},
 pages = {103-115},
-year = {2022},
+year = {2023},
 issn = {1566-2535},
 doi = {https://doi.org/10.1016/j.inffus.2021.11.016},
 url = {https://www.sciencedirect.com/science/article/pii/S1566253521002426},
