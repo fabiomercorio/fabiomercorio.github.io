@@ -24,7 +24,21 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 
 
-
+@inproceedings{test,
+author = {Malandri, Lorenzo and Mercorio, Fabio and Serino, Antonio},
+title = {SkiLLMo: Normalized ESCO Skill Extraction through Transformer Models},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707960},
+doi = {10.1145/3672608.3707960},
+pages = {1969–1978},
+numpages = {10},
+keywords = {skill extraction, large language models, transformer models, information extraction, labor market},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC'25}
+}
 
 
 
@@ -41,7 +55,7 @@ pages = {1969–1978},
 numpages = {10},
 keywords = {skill extraction, large language models, transformer models, information extraction, labor market},
 location = {Catania International Airport, Catania, Italy},
-series = {SAC '25}
+series = {SAC'25}
 }
 
 @inproceedings{10.1145/3672608.3707718,
