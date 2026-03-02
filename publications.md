@@ -531,7 +531,7 @@ url="https://doi.org/10.1007/978-3-319-63962-8_276-2"
 
 @article{FFtree2022,
 title = {FFTree: A flexible tree to handle multiple fairness criteria},
-journal = {Information Processing \& Management},
+journal = {Information Processing and Management},
 volume = {59},
 number = {6},
 pages = {103099},
