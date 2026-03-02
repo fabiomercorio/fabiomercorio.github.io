@@ -570,13 +570,7 @@ keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware dec
 }
 
 
-@article{CogComp,
-author = {Anna Giabelli and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
-title = {Embeddings Evaluation using a Novel Measure of Semantic Similarity},
-journal = {Cognitive Computation},
-url = {https://link.springer.com/article/10.1007/s12559-021-09987-7},
-year = {2022}
-}
+
 
 @article{GOZZI2022108053,
 title = {XAI for myo-controlled prosthesis: Explaining EMG data for hand gesture classification},
