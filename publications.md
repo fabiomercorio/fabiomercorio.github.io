@@ -23,6 +23,41 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 
 
+
+@inproceedings{10.1145/3672608.3707960,
+author = {Malandri, Lorenzo and Mercorio, Fabio and Serino, Antonio},
+title = {SkiLLMo: Normalized ESCO Skill Extraction through Transformer Models},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707960},
+doi = {10.1145/3672608.3707960},
+pages = {1969–1978},
+numpages = {10},
+keywords = {skill extraction, large language models, transformer models, information extraction, labor market},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
+@inproceedings{10.1145/3672608.3707718,
+author = {Colombo, Samuele and D'Amico, Simone and Malandri, Lorenzo and Mercorio, Fabio and Seveso, Andrea},
+title = {JobSet: Synthetic Job Advertisements Dataset for Labour Market Intelligence},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707718},
+doi = {10.1145/3672608.3707718},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {928–935},
+numpages = {8},
+keywords = {large language models, benchmark, labour market},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
+}
+
+
 @inproceedings{10.1145/3672608.3707906,
 author = {D'Amico, Simone and De Santo, Alessia and Mezzanzanica, Mario and Mercorio, Fabio},
 title = {Taxonomy Expansion through Collaborative LLM Mapping},
