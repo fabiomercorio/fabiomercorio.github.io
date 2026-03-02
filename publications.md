@@ -21,6 +21,24 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
+@article{DBLP:journals/ijdsa/MalandriMMP25,
+  author       = {Lorenzo Malandri and
+                  Fabio Mercorio and
+                  Mario Mezzanzanica and
+                  Filippo Pallucchini},
+  title        = {SeNSe: embedding alignment via semantic anchors selection},
+  journal      = {Int. J. Data Sci. Anal.},
+  volume       = {20},
+  number       = {1},
+  pages        = {167--181},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/s41060-024-00522-z},
+  doi          = {10.1007/S41060-024-00522-Z},
+  timestamp    = {Mon, 16 Jun 2025 16:15:15 +0200},
+  biburl       = {https://dblp.org/rec/journals/ijdsa/MalandriMMP25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
 
 @inproceedings{DBLP:conf/pkdd/MercorioMPSS25,
   author       = {Fabio Mercorio and
@@ -123,7 +141,7 @@ isbn="978-3-031-74633-8"
 
 @inproceedings{seveso-etal-2025-italic,
     title = "ITALIC: An Italian Culture-Aware Natural Language Benchmark",
-    author = "Seveso, Andrea  and Poterti, Daniele  and Federici, Edoardo  and Mezzanzanica, Mario  and Mercorio, Fabio",
+    author = "Seveso, Andrea  and Potertì, Daniele  and Federici, Edoardo  and Mezzanzanica, Mario  and Mercorio, Fabio",
     booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     month = apr,
     year = "2025",
@@ -135,7 +153,7 @@ isbn="978-3-031-74633-8"
 
 @inproceedings{DBLP:conf/clic-it/MercorioPSS24,
   author       = {Fabio Mercorio and
-                  Daniele Poterti and
+                  Daniele Potertì and
                   Antonio Serino and
                   Andrea Seveso},
   editor       = {Felice Dell'Orletta and
