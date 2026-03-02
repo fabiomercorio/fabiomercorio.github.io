@@ -582,7 +582,7 @@ year = {2022}
 title = {XAI for myo-controlled prosthesis: Explaining EMG data for hand gesture classification},
 journal = {Knowledge-Based Systems},
 pages = {108053},
-year = {2023},
+year = {2022},
 issn = {0950-7051},
 doi = {https://doi.org/10.1016/j.knosys.2021.108053},
 url = {https://www.sciencedirect.com/science/article/pii/S0950705121011394},
@@ -604,22 +604,13 @@ keywords = {Post-hoc explainability, Contrastive explanation methods for XAI, XA
 }
 
 @InProceedings{10.1007/978-3-030-86523-8_37,
-author="Malandri, Lorenzo
-and Mercorio, Fabio
-and Mezzanzanica, Mario
-and Nobani, Navid",
-editor="Oliver, Nuria
-and P{\'e}rez-Cruz, Fernando
-and Kramer, Stefan
-and Read, Jesse
-and Lozano, Jose A.",
+author="Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani",
 title="TaxoRef: Embeddings Evaluation for AI-driven Taxonomy Refinement",
 booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
 year="2021",
 publisher="Springer International Publishing",
 address="Cham",
 pages="612--627",
-abstract="Taxonomies provide a structured representation of semantic relations between lexical terms. In the case of standard official taxonomies, the refinement task consists of maintaining them updated over time, while preserving their original structure. To date, most of the approaches for automated taxonomy refinement rely on word vector models. However, none of them considers to what extent those models encode the taxonomic similarity between words. Motivated by this, we propose and implement TaxoRef, a methodology that (i) synthesises the semantic similarity between taxonomic elements through a new metric, namely HSS, (ii) evaluates to what extent the embeddings generated from a text corpus preserve those similarity relations and (iii) uses the best embedding resulted from this evaluation to perform taxonomy refinement. TaxoRef is a part of the research activity of a 4-year EU project that collects and classifies millions of Online Job Ads for the 27+1 EU countries. It has been tested over 2M ICT job ads classified over ESCO, the European standard occupation and skill taxonomy.",
 isbn="978-3-030-86523-8"
 }
 
