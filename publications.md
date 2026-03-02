@@ -558,7 +558,7 @@ keywords = {Machine learning, Explainable AI, Fairness, Discrimination-aware dec
                Lorenzo Malandri and
                Fabio Mercorio and
                Mario Mezzanzanica},
-  title     = { {WETA:} Automatic taxonomy alignment via word embeddings},
+  title     = { WETA: Automatic taxonomy alignment via word embeddings},
   journal   = {Comput. Ind.},
   volume    = {138},
   pages     = {103626},
