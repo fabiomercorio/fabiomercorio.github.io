@@ -25,6 +25,29 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 
 
+@inproceedings{SFAL,
+      title={SFAL: Semantic-Functional Alignment Scores for Distributional Evaluation of Auto-Interpretability in Sparse Autoencoders}, 
+      author={Fabio Mercorio and Filippo Pallucchini and Daniele Potertì and Antonio Serino and Andrea Seveso},
+      year={2025},
+      booktitle={EMNLP 2025, The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
+@inproceedings{SAFE,
+      title={SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs}, 
+      author={Samir Abdaljalil and Filippo Pallucchini and Andrea Seveso and HASAN KURBAN and Fabio Mercorio and Erchin Serpedin},
+      year={2025},
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
+
+@inproceedings{RoleVector,
+      title={Can Role Vectors Affect LLM Behaviour?}, 
+      author={Daniele Poterti and Andrea Seveso and Fabio Mercorio},
+      year={2025},
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+}
+
+
 @inproceedings{Skillens,
       title={SkiLLens: Recognising and Mapping Novel Skills from Millions of Job Ads Across Europe Using Language Models}, 
       author={Alessia De Santo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
