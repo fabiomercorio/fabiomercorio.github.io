@@ -22,10 +22,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 <pre id="bibtex" style="display:none;">
 
 @article{DBLP:journals/ijdsa/MalandriMMP25,
-  author       = {Lorenzo Malandri and
-                  Fabio Mercorio and
-                  Mario Mezzanzanica and
-                  Filippo Pallucchini},
+  author       = {Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Filippo Pallucchini},
   title        = {SeNSe: embedding alignment via semantic anchors selection},
   journal      = {Int. J. Data Sci. Anal.},
   volume       = {20},
