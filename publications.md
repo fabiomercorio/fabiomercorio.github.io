@@ -21,18 +21,6 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 </table>
 <pre id="bibtex" style="display:none;">
 
-@article{NOBANI2026104715,
-title = {Synthetic data generation: A tertiary study},
-journal = {Information Processing and Management},
-volume = {63},
-number = {6},
-pages = {104715},
-year = {2026},
-issn = {0306-4573},
-doi = {https://doi.org/10.1016/j.ipm.2026.104715},
-url = {https://www.sciencedirect.com/science/article/pii/S0306457326001068},
-author = {Navid Nobani and Giovanni Officioso and Filippo Pallucchini and Giancarlo Sperlì and Fabio Mercorio}
-}
 
 
 @article{10.1145/3764112,
