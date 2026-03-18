@@ -9,12 +9,6 @@ full-width: true
 layout: page
 title: Publications
 subtitle: Selected Publications
-ext-css:
-  - "https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css"
-ext-js:
-  - "https://code.jquery.com/jquery-1.12.4.min.js"
-  - "https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"
-  - "https://cdnjs.cloudflare.com/ajax/libs/bib-publication-list/0.0.4/bib-list.min.js"
 ---
 
 I try to keep the following list of publications up to date. Have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it&oi=ao) and [DBLP record](https://dblp.uni-trier.de/pers/hd/m/Mercorio:Fabio.html).
