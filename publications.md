@@ -23,6 +23,7 @@ Notice: The copies that can be obtained here are preprints since the copyrights 
 
 <table id="pubTable" class="display"></table>
 
+{% raw %}
 <pre id="bibtex" style="display:none">
 
 
@@ -1355,6 +1356,7 @@ pages = {31--44}
 }
 
 </pre>
+{% endraw %}
 
 The source bibtex list is rendered using [vkaravir's bib-publication-list.](https://github.com/vkaravir/bib-publication-list)
 
