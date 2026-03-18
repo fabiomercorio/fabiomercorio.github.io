@@ -16,7 +16,6 @@ I try to keep the following list of publications up to date. Have a look at my [
 Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
 
 <table id="pubTable" class="display"></table>
-
 <pre id="bibtex" style="display:none">
 
 
