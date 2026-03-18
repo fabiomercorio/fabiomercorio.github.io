@@ -5,12 +5,6 @@ subtitle: Selected Publications
 published: true
 full-width: true
 ---
----
-layout: page
-title: Publications
-subtitle: Selected Publications
----
-
 I try to keep the following list of publications up to date. Have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=it&oi=ao) and [DBLP record](https://dblp.uni-trier.de/pers/hd/m/Mercorio:Fabio.html).
 
 Notice: The copies that can be obtained here are preprints since the copyrights to many of the papers are held by the publishers.
