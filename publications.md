@@ -126,6 +126,13 @@ keywords = {embedding alignment, cross-lingual alignment}
 title = {Synthetic Data Generation: A Tertiary Study},
 journal = {Information Processing and Management (to appear)},
 year = {2026},
+volume = {63},
+number = {6},
+pages = {104715},
+year = {2026},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2026.104715},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457326001068},
 author = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo Sperlì and Giovanni Officioso}
 }
 
