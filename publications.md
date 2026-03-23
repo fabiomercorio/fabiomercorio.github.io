@@ -88,14 +88,22 @@ keywords = {embedding alignment, cross-lingual alignment}
       title={SFAL: Semantic-Functional Alignment Scores for Distributional Evaluation of Auto-Interpretability in Sparse Autoencoders}, 
       author={Fabio Mercorio and Filippo Pallucchini and Daniele Potertì and Antonio Serino and Andrea Seveso},
       year={2025},
-      booktitle={EMNLP 2025, The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+      url = "https://aclanthology.org/2025.emnlp-industry.39/",
+    doi = "10.18653/v1/2025.emnlp-industry.39",
+    pages = "576--583",
+    ISBN = "979-8-89176-333-3",
+      booktitle={EMNLP 2025, The 2025 Conference on Empirical Methods in Natural Language Processing} 
 }
 
 @inproceedings{SAFE,
       title={SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs}, 
       author={Samir Abdaljalil and Filippo Pallucchini and Andrea Seveso and HASAN KURBAN and Fabio Mercorio and Erchin Serpedin},
       year={2025},
-      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+      url = "https://aclanthology.org/2025.findings-emnlp.496/",
+    doi = "10.18653/v1/2025.findings-emnlp.496",
+    pages = "9335--9346",
+    ISBN = "979-8-89176-335-7",
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing} 
 }
 
 
@@ -103,7 +111,12 @@ keywords = {embedding alignment, cross-lingual alignment}
       title={Can Role Vectors Affect LLM Behaviour?}, 
       author={Daniele Poterti and Andrea Seveso and Fabio Mercorio},
       year={2025},
-      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing (to appear)} 
+      url = "https://aclanthology.org/2025.findings-emnlp.963/",
+    doi = "10.18653/v1/2025.findings-emnlp.963",
+    pages = "17735--17747",
+    ISBN = "979-8-89176-335-7",
+    
+      booktitle={EMNLP 2025 (Findings), The 2025 Conference on Empirical Methods in Natural Language Processing} 
 }
 
 
