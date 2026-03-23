@@ -111,14 +111,21 @@ keywords = {embedding alignment, cross-lingual alignment}
       title={SkiLLens: Recognising and Mapping Novel Skills from Millions of Job Ads Across Europe Using Language Models}, 
       author={Alessia De Santo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},
       year={2026},
-      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) (to appear)} 
+      url = "https://aclanthology.org/2026.eacl-industry.65/",
+    pages = "877--885",
+    ISBN = "979-8-89176-384-5",
+      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)} 
 }
 
 @inproceedings{Safe-Unsafe,
       title={Safe-Unsafe Concept Separation Emerges from a Single Direction in Language Models Activation Space}, 
       author={Antonio Serino and Andrea Ermellino and Lorenzo Malandri and Fabio Mercorio},
       year={2026},
-      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) (to appear)} 
+      publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.139/",
+    pages = "3019--3034",
+    ISBN = "979-8-89176-380-7",
+      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)} 
 }
 
 
