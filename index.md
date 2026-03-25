@@ -18,6 +18,7 @@ js: /js/counter.js
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
 ### Relevant 2026 https://neurips.cc/Conferences/2026/Dates)
+- [NeurIPS-26](https://neurips.cc/Conferences/2026/Dates)
 - [ECML-PKDD-26](https://ecmlpkdd.org/2026/)
 - [EACL-26](https://2026.eacl.org/)
 - [KDD-26](http://kdd2026.kdd.org/)
