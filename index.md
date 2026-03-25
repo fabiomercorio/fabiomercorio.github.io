@@ -22,7 +22,7 @@ js: /js/counter.js
 - [ECML-PKDD-26](https://ecmlpkdd.org/2026/)
 - [EACL-26](https://2026.eacl.org/)
 - [KDD-26](http://kdd2026.kdd.org/)
-- [IJCAI-26 (Survey Track)](https://ijcai25.org/call-for-papers/)
+- [IJCAI-26 (Survey Track)](https://ijcai26.org/call-for-papers/)
 - [AAAI-26](https://aaai.org/conference/aaai/aaai-26/)
 
 ### About
