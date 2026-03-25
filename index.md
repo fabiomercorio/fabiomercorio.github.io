@@ -17,15 +17,12 @@ js: /js/counter.js
 - <span style="color:MediumSeaGreen">``Speech``</span> "Social Media and AI: No Screen Neededs To Grow Smart". See my speech about the impact of AI in education (with Pellai, Botturi and Wolf) [IT](https://lnkd.in/dchmhuFS), [EN](https://lnkd.in/dfuirfKt), [FR](https://lnkd.in/dcQvdqu4)
 - <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant events I’m involved in as (senior) PC
+### Relevant 2026 https://neurips.cc/Conferences/2026/Dates)
+- [ECML-PKDD-26](https://ecmlpkdd.org/2026/)
+- [EACL-26](https://2026.eacl.org/)
+- [KDD-26](http://kdd2026.kdd.org/)
+- [IJCAI-26 (Survey Track)](https://ijcai25.org/call-for-papers/)
 - [AAAI-26](https://aaai.org/conference/aaai/aaai-26/)
-- [CIKM-25](https://cikm2025.org/)
-- [EMNLP-25](https://2025.emnlp.org)
-- [NAACL-25](https://2025.naacl.org/calls/papers/) 
-- [IJCAI-25 (Survey Track)](https://ijcai25.org/call-for-papers/)
-- [ECML-PKDD-25](https://ecmlpkdd.org/2025/)
-- [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
-- [COLING-25](https://coling2025.org/calls/industry_track/)
 
 ### About
 I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in AI and Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) at University of Milano-Bicocca, Italy.
