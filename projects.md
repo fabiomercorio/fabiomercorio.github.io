@@ -57,6 +57,8 @@ published: true
 * #### `Eurofound – Big Data Guidelines` [2021 – 2022]
   **Collecting and analysing big quantitative data: statistical analysis and machine learning**, funded by Eurofound – European Foundation for the Improvement of Living and Working Conditions.
   Produced a guideline outlining steps, challenges, and methodologies for implementing Big Data Analytics projects, supported by academic literature and case studies. *(Principal Investigator)*
+  — Related publications: [[Methodological Guide 2022](https://www.eurofound.europa.eu/en/publications/all/using-big-data-analytics-support-decision-making)] 
+  
  
 * #### `Lanbide – Skills Prototype` [2022 – 2023]
   **Sistema de evaluación de competencias demandadas por el mercado de trabajo** — LAN/A-46/2022, funded by Lanbide – Servicio Vasco de Empleo / Prospektiker S.A.
