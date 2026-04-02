@@ -7,17 +7,14 @@ published: true
 ``Notice: This content is not updated!``
 
 
-## Ongoing Granted Research Projects
- 
-I have been working on the following granted research projects, applying AI, NLP, and Big Data to real-world scenarios — particularly in Labour Market Intelligence, Explainable AI, and Skill Intelligence.
- 
 * #### `EUROSTAT + CEDEFOP` [2025 – current]
   **Development and maintenance of web content retrieval and data processing pipelines for statistical purposes within the Web Intelligence Hub** — EC-ESTAT/2025/OP/0012.
   Funded by Eurostat and Cedefop, the project enhances and maintains the Web Intelligence Hub (WIH) system across all 27+1 EU countries, upgrading it with state-of-the-art AI, ML, and NLP techniques. *(Head of Research Unit)*
  
 * #### `ISALDI` [2023 – current]
   **Interpretable Stock Analysis Leveraging Deep Multimodal Models** — PRIN Italian Project (2023–2025), funded by the Italian Ministry for Research.
-  Develops novel NLP algorithms to extract information from web content (e.g., social media) for sentiment analysis and explainable AI in the financial domain. *(Co-Principal Investigator)*
+  Develops novel NLP algorithms to extract information from web content (e.g., social media) for sentiment analysis and explainable AI in the financial domain. *(Principal Investigator)*
+  — Related publications: [[RE-FIN — COLING Industry 2025](https://aclanthology.org/2025.coling-industry.62/)] [[Learning Across Modalities — Inf. Fusion 2026](https://doi.org/10.1016/j.inffus.2026.104249)] [[Synthetic Data Generation — IPM 2026](https://doi.org/10.1016/j.ipm.2026.104715)]
  
 * #### `ETF – Human Capital Development` [2022 – current]
   **Human Capital Development Expertise Services — Lotto 4 - Big Data Analytics Framework Service Contract** (2022–2026), funded by the European Training Foundation (ETF).
@@ -42,10 +39,12 @@ I have been working on the following granted research projects, applying AI, NLP
 * #### `EUROSTAT + CEDEFOP – WIH-OJA` [2020 – 2024]
   **Towards the European Web Intelligence Hub — European System for Collection and Analysis of Online Job Advertisement Data (WIH-OJA)** — AO/DSL/VKVET-JBRAN/WIH-OJA/002/20, funded by Cedefop.
   A continuation of the Real-Time LMI framework contract, consolidating the online vacancy analysis tool and developing it into a system integrated with Eurostat Smart Statistics, extended to Switzerland, Liechtenstein, Norway, and Iceland. *(Head of Research Unit)*
+  — Related publications: [[WoLMIS — J. Intell. Inf. Syst. 2018](https://doi.org/10.1007/s10844-017-0488-x)] [[Classifying Job Ads — Future Gen. Comput. Syst. 2018](https://doi.org/10.1016/j.future.2018.03.035)] [[Skills in Demand for ICT — Stat. Anal. Data Min. 2018](https://doi.org/10.1002/sam.11372)] [[Skills2Job — Appl. Soft Comput. 2021](https://doi.org/10.1016/j.asoc.2020.107049)] [[AI meets Labor Market — Inf. Econ. Policy 2019](https://doi.org/10.1016/j.infoecopol.2019.05.003)]
  
 * #### `H2020 – PILLARS` [2021 – 2023]
   **Pathways to Inclusive Labour Markets** — GA 101004703, funded by the European Commission under H2020-SC6.
   Provided policymakers and the public with insights into the evolving demand for new skills and how to adapt education and training systems, including analysis of past, present, and future labour market trends. [Project website](https://www.h2020-pillars.eu/) *(Head of Research Unit)*
+  — Related publications: [[Skills Mismatch & Automation — CESifo Forum 2022](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141179931&partnerID=40&md5=35bc2b2cd2e622ad47533b7fa0adc699)] [[SkiLLens — EACL-26](https://aclanthology.org/2026.eacl-industry.65/)] [[VEUCTOR — Inf. Sciences 2026](https://doi.org/10.1016/j.ins.2026.123274)]
  
 * #### `CFMT – Osservatorio Manager Terziario` [2021 – 2022]
   **Analysis of Italian Online Job Vacancies for Tertiary Sector Managers with Pre/Post COVID-19 Trends**, funded by CFMT – Centro di Formazione Management del Terziario.
@@ -69,7 +68,8 @@ I have been working on the following granted research projects, applying AI, NLP
  
 * #### `AI4ESCO` [2019 – 2020]
   **Data Driven Bridge Towards ESCO Using AI Algorithms**, funded by the European Commission (EURES — call EaSI-EURES VP/2019/010).
-  Supported Member States and EURES partners in establishing high-quality mapping tables for matching job vacancies and CVs on the European Job Mobility Portal. The resulting ISTAT CP-2011 to ESCO bridge is now the official EU mapping released by the European Commission. *(Head of Research Unit)*
+  Supported Member States and EURES partners in establishing high-quality mapping tables for matching job vacancies and CVs on the European Job Mobility Portal. The resulting ISTAT CP-2011 to ESCO bridge is the official EU mapping released by the European Commission. *(Head of Research Unit)*
+  — Related publications: [[WETA — Comput. Ind. 2022](https://doi.org/10.1016/j.compind.2022.103626)]
  
 * #### `ESCALATE` [2019 – 2021]
   **Coordinated Higher Institutions Responses to Digitalization** — 2019-1-RO01-KA203-063214, funded by the European Commission.
@@ -86,6 +86,7 @@ I have been working on the following granted research projects, applying AI, NLP
 * #### `SLeM – Smart Legal Management` [2018 – 2020]
   **Smart Legal Management** — F/050276/00/X32, funded by MIUR (PON project), led by Eustema S.p.A.
   Explored data analysis and predictive algorithms for budget forecasting and classification of legal cases and documentation in the legal domain. *(Head of Research Unit)*
+  — Related publications: [[MERLIN — Decision Support Syst. 2024](https://doi.org/10.1016/j.dss.2023.114040)] [[ContrXT — Inf. Fusion 2022](https://doi.org/10.1016/j.inffus.2021.11.016)] [[ConvXAI — Cogn. Comput. 2023](https://doi.org/10.1007/s12559-022-10067-7)] [[FFTree — IPM 2022](https://doi.org/10.1016/j.ipm.2022.103099)]
  
 * #### `Observatory of Digital Competences` [2017 – 2021]
   **Osservatorio delle Competenze Digitali**, commissioned by the main Italian ICT industry associations (Assinform, Assintel, Assinter, AICA) with the patronage of AgID and MIUR.
@@ -98,6 +99,7 @@ I have been working on the following granted research projects, applying AI, NLP
 * #### `Real-Time LMI – EU System` [2016 – 2020]
   **Real-time Labour Market Information on Skill Requirements: Setting up the EU System for Online Vacancy Analysis**, funded by [Cedefop EU Agency](https://www.cedefop.europa.eu).
   Framework contract led by the University of Milano-Bicocca to set up an EU system for online vacancy analysis covering all 28 EU Member States and 24 languages. *(Head of Research Unit)*
+  — Related publications: [[WoLMIS — J. Intell. Inf. Syst. 2018](https://doi.org/10.1007/s10844-017-0488-x)] [[Classifying Job Ads — Future Gen. Comput. Syst. 2018](https://doi.org/10.1016/j.future.2018.03.035)] [[Skills in Demand for ICT — Stat. Anal. Data Min. 2018](https://doi.org/10.1002/sam.11372)] [[Skills2Job — Appl. Soft Comput. 2021](https://doi.org/10.1016/j.asoc.2020.107049)]
  
 * #### `University Orientation via Open Data` [2016 – 2017]
   **University Orientation Support through Open Data Integration**, funded by Regione Lombardia (collaboration agreement under art. 15, L. 241/1990).
@@ -110,10 +112,12 @@ I have been working on the following granted research projects, applying AI, NLP
 * #### `Data Consistency Evaluation through AI Planning` [2012 – 2014]
   Granted by ARIFL Agency on behalf of Regione Lombardia.
   Defined a formal algorithm for checking the data quality and consistency of weakly-structured administrative data — comprising tens of millions of records from mandatory labour communications (COB) — by expressing the problem as AI planning via model-checking, where the error trace provides a deterministic inconsistency witness. *(Researcher)*
+  — Related publications: [[Data Quality through Model Checking — IDA 2011](https://doi.org/10.1007/978-3-642-24800-9_26)] [[A Model-Based Approach for Data Cleansing — ACM JDIQ 2015](https://doi.org/10.1145/2641575)]
  
 * #### `Automatic Data Cleansing through AI Planning` [2012 – 2014]
   Granted by ARIFL Agency on behalf of Regione Lombardia.
   Defined and implemented a novel technique (built on top of UPMurphi) for the automatic synthesis of a Universal Cleanser — a repository of all feasible actions capable of cleansing dirty administrative data — connected directly to external databases for processing up to millions of records. *(Researcher)*
+  — Related publications: [[UPMurphi — ICAPS-09](http://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/707)] [[A Universal Planning System for Hybrid Domains — Appl. Intell. 2012](https://doi.org/10.1007/s10489-011-0306-z)] [[A Model-Based Approach for Data Cleansing — ACM JDIQ 2015](https://doi.org/10.1145/2641575)]
   
    <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
