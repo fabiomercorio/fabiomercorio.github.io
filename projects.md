@@ -88,7 +88,7 @@ published: true
 * #### `SLeM – Smart Legal Management` [2018 – 2020]
   **Smart Legal Management** — F/050276/00/X32, funded by MIUR (PON project), led by Eustema S.p.A.
   Explored data analysis and predictive algorithms for budget forecasting and classification of legal cases and documentation in the legal domain. *(Head of Research Unit)*
-  — Related publications: [[MERLIN — Decision Support Syst. 2024](https://doi.org/10.1016/j.dss.2023.114040)] [[ContrXT — Inf. Fusion 2022](https://doi.org/10.1016/j.inffus.2021.11.016)] [[ConvXAI — Cogn. Comput. 2023](https://doi.org/10.1007/s12559-022-10067-7)] [[FFTree — IPM 2022](https://doi.org/10.1016/j.ipm.2022.103099)]
+
  
 * #### `Observatory of Digital Competences` [2017 – 2021]
   **Osservatorio delle Competenze Digitali**, commissioned by the main Italian ICT industry associations (Assinform, Assintel, Assinter, AICA) with the patronage of AgID and MIUR.
