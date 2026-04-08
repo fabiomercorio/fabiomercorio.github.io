@@ -51,11 +51,9 @@ I am Full Professor in Computer Science at [University of Milan-Bicocca](https:/
 _"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and researchers of our team
 - [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Reseacher in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
 - [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Researcher on XAI, Dept of Statistics and Quantitative Methods at Unimib 
-- [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
-- [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- Anna Velyka, PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
-- Simone D'Amico, PhD Candidate in Big Data Analytics for Business 
+- [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib
+- [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib  
+- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business  
 - Alessia De Santo, PhD Candidate in Big Data Analytics for Business 
 - Antonio Serino, PhD Student in Big Data Analytics for Business 
 - Daniele Potertì, PhD Student in Big Data Analytics for Business 
@@ -63,7 +61,10 @@ _"If you want to go fast go alone. If you want to go far go together"_. Proud to
 
 ##### Past members
 - [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science, now Research Fellow at Istituto Mario Negri
+- Simone D'Amico, PhD in Big Data Analytics for Business, now AI Engineer at Capgemini
+- Anna Velyka, PostDoc in NLP 
 - [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now Data Science Manager at Intesa SanPaolo Bank
+
 
 #### (Co)-Developed Tools for Researchers
 
