@@ -23,6 +23,10 @@ published: true
 * #### `Lanbide – Basque Country Skills System` [2024 – current]
   **Adaptación del sistema de evaluación de competencias demandadas por el mercado de trabajo** — LAN/A-37/2024, funded by Lanbide – Servicio Vasco de Empleo / Prospektiker S.A.
   Transforms the 2022 web-based prototype into a fully-fledged system that analyses skill demand (ESCO) by occupation, based on job offers from major employment portals in the Basque Country. *(Principal Investigator)*
+  
+  * #### `CFMT – Osservatorio Manager Terziario` [2021 – 2028]
+  **Analysis of Italian Online Job Vacancies for Tertiary Sector Managers with Pre/Post COVID-19 Trends**, funded by CFMT – Centro di Formazione Management del Terziario.
+  Studied job advertisements for service sector managers in Italy, comparing job demand before and after COVID-19 — including source selection, data classification, skill extraction, and data visualisation. *(Head of Research Unit)*
  
 ---
  
@@ -46,9 +50,6 @@ published: true
   Provided policymakers and the public with insights into the evolving demand for new skills and how to adapt education and training systems, including analysis of past, present, and future labour market trends. [Project website](https://www.h2020-pillars.eu/) *(Head of Research Unit)*
   — Related publications: [[Skills Mismatch & Automation — CESifo Forum 2022](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141179931&partnerID=40&md5=35bc2b2cd2e622ad47533b7fa0adc699)] [[SkiLLens — EACL-26](https://aclanthology.org/2026.eacl-industry.65/)] [[VEUCTOR — Inf. Sciences 2026](https://doi.org/10.1016/j.ins.2026.123274)]
  
-* #### `CFMT – Osservatorio Manager Terziario` [2021 – 2022]
-  **Analysis of Italian Online Job Vacancies for Tertiary Sector Managers with Pre/Post COVID-19 Trends**, funded by CFMT – Centro di Formazione Management del Terziario.
-  Studied job advertisements for service sector managers in Italy, comparing job demand before and after COVID-19 — including source selection, data classification, skill extraction, and data visualisation. *(Head of Research Unit)*
  
 * #### `ENISA – Cybersecurity Labour Market` [2021]
   **Cybersecurity Labour Market Analysis through automatic job vacancy analysis**, funded by the European Union Agency for Cybersecurity (ENISA).
