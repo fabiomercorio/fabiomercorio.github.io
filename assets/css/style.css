@@ -99,8 +99,8 @@
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
-  /* compensate for the fixed nav (70px tall) so content doesn't slide under it */
-  padding-top: 70px;
+  /* compensate for the fixed nav (70px) + iOS safe-area-inset-top (notch) */
+  padding-top: calc(70px + env(safe-area-inset-top, 0px));
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
@@ -123,19 +123,23 @@ a:hover { color: var(--coral); }
 
 /* ---------- Nav ---------- */
 .nav {
-  /* fixed instead of sticky: definitive fix for iOS Safari bug where the sticky
-     nav got clipped behind the URL bar during scroll-down. Body has padding-top:70px
-     to compensate for the nav being out of document flow. */
+  /* fixed positioning — definitive fix for iOS Chrome/Safari mobile bug where
+     the nav got clipped during scroll. Body has padding-top to compensate.
+     No backdrop-filter / color-mix here: both cause rendering glitches on
+     iOS WebKit during fast scroll. Solid bg, GPU-accelerated. */
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 50;
-  height: 70px;
-  background: color-mix(in srgb, var(--bg) 86%, transparent);
-  backdrop-filter: blur(14px) saturate(160%);
-  -webkit-backdrop-filter: blur(14px) saturate(160%);
+  /* push the nav content down by safe-area-inset-top so it stays out from
+     under iOS Chrome / Safari URL bar */
+  padding-top: env(safe-area-inset-top, 0px);
+  height: calc(70px + env(safe-area-inset-top, 0px));
+  background: var(--bg);
   border-bottom: 1px solid var(--line);
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 .nav-inner {
   max-width: var(--max-w-wide);
