@@ -971,7 +971,7 @@ a:hover { color: var(--coral); }
   color: var(--ink);
 }
 .pub-authors { font-size: 13.5px; color: var(--ink-soft); line-height: 1.5; margin: 0 0 4px; }
-.pub-authors .me { color: var(--ink); font-weight: 700; }
+/* nessuno stile speciale per il proprio nome — appare come gli altri co-autori */
 .pub-venue { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.03em; color: var(--ink-faint); }
 
 .pub-actions { display: flex; gap: 6px; flex-wrap: wrap; }
