@@ -35,8 +35,9 @@ home: true
       <h2 class="s-title">Latest <em>news</em></h2>
     </div>
 
-    <div class="news md reveal" markdown="1">
-{% include news.md %}
+    <div class="news md reveal">
+      {%- capture news_md -%}{%- include news.md -%}{%- endcapture -%}
+      {{ news_md | markdownify }}
     </div>
   </div>
 </section>
@@ -68,8 +69,9 @@ home: true
       <h2 class="s-title"><em>About</em> me</h2>
     </div>
 
-    <div class="md reveal" markdown="1">
-{% include about.md %}
+    <div class="md reveal">
+      {%- capture about_md -%}{%- include about.md -%}{%- endcapture -%}
+      {{ about_md | markdownify }}
     </div>
 
     <h3 class="sub-head reveal">Current positions</h3>

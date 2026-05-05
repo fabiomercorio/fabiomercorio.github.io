@@ -34,8 +34,9 @@ nav: teaching
     </div>
     <p class="s-sub reveal">Active courses, organised by department.</p>
 
-    <div class="md reveal" markdown="1">
-{% include teaching-current.md %}
+    <div class="md reveal">
+      {%- capture tc_md -%}{%- include teaching-current.md -%}{%- endcapture -%}
+      {{ tc_md | markdownify }}
     </div>
   </div>
 </section>
@@ -48,8 +49,9 @@ nav: teaching
       <h2 class="s-title">Past <em>teaching</em></h2>
     </div>
 
-    <div class="md reveal" markdown="1">
-{% include teaching-past.md %}
+    <div class="md reveal">
+      {%- capture tp_md -%}{%- include teaching-past.md -%}{%- endcapture -%}
+      {{ tp_md | markdownify }}
     </div>
   </div>
 </section>
