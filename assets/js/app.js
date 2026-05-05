@@ -55,14 +55,16 @@
     });
   });
 
-  /* ---------- Markdown support ----------
-     Any element with [data-md], [data-md-from], or class "md" has its inner content parsed as Markdown.
-     - data-md="path/to/file.md"   → fetch the file (works when served via http)
-     - data-md-from="#some-id"     → read text from another element (e.g. <script type="text/markdown" id="...">)
-     - .md or [data-md] (no value) → parse the element's own text content
+  /* ---------- Markdown support (legacy) ----------
+     RIMOSSO: ora il sito usa Jekyll, che renderizza il markdown server-side
+     via {% include news.md %} con markdown="1". Il blocco precedente leggeva
+     textContent dei div .md e li ri-renderizzava in JS — perdeva la struttura
+     HTML (es. <span class="tag tag-publication">) e rompeva il rendering.
+     Manteniamo solo il supporto per [data-md] esterno (fetch di .md remoti),
+     che non viene usato di default ma può tornare utile in futuro.
   */
-  const mdNodes = document.querySelectorAll('[data-md], [data-md-from], .md');
-  if (mdNodes.length) {
+  const mdFetchNodes = document.querySelectorAll('[data-md]:not([data-md=""])');
+  if (mdFetchNodes.length) {
     const ensureMarked = () => new Promise((resolve) => {
       if (window.marked) return resolve(window.marked);
       const s = document.createElement('script');
@@ -71,32 +73,16 @@
       document.head.appendChild(s);
     });
     ensureMarked().then((marked) => {
-      const parse = (text) => marked.parse(text, { breaks: false, gfm: true });
-      const stripIndent = (s) => {
-        const lines = s.replace(/^\n+/, '').split('\n');
-        const indent = lines.filter(l => l.trim()).reduce((m, l) => Math.min(m, l.match(/^\s*/)[0].length), Infinity);
-        return lines.map(l => l.slice(isFinite(indent) ? indent : 0)).join('\n');
-      };
-      mdNodes.forEach(async (el) => {
-        const fromSel = el.getAttribute('data-md-from');
+      mdFetchNodes.forEach(async (el) => {
         const src = el.getAttribute('data-md');
-        let text;
-        if (fromSel) {
-          const source = document.querySelector(fromSel);
-          text = source ? source.textContent : '';
-        } else if (src && src.length > 0) {
-          try {
-            const r = await fetch(src);
-            text = await r.text();
-          } catch (e) {
-            console.warn('Markdown fetch failed', e);
-            return;
-          }
-        } else {
-          text = el.textContent;
+        try {
+          const r = await fetch(src);
+          const text = await r.text();
+          el.innerHTML = marked.parse(text, { breaks: false, gfm: true });
+          el.classList.add('md-rendered');
+        } catch (e) {
+          console.warn('Markdown fetch failed', e);
         }
-        el.innerHTML = parse(stripIndent(text || ''));
-        el.classList.add('md-rendered');
       });
     });
   }

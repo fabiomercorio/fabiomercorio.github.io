@@ -190,16 +190,30 @@ a:hover { color: var(--coral); }
 [data-theme="dark"] .theme-toggle .icon-sun { display: none; }
 [data-theme="dark"] .theme-toggle .icon-moon { display: block; }
 
+.nav-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
 .nav-toggle {
   display: none;
-  background: transparent;
-  border: 0;
+  background: var(--bg-elev);
+  border: 1.5px solid var(--ink);
   color: var(--ink);
+  width: 38px; height: 38px;
+  border-radius: 50%;
   cursor: pointer;
-  padding: 8px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 0 0 var(--ink);
+  transition: all 0.18s var(--ease);
 }
+.nav-toggle:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0 0 var(--ink); }
+.nav-toggle:active { transform: translate(2px, 2px); box-shadow: 0 0 0 0 var(--ink); }
+.nav-toggle svg { width: 18px; height: 18px; }
 @media (max-width: 760px) {
   .nav-toggle { display: inline-flex; }
+  .nav-inner { position: relative; } /* positioning context for the absolute menu below */
   .nav-links {
     position: absolute;
     top: 70px; left: 0; right: 0;
@@ -211,8 +225,14 @@ a:hover { color: var(--coral); }
     gap: 16px;
     transform: translateY(-110%);
     transition: transform 0.3s var(--ease);
+    z-index: 49;
   }
   .nav-links.is-open { transform: translateY(0); }
+}
+@media (max-width: 420px) {
+  /* su schermi davvero stretti (vecchi iPhone, in Safari con barra) accorciamo
+     il nome del brand per fare spazio ai bottoni a destra */
+  .nav-brand span { font-size: 16px; }
 }
 
 /* ---------- Hero ---------- */
