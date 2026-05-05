@@ -211,7 +211,10 @@ a:hover { color: var(--coral); }
 .nav-toggle:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0 0 var(--ink); }
 .nav-toggle:active { transform: translate(2px, 2px); box-shadow: 0 0 0 0 var(--ink); }
 .nav-toggle svg { width: 18px; height: 18px; }
-@media (max-width: 760px) {
+/* Sotto i 920px: collassa il menu in hamburger.
+   La soglia generosa (non solo 760) cattura anche iPhone in landscape (~932px),
+   iPad (~768-1024), e finestre browser stretto / split-screen. */
+@media (max-width: 920px) {
   .nav-toggle { display: inline-flex; }
   .nav-inner { position: relative; } /* positioning context for the absolute menu below */
   .nav-links {
@@ -226,12 +229,12 @@ a:hover { color: var(--coral); }
     transform: translateY(-110%);
     transition: transform 0.3s var(--ease);
     z-index: 49;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.08);
   }
   .nav-links.is-open { transform: translateY(0); }
 }
 @media (max-width: 420px) {
-  /* su schermi davvero stretti (vecchi iPhone, in Safari con barra) accorciamo
-     il nome del brand per fare spazio ai bottoni a destra */
+  /* su schermi davvero stretti accorciamo il nome del brand */
   .nav-brand span { font-size: 16px; }
 }
 
