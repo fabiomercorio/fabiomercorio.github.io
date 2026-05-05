@@ -226,12 +226,26 @@ a:hover { color: var(--coral); }
     border-bottom: 1px solid var(--line);
     padding: 16px var(--gutter);
     gap: 16px;
-    transform: translateY(-110%);
-    transition: transform 0.3s var(--ease);
+    /* hide ABOVE the viewport: -100% (own height) + -70px (offset of top:70)
+       Senza i 70px extra, il bottom dell'ultimo link sbucava dentro l'header
+       quando il menu e' alto piu' di ~73px (cosa che succede sempre con
+       4 link verticali + padding). */
+    transform: translateY(calc(-100% - 70px));
+    transition: transform 0.3s var(--ease), visibility 0s linear 0.3s;
     z-index: 49;
     box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+    /* hide aggressivo: anche se il calc nel transform fallisse per qualche
+       motivo, visibility:hidden + pointer-events:none impediscono la
+       visualizzazione e i click sul menu collassato. */
+    visibility: hidden;
+    pointer-events: none;
   }
-  .nav-links.is-open { transform: translateY(0); }
+  .nav-links.is-open {
+    transform: translateY(0);
+    visibility: visible;
+    pointer-events: auto;
+    transition: transform 0.3s var(--ease), visibility 0s linear 0s;
+  }
 }
 @media (max-width: 420px) {
   /* su schermi davvero stretti accorciamo il nome del brand */
