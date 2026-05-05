@@ -5,10 +5,10 @@
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — sand, like aged book paper */
-  --paper:        #F1E9D8;
-  --paper-2:      #E0D5BC;
-  --paper-3:      #C8BC9C;
+  /* paper — salmon-cream, inspired by Il Sole 24 Ore */
+  --paper:        #F4DCC0;
+  --paper-2:      #E8CFA8;
+  --paper-3:      #D8B888;
 
   /* ink — warm dark, almost burnt umber */
   --ink:          #1C1812;
@@ -41,7 +41,7 @@
 
   /* semantic */
   --bg:           var(--paper);
-  --bg-elev:      #FFFFFF;
+  --bg-elev:      #FAE6D2;     /* salmon off-white (not pure white), Sole 24 Ore-style */
   --bg-soft:      var(--paper-2);
   --line:         var(--rule);
   --line-strong:  var(--rule-strong);
@@ -121,13 +121,20 @@ a:hover { color: var(--coral); }
 
 /* ---------- Nav ---------- */
 .nav {
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   z-index: 50;
+  height: 70px;                 /* explicit height — prevents iOS Safari clipping during scroll */
   background: color-mix(in srgb, var(--bg) 86%, transparent);
   backdrop-filter: blur(14px) saturate(160%);
   -webkit-backdrop-filter: blur(14px) saturate(160%);
   border-bottom: 1px solid var(--line);
+  /* iOS rendering fix: hardware-accelerate the sticky layer so it doesn't
+     get clipped behind the URL bar when the toolbar collapses on scroll-down. */
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
 }
 .nav-inner {
   max-width: var(--max-w-wide);
@@ -646,15 +653,8 @@ a:hover { color: var(--coral); }
   position: relative;
   overflow: hidden;
 }
-.page-intro::after {
-  content: '';
-  position: absolute;
-  top: 20px; right: -80px;
-  width: 200px; height: 200px;
-  background: var(--coral);
-  border-radius: 50%;
-  opacity: 0.18;
-}
+/* page-intro hosts the same NAND/NOR gate decoration as the homepage hero —
+   markup lives in each page's HTML. */
 .page-kicker {
   font-family: var(--font-mono);
   font-size: 11px;
