@@ -5,12 +5,12 @@
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — warm cream, like Italian print stock */
-  --paper:        #F4EFE3;
-  --paper-2:      #E8E1CF;
-  --paper-3:      #D8CDB5;
+  /* paper — neutral pale beige (less warm than Italian print stock) */
+  --paper:        #F4F2EC;
+  --paper-2:      #E8E5DD;
+  --paper-3:      #D8D4CA;
 
-  /* ink — warm dark */
+  /* ink — slight warm dark, but balanced */
   --ink:          #1A1814;
   --ink-2:        #3A3530;
   --ink-soft:     #6B6258;
@@ -23,6 +23,7 @@
      the stylesheet works without a sweep, but they all collapse into the two
      real colors plus neutrals. */
   --indigo:       #3833D9;     /* primary, links, "cool" semantic */
+  --indigo-deep:  #1F1B8C;     /* darker indigo — used by chart for Conference */
   --indigo-soft:  #DDDBF7;
   --coral:        #B85842;     /* terracotta — warm accent, press, hover */
   --coral-soft:   #F2D9CE;
@@ -70,6 +71,7 @@
   --line-strong:  rgba(244, 239, 227, 0.22);
 
   --indigo:       #8A85FF;
+  --indigo-deep:  #C0BCFF;     /* lighter on dark for visibility */
   --indigo-soft:  #2A285A;
   --coral:        #E08566;     /* lighter terracotta on dark */
   --coral-soft:   #4A2A1F;
