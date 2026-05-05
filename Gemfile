@@ -19,7 +19,13 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag",  "~> 2.8"
 end
 
-# Required by Ruby 3.4+ (innocui se la versione è precedente)
+# Gem estratte dalla standard library su Ruby 3.4+ / 4.0 — vanno dichiarate
+# esplicitamente. Innocue su Ruby precedenti.
+gem "bigdecimal"
 gem "csv"
 gem "base64"
 gem "logger"
+gem "mutex_m"
+gem "ostruct"
+gem "fiddle"
+gem "rexml"
