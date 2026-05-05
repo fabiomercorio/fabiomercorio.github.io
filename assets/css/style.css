@@ -1,40 +1,43 @@
 /* ==========================================================================
-   Fabio Mercorio — editorial italian palette (indigo + terracotta)
+   Fabio Mercorio — biblioteca antica palette (bordeaux + olive on sand)
    Fraunces (display) + Inter (body) + JetBrains Mono (meta)
    ========================================================================== */
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — neutral pale beige (less warm than Italian print stock) */
-  --paper:        #F4F2EC;
-  --paper-2:      #E8E5DD;
-  --paper-3:      #D8D4CA;
+  /* paper — sand, like aged book paper */
+  --paper:        #F1E9D8;
+  --paper-2:      #E0D5BC;
+  --paper-3:      #C8BC9C;
 
-  /* ink — slight warm dark, but balanced */
-  --ink:          #1A1814;
-  --ink-2:        #3A3530;
-  --ink-soft:     #6B6258;
+  /* ink — warm dark, almost burnt umber */
+  --ink:          #1C1812;
+  --ink-2:        #3D362B;
+  --ink-soft:     #756C5A;
   --ink-faint:    #9A9180;
-  --rule:         rgba(26, 24, 20, 0.10);
-  --rule-strong:  rgba(26, 24, 20, 0.22);
+  --rule:         rgba(28, 24, 18, 0.10);
+  --rule-strong:  rgba(28, 24, 18, 0.22);
 
-  /* brand colors — reduced to two: indigo (cool) + terracotta (warm).
-     Legacy var names (yellow/teal/plum/grass) kept as aliases so the rest of
-     the stylesheet works without a sweep, but they all collapse into the two
-     real colors plus neutrals. */
-  --indigo:       #3833D9;     /* primary, links, "cool" semantic */
-  --indigo-deep:  #1F1B8C;     /* darker indigo — used by chart for Conference */
-  --indigo-soft:  #DDDBF7;
-  --coral:        #B85842;     /* terracotta — warm accent, press, hover */
-  --coral-soft:   #F2D9CE;
-  --yellow:       #F2D9CE;     /* alias → coral-soft (light highlighter role) */
-  --yellow-soft:  #F8E6DA;
-  --teal:         #3833D9;     /* alias → indigo */
-  --teal-soft:    #DDDBF7;
-  --plum:         #6B6258;     /* alias → ink-soft (neutral) */
-  --plum-soft:    #E8E1CF;
-  --grass:        #3833D9;     /* alias → indigo */
-  --grass-soft:   #DDDBF7;
+  /* brand colors — bordeaux (primary) + olive (secondary).
+     Legacy var names (indigo/coral/yellow/teal/plum/grass) kept as aliases:
+       indigo  → bordeaux (the "cool/primary" slot)
+       coral   → olive    (the "warm/secondary" slot)
+       yellow  → light olive  (highlighter role on sand paper)
+       teal/grass → bordeaux
+       plum    → ink-soft (neutral) */
+  --indigo:       #7A2C2A;     /* bordeaux — primary, links, accents */
+  --indigo-light: #C99089;     /* dusty rose — used by chart for Conference */
+  --indigo-soft:  #ECD9D0;
+  --coral:        #7A8159;     /* olive — warm/secondary, hover, press */
+  --coral-soft:   #DDE0CB;
+  --yellow:       #DDE0CB;     /* alias → coral-soft (light highlighter) */
+  --yellow-soft:  #ECEEDF;
+  --teal:         #7A2C2A;     /* alias → bordeaux */
+  --teal-soft:    #ECD9D0;
+  --plum:         #756C5A;     /* alias → ink-soft (neutral) */
+  --plum-soft:    #E0D5BC;
+  --grass:        #7A2C2A;     /* alias → bordeaux */
+  --grass-soft:   #ECD9D0;
 
   /* semantic */
   --bg:           var(--paper);
@@ -60,29 +63,29 @@
 }
 
 [data-theme="dark"] {
-  --paper:        #14110D;
-  --paper-2:      #1F1B16;
-  --paper-3:      #2C2620;
-  --ink:          #F4EFE3;
-  --ink-2:        #DAD3C0;
-  --ink-soft:     #9F9685;
-  --ink-faint:    #6E6A60;
-  --line:         rgba(244, 239, 227, 0.10);
-  --line-strong:  rgba(244, 239, 227, 0.22);
+  --paper:        #1C1812;
+  --paper-2:      #2A241D;
+  --paper-3:      #3A322A;
+  --ink:          #F1E9D8;
+  --ink-2:        #DDD2BC;
+  --ink-soft:     #A89F8A;
+  --ink-faint:    #756C5A;
+  --line:         rgba(241, 233, 216, 0.10);
+  --line-strong:  rgba(241, 233, 216, 0.22);
 
-  --indigo:       #8A85FF;
-  --indigo-deep:  #C0BCFF;     /* lighter on dark for visibility */
-  --indigo-soft:  #2A285A;
-  --coral:        #E08566;     /* lighter terracotta on dark */
-  --coral-soft:   #4A2A1F;
-  --yellow:       #4A2A1F;     /* alias → dark coral-soft */
-  --yellow-soft:  #2A1A14;
-  --teal:         #8A85FF;     /* alias → indigo */
-  --teal-soft:    #2A285A;
-  --plum:         #9F9685;     /* alias → ink-soft */
-  --plum-soft:    #2A2620;
-  --grass:        #8A85FF;     /* alias → indigo */
-  --grass-soft:   #2A285A;
+  --indigo:       #D88D85;     /* bordeaux → light rose on dark */
+  --indigo-light: #E8B5AE;     /* lighter rose for Conference contrast */
+  --indigo-soft:  #5C2926;
+  --coral:        #B5BC91;     /* olive → light olive on dark */
+  --coral-soft:   #3F4530;
+  --yellow:       #3F4530;     /* alias → dark olive-soft */
+  --yellow-soft:  #292E1F;
+  --teal:         #D88D85;     /* alias → bordeaux/rose */
+  --teal-soft:    #5C2926;
+  --plum:         #A89F8A;     /* alias → ink-soft */
+  --plum-soft:    #2A241D;
+  --grass:        #D88D85;     /* alias → bordeaux/rose */
+  --grass-soft:   #5C2926;
 
   --bg:           var(--paper);
   --bg-elev:      var(--paper-2);

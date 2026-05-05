@@ -20,24 +20,6 @@
 {% endfor %}
 {%- endif -%}
 
-{%- if page.home -%}
-<!-- Calendly badge -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script>
-  window.addEventListener('load', function () {
-    if (window.Calendly && window.Calendly.initBadgeWidget) {
-      Calendly.initBadgeWidget({
-        url: 'https://calendly.com/fabio-mercorio/meet-mercorio',
-        text: 'Schedule time with me',
-        color: '#3833D9',
-        textColor: '#FFFFFF'
-      });
-    }
-  });
-</script>
-{%- endif -%}
-
 {%- if jekyll.environment == 'production' -%}
 <!-- Histats.com  START  (async) — site ID 746089 -->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
