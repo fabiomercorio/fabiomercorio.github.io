@@ -1,47 +1,49 @@
 /* ==========================================================================
-   Fabio Mercorio — biblioteca antica palette (bordeaux + olive on sand)
+   Fabio Mercorio — Il Sole 24 Ore palette (red + navy on salmon paper, black ink)
    Fraunces (display) + Inter (body) + JetBrains Mono (meta)
    ========================================================================== */
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — salmon-cream, inspired by Il Sole 24 Ore */
-  --paper:        #F4DCC0;
-  --paper-2:      #E8CFA8;
-  --paper-3:      #D8B888;
+  /* paper — pinkish salmon, signature Il Sole 24 Ore (less yellow than peach) */
+  --paper:        #EDCBB9;
+  --paper-2:      #DCB39C;
+  --paper-3:      #C5957B;
 
-  /* ink — warm dark, almost burnt umber */
-  --ink:          #1C1812;
-  --ink-2:        #3D362B;
-  --ink-soft:     #756C5A;
-  --ink-faint:    #9A9180;
-  --rule:         rgba(28, 24, 18, 0.10);
-  --rule-strong:  rgba(28, 24, 18, 0.22);
+  /* ink — neutral black (Sole's masthead black) */
+  --ink:          #131313;
+  --ink-2:        #2C2C2C;
+  --ink-soft:     #5A5A5A;
+  --ink-faint:    #8A8A8A;
+  --rule:         rgba(19, 19, 19, 0.10);
+  --rule-strong:  rgba(19, 19, 19, 0.22);
 
-  /* brand colors — bordeaux (primary) + olive (secondary).
-     Legacy var names (indigo/coral/yellow/teal/plum/grass) kept as aliases:
-       indigo  → bordeaux (the "cool/primary" slot)
-       coral   → olive    (the "warm/secondary" slot)
-       yellow  → light olive  (highlighter role on sand paper)
-       teal/grass → bordeaux
-       plum    → ink-soft (neutral) */
-  --indigo:       #7A2C2A;     /* bordeaux — primary, links, accents */
-  --indigo-light: #C99089;     /* dusty rose — used by chart for Conference */
-  --indigo-soft:  #ECD9D0;
-  --coral:        #7A8159;     /* olive — warm/secondary, hover, press */
-  --coral-soft:   #DDE0CB;
-  --yellow:       #DDE0CB;     /* alias → coral-soft (light highlighter) */
-  --yellow-soft:  #ECEEDF;
-  --teal:         #7A2C2A;     /* alias → bordeaux */
-  --teal-soft:    #ECD9D0;
-  --plum:         #756C5A;     /* alias → ink-soft (neutral) */
-  --plum-soft:    #E0D5BC;
-  --grass:        #7A2C2A;     /* alias → bordeaux */
-  --grass-soft:   #ECD9D0;
+  /* brand colors — Sole's red (primary) + navy (secondary), 3 colors total
+     with black ink. Legacy var names (indigo/coral/yellow/teal/plum/grass)
+     kept as aliases:
+       indigo  → red   (the "primary" slot, links, italic accent)
+       coral   → navy  (the "secondary" slot, hover, contrast)
+       yellow  → light rose (highlighter role)
+       teal    → navy
+       grass   → red
+       plum    → ink-soft */
+  --indigo:       #B81B26;     /* Sole red — primary, links, headlines accent */
+  --indigo-light: #DC4A55;     /* lighter red — chart Conference */
+  --indigo-soft:  #F2D6D8;     /* pale rose — soft accent bg */
+  --coral:        #1A2D5C;     /* Sole navy — secondary, hover */
+  --coral-soft:   #D5DCE8;     /* pale navy */
+  --yellow:       #F2D6D8;     /* alias → pale rose (highlighter role) */
+  --yellow-soft:  #FAEAEC;
+  --teal:         #1A2D5C;     /* alias → navy */
+  --teal-soft:    #D5DCE8;
+  --plum:         #5A5A5A;     /* alias → ink-soft (gray) */
+  --plum-soft:    #E5C5A5;
+  --grass:        #B81B26;     /* alias → red */
+  --grass-soft:   #F2D6D8;
 
   /* semantic */
   --bg:           var(--paper);
-  --bg-elev:      #FAE6D2;     /* salmon off-white (not pure white), Sole 24 Ore-style */
+  --bg-elev:      #F6DAC9;     /* pinkish off-white (not pure white), Sole 24 Ore-style */
   --bg-soft:      var(--paper-2);
   --line:         var(--rule);
   --line-strong:  var(--rule-strong);
@@ -63,29 +65,29 @@
 }
 
 [data-theme="dark"] {
-  --paper:        #1C1812;
-  --paper-2:      #2A241D;
-  --paper-3:      #3A322A;
-  --ink:          #F1E9D8;
-  --ink-2:        #DDD2BC;
-  --ink-soft:     #A89F8A;
-  --ink-faint:    #756C5A;
-  --line:         rgba(241, 233, 216, 0.10);
-  --line-strong:  rgba(241, 233, 216, 0.22);
+  --paper:        #1A1310;     /* warm dark, hint of pink undertone */
+  --paper-2:      #2A1C16;
+  --paper-3:      #3C2C24;
+  --ink:          #EDCBB9;     /* salmon cream → ink in dark mode (inverted) */
+  --ink-2:        #D6B5A2;
+  --ink-soft:     #A88775;
+  --ink-faint:    #756158;
+  --line:         rgba(237, 203, 185, 0.10);
+  --line-strong:  rgba(237, 203, 185, 0.22);
 
-  --indigo:       #D88D85;     /* bordeaux → light rose on dark */
-  --indigo-light: #E8B5AE;     /* lighter rose for Conference contrast */
-  --indigo-soft:  #5C2926;
-  --coral:        #B5BC91;     /* olive → light olive on dark */
-  --coral-soft:   #3F4530;
-  --yellow:       #3F4530;     /* alias → dark olive-soft */
-  --yellow-soft:  #292E1F;
-  --teal:         #D88D85;     /* alias → bordeaux/rose */
-  --teal-soft:    #5C2926;
-  --plum:         #A89F8A;     /* alias → ink-soft */
-  --plum-soft:    #2A241D;
-  --grass:        #D88D85;     /* alias → bordeaux/rose */
-  --grass-soft:   #5C2926;
+  --indigo:       #FF6B72;     /* Sole red → coral pink on dark */
+  --indigo-light: #FF8B91;
+  --indigo-soft:  #4A1015;
+  --coral:        #7C9CD4;     /* Sole navy → light blue on dark */
+  --coral-soft:   #1A2D5C;
+  --yellow:       #4A1015;     /* alias → dark indigo-soft (rose) */
+  --yellow-soft:  #2A0A0E;
+  --teal:         #7C9CD4;     /* alias → light navy */
+  --teal-soft:    #1A2D5C;
+  --plum:         #A88775;     /* alias → ink-soft */
+  --plum-soft:    #2A1C16;
+  --grass:        #FF6B72;     /* alias → coral pink */
+  --grass-soft:   #4A1015;
 
   --bg:           var(--paper);
   --bg-elev:      var(--paper-2);
@@ -99,6 +101,8 @@
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
+  /* compensate for the fixed nav (70px tall) so content doesn't slide under it */
+  padding-top: 70px;
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
@@ -121,20 +125,19 @@ a:hover { color: var(--coral); }
 
 /* ---------- Nav ---------- */
 .nav {
-  position: -webkit-sticky;
-  position: sticky;
+  /* fixed instead of sticky: definitive fix for iOS Safari bug where the sticky
+     nav got clipped behind the URL bar during scroll-down. Body has padding-top:70px
+     to compensate for the nav being out of document flow. */
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 50;
-  height: 70px;                 /* explicit height — prevents iOS Safari clipping during scroll */
+  height: 70px;
   background: color-mix(in srgb, var(--bg) 86%, transparent);
   backdrop-filter: blur(14px) saturate(160%);
   -webkit-backdrop-filter: blur(14px) saturate(160%);
   border-bottom: 1px solid var(--line);
-  /* iOS rendering fix: hardware-accelerate the sticky layer so it doesn't
-     get clipped behind the URL bar when the toolbar collapses on scroll-down. */
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  will-change: transform;
 }
 .nav-inner {
   max-width: var(--max-w-wide);
