@@ -1,0 +1,55 @@
+# Jekyll site configuration
+# https://jekyllrb.com/docs/configuration/
+
+title: "Fabio Mercorio"
+description: "Full Professor of Data Science and Artificial Intelligence — University of Milano-Bicocca, Italy"
+author: "Fabio Mercorio"
+email: "fabio.mercorio@unimib.it"
+url: "https://www.mercorio.com"
+baseurl: ""
+
+# ---- Markdown / Liquid ---------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM            # GitHub-flavoured markdown
+  parse_block_html: true # let markdown render inside <div class="md">
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# ---- File handling -------------------------------------------------------
+# Pages keep their original path (publications.html → /publications.html)
+# so the existing layout, links and CSS don't need to change.
+include:
+  - .htaccess
+  - CNAME
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - DEPLOY.md
+  - tools/__pycache__
+  - "*.tar.gz"
+  - .git
+  - .github
+
+keep_files:
+  - assets
+
+# ---- Plugins (whitelisted on GitHub Actions) ----------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# ---- SEO defaults --------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      image: "/assets/img/profile.jpg"

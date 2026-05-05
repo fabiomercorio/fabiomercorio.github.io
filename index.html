@@ -1,50 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fabio Mercorio — Full Professor of Data Science &amp; AI</title>
-<meta name="description" content="Full Professor of Data Science and Artificial Intelligence at the University of Milano-Bicocca. Research on Explainable AI, Large Language Models, and the impact of AI on labour markets.">
-<meta name="author" content="Fabio Mercorio">
-
-<meta property="og:title" content="Fabio Mercorio">
-<meta property="og:description" content="Full Professor of Data Science and Artificial Intelligence — University of Milano-Bicocca, Italy">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mercorio.com/">
-<meta property="og:image" content="assets/img/profile.jpg">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-
-<header class="nav">
-  <div class="nav-inner">
-    <a class="nav-brand" href="index.html">
-      <img class="nav-avatar" src="assets/img/profile.jpg" alt="Fabio Mercorio">
-      <span>Fabio Mercorio</span>
-    </a>
-    <nav>
-      <ul class="nav-links">
-        <li><a href="index.html" aria-current="page">Home</a></li>
-        <li><a href="publications.html">Publications</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="teaching.html">Teaching</a></li>
-        <li>
-          <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark mode">
-            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
-            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-          </button>
-        </li>
-      </ul>
-    </nav>
-    <button class="nav-toggle" data-nav-toggle aria-label="Open menu">
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
-    </button>
-  </div>
-</header>
+---
+layout: default
+full_title: "Fabio Mercorio — Full Professor of Data Science & AI"
+description: "Full Professor of Data Science and Artificial Intelligence at the University of Milano-Bicocca. Research on Explainable AI, Large Language Models, and the impact of AI on labour markets."
+nav: home
+home: true
+---
 
 <!-- ===== HERO ===== -->
 <section class="hero">
@@ -55,19 +15,19 @@
         <h1 class="hero-title reveal">Fabio <span class="accent">Mercorio</span></h1>
         <p class="hero-sub reveal">Full Professor of Data Science and Artificial Intelligence. Director of the Master in AI &amp; Data Analytics for Business at Milano-Bicocca.</p>
         <div class="hero-cta reveal">
-          <a class="btn btn-indigo" href="publications.html">Publications →</a>
-          <a class="btn btn-yellow" href="projects.html">Projects &amp; tools</a>
+          <a class="btn btn-indigo" href="{{ '/publications.html' | relative_url }}">Publications →</a>
+          <a class="btn btn-yellow" href="{{ '/projects.html' | relative_url }}">Projects &amp; tools</a>
           <a class="btn btn-coral" href="https://calendly.com/fabio-mercorio/meet-mercorio" target="_blank" rel="noopener">Book a meeting</a>
         </div>
       </div>
       <div class="hero-photo reveal">
-        <img src="assets/img/profile.jpg" alt="Fabio Mercorio">
+        <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Fabio Mercorio">
       </div>
     </div>
   </div>
 </section>
 
-<!-- ===== NEWS (markdown-editable) ===== -->
+<!-- ===== NEWS (markdown-editable: source in _includes/news.md) ===== -->
 <section class="section">
   <div class="wrap">
     <div class="s-head reveal">
@@ -75,24 +35,11 @@
       <h2 class="s-title">Latest <em>news</em></h2>
     </div>
 
-    <!--
-      Edit news: just change the markdown below inside <script type="text/markdown" id="news-md">.
-      You can use HTML tags like <span class="tag tag-publication">Publication</span> inside markdown.
-      Available tags: tag-publication · tag-tool · tag-press · tag-speech · tag-teaching
-    -->
-    <div class="news md reveal" data-md-from="#news-md"></div>
+    <div class="news md reveal" markdown="1">
+{% include news.md %}
+    </div>
   </div>
 </section>
-
-<script type="text/markdown" id="news-md">
-- <span class="tag tag-publication">Publication</span> Two papers accepted at **EACL-26**.
-- <span class="tag tag-tool">Tool</span> [TerminatorEconomy.com](http://terminatoreconomy.com/) — explore the impact of AI on jobs, task by task, evaluating each task's level of AI exposure and its automation potential.
-- <span class="tag tag-publication">Publication</span> <span class="tag tag-press">Press</span> *Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs* with E. Colombo, M. Mezzanzanica and A. Serino — accepted at **IJCAI-25** ([preprint](https://arxiv.org/abs/2407.19204)). Featured in [La Repubblica](https://www.repubblica.it/economia/2024/08/13/news/intelligenza_artificiale_impatto_professioni-423445016/), [Radio24](https://giornaleradio.fm/puntate/27-11-2024-120-minuti/), [Canadian HRReporter](https://www.hrreporter.com/focus-areas/hr-technology/ai-exposure-in-highly-skilled-jobs-how-hr-should-adapt/389043), [Wired](https://www.wired.it/article/intelligenza-artificiale-lavoro-impatti-professione-classifica-italia/), [RaiNews24](https://www.raiplay.it/video/2024/12/Specchio-dei-tempi-4e71ae71-b704-4f10-b233-52b65bf2495f.html).
-- <span class="tag tag-publication">Publication</span> New paper on [ITALIC: An Italian Culture-Aware Natural Language Benchmark](https://italicbench.it/) presented at [NAACL-25](https://aclanthology.org/2025.naacl-long.68/). Featured in [La Repubblica](https://www.repubblica.it/economia/2025/06/12/news/ia_italiane_non_superano_test_lingua-424663861/).
-- <span class="tag tag-tool">Tool</span> MERLIN — model-agnostic, global, contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X), code on [GitHub](https://github.com/Crisp-Unimib/MERLIN).
-- <span class="tag tag-speech">Speech</span> *"Social Media and AI: No Screen Needed To Grow Smart"* — talk on AI in education with Pellai, Botturi, and Wolf: [IT](https://lnkd.in/dchmhuFS) · [EN](https://lnkd.in/dfuirfKt) · [FR](https://lnkd.in/dcQvdqu4).
-- <span class="tag tag-teaching">Teaching</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti).
-</script>
 
 <!-- ===== EVENTS ===== -->
 <section class="section">
@@ -113,7 +60,7 @@
   </div>
 </section>
 
-<!-- ===== ABOUT (markdown-editable: this whole section's body is in MD) ===== -->
+<!-- ===== ABOUT (markdown-editable: source in _includes/about.md) ===== -->
 <section class="section">
   <div class="wrap">
     <div class="s-head reveal">
@@ -121,12 +68,9 @@
       <h2 class="s-title"><em>About</em> me</h2>
     </div>
 
-    <!--
-      Tip: this block is editable as Markdown. Just edit text between
-      <script type="text/markdown" id="about-md"> tags and refresh — formatting,
-      links, and emphasis are rendered automatically.
-    -->
-    <div class="md reveal" data-md-from="#about-md"></div>
+    <div class="md reveal" markdown="1">
+{% include about.md %}
+    </div>
 
     <h3 class="sub-head reveal">Current positions</h3>
     <ul class="list-clean" data-stagger>
@@ -160,13 +104,6 @@
     </ul>
   </div>
 </section>
-
-<!-- The actual markdown source for the About intro paragraph -->
-<script type="text/markdown" id="about-md">
-I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of the [Master in AI and Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) at Milano-Bicocca, Italy.
-
-My work sits at the intersection of **explainable AI**, **large language models**, and **labour-market intelligence** — with a long-standing interest in how AI tools can be made transparent, evaluable, and useful in real-world settings.
-</script>
 
 <!-- ===== TEAM ===== -->
 <section class="section">
@@ -356,38 +293,3 @@ My work sits at the intersection of **explainable AI**, **large language models*
     </p>
   </div>
 </section>
-
-<!-- ===== FOOTER ===== -->
-<footer class="footer">
-  <div class="wrap">
-    <div class="footer-socials">
-      <a href="https://github.com/fabiomercorio" target="_blank" rel="noopener" aria-label="GitHub"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.8 10.9.6.1.8-.2.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.4-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.4-2.3 1.2-3.1-.1-.3-.5-1.5.1-3 0 0 1-.3 3.2 1.2.9-.2 1.9-.4 2.9-.4s2 .1 2.9.4c2.2-1.5 3.2-1.2 3.2-1.2.6 1.6.2 2.7.1 3 .8.8 1.2 1.9 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6 4.5-1.5 7.8-5.8 7.8-10.9C23.5 5.7 18.3.5 12 .5z"/></svg></a>
-      <a href="https://linkedin.com/in/mercorio" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 2H3.5C2.7 2 2 2.7 2 3.5v17C2 21.3 2.7 22 3.5 22h17c.8 0 1.5-.7 1.5-1.5v-17C22 2.7 21.3 2 20.5 2zM8 19H5V9h3v10zM6.5 7.7c-1 0-1.7-.8-1.7-1.7s.8-1.7 1.7-1.7c1 0 1.7.8 1.7 1.7s-.7 1.7-1.7 1.7zM19 19h-3v-5.4c0-1.3-.5-2.1-1.6-2.1-.9 0-1.4.6-1.6 1.2-.1.2-.1.5-.1.8V19h-3V9h3v1.3c.4-.6 1.1-1.5 2.7-1.5 2 0 3.5 1.3 3.5 4.1V19z"/></svg></a>
-      <a href="https://scholar.google.com/citations?user=BpjjTu0AAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2 1 9l11 7 9-5.7V17h2V9L12 2zm-7 11.7v3l7 4.3 7-4.3v-3L12 18l-7-4.3z"/></svg></a>
-      <a href="https://twitter.com/fabiomercorio" target="_blank" rel="noopener" aria-label="Twitter / X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2H21l-6.52 7.45L22 22h-6.86l-4.7-6.13L4.93 22H2l7-8.04L1.5 2h7l4.27 5.6L18.244 2zm-2.4 18h1.85L7.27 4H5.32l10.524 16z"/></svg></a>
-      <a href="mailto:fabio.mercorio@unimib.it" aria-label="Email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
-    </div>
-    <p class="footer-meta">© 2026 Fabio Mercorio · Milano</p>
-  </div>
-</footer>
-
-<script src="assets/js/app.js"></script>
-
-<!-- Calendly -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script>
-  window.addEventListener('load', function () {
-    if (window.Calendly && window.Calendly.initBadgeWidget) {
-      Calendly.initBadgeWidget({
-        url: 'https://calendly.com/fabio-mercorio/meet-mercorio',
-        text: 'Schedule time with me',
-        color: '#3833D9',
-        textColor: '#FFFFFF'
-      });
-    }
-  });
-</script>
-
-</body>
-</html>

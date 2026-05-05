@@ -6,12 +6,13 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Jekyll (verranno aggiunti con la conversione, ma li metto già qui)
+# Jekyll
 _site/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
 vendor/
+.bundle/
 
 # Node (se aggiungiamo build asset js)
 node_modules/

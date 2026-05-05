@@ -1,194 +1,134 @@
-# Deploy on GitHub Pages
+# Deploy & infrastructure notes
 
-Your existing repo is `github.com/fabiomercorio/fabiomercorio.github.io`,
-served at `https://fabiomercorio.github.io` (and at `mercorio.com` via your
-DNS redirect). The new site is plain HTML/CSS/JS — no Jekyll build needed.
-
-The strategy: **back up the current Jekyll site to a branch**, then replace
-the contents of `master` with the new site. If anything goes wrong you can
-roll back instantly.
+Questo file descrive **dove gira il sito** e **come arriva online**.
+Per le modifiche di contenuto (news, pubblicazioni, ecc.) → vedi `EDITING.md`.
 
 ---
 
-## Prerequisites
+## Architettura
 
-- `git` installed
-- You're logged in to GitHub (SSH key or HTTPS token configured)
+```
+   ┌────────────┐                ┌─────────────────────────┐
+   │ mercorio.com│  redirect 301 │  fabiomercorio.github.io │
+   │  (Aruba)    │ ────────────► │     (GitHub Pages)       │
+   └────────────┘                └─────────────────────────┘
+                                              ▲
+                                              │ deploy
+                                              │
+                                  ┌───────────────────────┐
+                                  │  GitHub Actions       │
+                                  │  • bundle install     │
+                                  │  • parse_bib.py       │
+                                  │  • jekyll build       │
+                                  │  • deploy-pages       │
+                                  └───────────────────────┘
+                                              ▲
+                                              │ trigger su push main
+                                              │
+                                  ┌───────────────────────┐
+                                  │  branch main del repo │
+                                  │  fabiomercorio.       │
+                                  │     github.io         │
+                                  └───────────────────────┘
+```
+
+- **Dominio** `mercorio.com` registrato e gestito su **Aruba**.
+  Configurato come **redirect 301** verso `https://fabiomercorio.github.io/`.
+  (DNS A record → `62.149.189.54`, server `aruba-proxy`).
+- **Hosting** del contenuto: GitHub Pages, repo
+  `github.com/fabiomercorio/fabiomercorio.github.io` (utente-site).
+- **Build**: GitHub Actions (`.github/workflows/jekyll.yml`).
+  Su ogni push a `main` → run automatica → deploy.
 
 ---
 
-## Step-by-step (first deploy)
+## Prima volta: setup del repo su GitHub
 
-Open Terminal. Pick any folder you like as a workspace — the example uses your
-Desktop.
+Una sola volta, dopo il primo push del nuovo `main`:
 
-### 1 · Clone your existing site repo
+1. Vai su `github.com/fabiomercorio/fabiomercorio.github.io/settings/pages`
+2. **Source**: `GitHub Actions`  *(non più "Deploy from a branch")*
+3. **Custom domain**: opzionale, vedi sezione successiva.
+4. **Default branch**: vai su `Settings → Branches` e cambia il default da
+   `master` a `main` *(se vuoi adottare la convenzione moderna; non è
+   strettamente necessario perché Actions punta esplicitamente a `main`)*.
 
-```bash
-cd ~/Desktop
-git clone https://github.com/fabiomercorio/fabiomercorio.github.io.git
-cd fabiomercorio.github.io
-```
-
-### 2 · Back up the current Jekyll version to a branch
-
-So you can always come back to it.
-
-```bash
-git checkout -b jekyll-backup
-git push -u origin jekyll-backup
-git checkout master
-```
-
-Now `jekyll-backup` on GitHub holds the old site forever.
-
-### 3 · Wipe the master branch (we're replacing the contents, not the repo)
-
-```bash
-git rm -rf .
-```
-
-Don't worry — `.git/` (the history) is kept, only the working files are removed.
-
-### 4 · Copy the new site into the repo
-
-```bash
-cp -R ~/Documents/Claude/Projects/mywebsite/. .
-```
-
-The trailing `/.` matters — it copies *contents*, including hidden files like
-`.nojekyll`.
-
-### 5 · Verify
-
-```bash
-ls -la
-```
-
-You should see `index.html`, `publications.html`, `projects.html`,
-`teaching.html`, `pub.tex`, `assets/`, `tools/`, `EDITING.md`, `DEPLOY.md`,
-and `.nojekyll`.
-
-### 6 · Commit and push
-
-```bash
-git add -A
-git commit -m "New static site (replaces Jekyll)"
-git push
-```
-
-### 7 · Wait ~1 minute
-
-Visit `https://fabiomercorio.github.io` — your new site is live.
+A quel punto, ogni `git push` su `main` triggera la build/deploy in
+automatico. Lo trovi sotto `Actions` nel repo.
 
 ---
 
-## About `.nojekyll`
+## Custom domain (opzionale)
 
-The empty `.nojekyll` file tells GitHub Pages: "do not run Jekyll on this repo,
-just serve the files as-is." Without it, GitHub Pages would try to build
-Jekyll and break your site (because there's no Jekyll source anymore).
+Attualmente `mercorio.com` non è configurato come custom domain GitHub:
+viene fatto un **redirect** lato Aruba. Funziona, ma vedi `mercorio.com`
+nella barra solo per un istante prima del redirect.
 
-It's already in your project. Don't delete it.
+Se vuoi che GitHub Pages serva direttamente `mercorio.com` (URL pulito,
+HTTPS gestito da GH, niente redirect Aruba):
 
----
+1. **Su GitHub** → `Settings → Pages → Custom domain` → metti
+   `www.mercorio.com`. (GitHub aggiunge/aggiorna automaticamente il file
+   `CNAME` nel repo — nel nostro repo c'è già preimpostato).
+2. **Su Aruba** (DNS panel):
+   - record `A` per `mercorio.com` → uno (o più) di:
+     `185.199.108.153`, `185.199.109.153`,
+     `185.199.110.153`, `185.199.111.153`
+   - record `CNAME` per `www` → `fabiomercorio.github.io.`
+   - rimuovi il redirect 301 attuale di Aruba.
+3. Attendi propagazione DNS (15 min – qualche ora).
+4. Su GitHub → `Settings → Pages` → spunta **Enforce HTTPS**.
 
-## About your custom domain (mercorio.com)
-
-You have **no `CNAME` file** in the repo, so the custom domain isn't configured
-via GitHub Pages — it's likely a redirect at your domain registrar
-(GoDaddy/Namecheap/wherever). Whatever DNS / forwarding setup you have at
-mercorio.com is unaffected by this deploy. It will keep redirecting to
-`fabiomercorio.github.io` exactly as before.
-
-If you ever want GitHub Pages to serve `mercorio.com` directly (cleaner URL,
-HTTPS via GH), do this:
-
-1. In your repo settings → Pages → Custom domain → enter `mercorio.com` (or
-   `www.mercorio.com`). GitHub adds a `CNAME` file automatically.
-2. At your DNS provider, point an A-record for `mercorio.com` to:
-   `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
-   (These are GitHub Pages IPs.) For `www.mercorio.com` use a CNAME pointing
-   to `fabiomercorio.github.io`.
-3. Wait for DNS to propagate, then enable "Enforce HTTPS" in repo Pages
-   settings.
-
-You don't need to do this now. It's optional.
+Non urgente, è una pulizia. Il sito funziona già com'è.
 
 ---
 
-## Updating the site after the first deploy
+## Backup branches
 
-Whenever you change anything (a news entry, the bib file, a project, …):
+Il repo contiene tre branch persistenti per safety:
 
-```bash
-cd ~/Desktop/fabiomercorio.github.io
+| Branch                      | Cosa contiene                                |
+|-----------------------------|----------------------------------------------|
+| `main`                      | Sito attuale (Jekyll)                        |
+| `backup-new-static`         | Sito statico HTML+JS prima della conversione |
+| `backup-beautiful-jekyll`   | Sito vecchio Beautiful Jekyll (com'era live) |
 
-# If you edit the bib file, regenerate the publication data first:
-python3 tools/parse_bib.py
+Plus il branch `master` su origin che non tocchiamo (è il vecchio sito).
 
-# Stage everything, commit, push:
-git add -A
-git commit -m "Update news / publications / etc."
-git push
-```
-
-GitHub Pages redeploys automatically within ~1 minute.
-
-If you prefer working directly from `~/Documents/Claude/Projects/mywebsite/`,
-make sure to keep that folder in sync with the git checkout — the simplest is
-to make `~/Documents/Claude/Projects/mywebsite/` *be* your git checkout. Run
-once:
+### Revert a un backup
 
 ```bash
-cd ~/Documents/Claude/Projects
-mv mywebsite mywebsite.backup
-git clone https://github.com/fabiomercorio/fabiomercorio.github.io.git mywebsite
-cd mywebsite
-# then copy any local-only changes from the backup if needed
+# Pubblica di nuovo il sito vecchio Beautiful Jekyll come live:
+git push origin backup-beautiful-jekyll:main --force
+
+# Pubblica di nuovo il sito statico nuovo (pre-Jekyll):
+git push origin backup-new-static:main --force
 ```
 
-After that, you can edit files in this folder and `git add / commit / push`
-right from there.
+⚠️ Force-push: sovrascrive `main` su origin. Usa solo se sei sicuro.
+Ricorda che i branch di backup non vengono toccati e restano disponibili.
 
 ---
 
-## Rollback (if anything looks wrong)
+## Troubleshooting
 
-If the new site breaks something and you need the Jekyll one back **right now**:
+**"Push fallisce con 'protected branch'"**
+→ Vai su `Settings → Branches` e verifica che `main` non abbia regole
+di protezione che bloccano push diretti.
 
-```bash
-cd ~/Desktop/fabiomercorio.github.io
-git checkout jekyll-backup -- .
-git commit -am "Rollback to Jekyll"
-git push
-```
+**"Action fallisce su parse_bib.py"**
+→ Probabilmente il `pub.tex` ha un errore di sintassi BibTeX. Esegui in
+locale `python3 tools/parse_bib.py` per vedere il messaggio d'errore.
 
-GitHub Pages rebuilds in ~1 minute and you're back to the old site. Whenever
-you're ready, you can re-deploy the new one with:
+**"Action fallisce su `bundle install`"**
+→ Verifica che `Gemfile` e `Gemfile.lock` siano allineati. Se hai
+cambiato versione di una gemma in `Gemfile`, esegui `bundle update`
+in locale e committa il nuovo `Gemfile.lock`.
 
-```bash
-git checkout master -- .  # or any other approach
-```
+**"Sito vecchio ancora visibile dopo il deploy"**
+→ Hard refresh del browser (`Cmd-Shift-R`). GitHub serve via Fastly CDN
+con cache aggressiva.
 
----
-
-## Common issues
-
-**"Site shows 404 or blank page after deploy"**
-→ Check that `.nojekyll` is at the repo root. Without it, GitHub Pages will
-try to build with Jekyll and choke on the `assets/` folder name.
-
-**"My CSS/images don't load"**
-→ All paths in the HTML are relative (`assets/css/style.css`, not `/assets/...`).
-This works for both `fabiomercorio.github.io` and `fabiomercorio.github.io/anything/`.
-Don't add a leading `/` to those paths.
-
-**"GitHub Pages says it's deployed but I see the old site"**
-→ Hard-refresh the browser (Cmd-Shift-R on Mac). GitHub serves through Fastly
-CDN with aggressive caching.
-
-**"My fonts don't load offline"**
-→ The site uses Google Fonts (Fraunces, Inter, JetBrains Mono) loaded from
-`fonts.googleapis.com`. Online: works. Offline: falls back to system fonts —
-not pretty but readable.
+**"GitHub Actions disabilitate sul repo"**
+→ `Settings → Actions → General` → seleziona "Allow all actions and
+reusable workflows". Sui repo legacy potrebbero essere disabilitate.

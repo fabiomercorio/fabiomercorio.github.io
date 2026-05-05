@@ -1,0 +1,67 @@
+name: Build and deploy site
+
+on:
+  push:
+    branches: ["main"]
+  # Permette anche il run manuale dalla UI di GitHub
+  workflow_dispatch:
+
+# Permessi richiesti dal deploy verso GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Una sola run di deploy per volta (annulla la precedente in coda)
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true   # cache di bundle install
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Rebuild publications.json/.js dal pub.tex (se è cambiato)
+        run: |
+          python3 tools/parse_bib.py
+          # Se ha modificato i file, lo segnaliamo nei log
+          if ! git diff --quiet assets/data/publications.json assets/data/publications.js 2>/dev/null; then
+            echo "::notice::publications.json/.js sono stati rigenerati da pub.tex"
+          fi
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

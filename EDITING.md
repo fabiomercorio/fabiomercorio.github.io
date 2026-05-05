@@ -1,187 +1,181 @@
 # How to edit the site
 
-Your site is just plain files — no build step, no Jekyll. Edit, save, refresh
-the browser. Below: where every piece of content lives and how to change it.
+Il sito ora è **Jekyll**. Ogni modifica passa per markdown nativo, viene
+buildato in locale (per controllo) e pushata su GitHub: GitHub Actions
+fa il build di produzione e pubblica su `fabiomercorio.github.io`.
 
 ---
 
 ## Quick reference
 
-| Want to change…       | Edit this                                                  | Format    |
-|----------------------|------------------------------------------------------------|-----------|
-| News                 | `index.html` → `<script id="news-md">`                      | Markdown  |
-| About me intro       | `index.html` → `<script id="about-md">`                     | Markdown  |
-| Current teaching     | `teaching.html` → `<script id="current-teaching-md">`       | Markdown  |
-| Past teaching        | `teaching.html` → `<script id="past-teaching-md">`          | Markdown  |
-| Publications         | `pub.tex` → run `python3 tools/parse_bib.py`                | BibTeX    |
-| Tools cards          | `index.html` and `projects.html` → `<a class="tool">`       | HTML      |
-| Granted projects     | `projects.html` → `<li class="proj">`                       | HTML      |
-| Team members         | `index.html` → `<div class="team-card">`                    | HTML      |
-| Awards / Service     | `index.html` → `<ul class="list-clean">`                    | HTML      |
-| Contact info         | `index.html` → bottom `<section class="section">`           | HTML      |
-| Profile photo        | replace `assets/img/profile.jpg`                            | image     |
-| Colors / fonts       | `assets/css/style.css` → top `:root { ... }`                | CSS vars  |
+| Voglio cambiare…       | File                                       | Formato   |
+|------------------------|--------------------------------------------|-----------|
+| News (homepage)        | `_includes/news.md`                        | Markdown  |
+| About (homepage)       | `_includes/about.md`                       | Markdown  |
+| Current teaching       | `_includes/teaching-current.md`            | Markdown  |
+| Past teaching          | `_includes/teaching-past.md`               | Markdown  |
+| Tools cards (home)     | `index.html`, sezione `tool-grid`          | HTML      |
+| Granted projects       | `projects.html`, lista `<li class="proj">` | HTML      |
+| Team members           | `index.html`, sezione `team`               | HTML      |
+| Awards / Service       | `index.html`, sezione `list-clean`         | HTML      |
+| Contact info           | `index.html`, sezione bottom               | HTML      |
+| Pubblicazioni          | `pub.tex` → `python3 tools/parse_bib.py`   | BibTeX    |
+| Profile photo          | `assets/img/profile.jpg`                   | image     |
+| Colors / fonts         | `assets/css/style.css` → `:root { ... }`   | CSS vars  |
+| Header / nav           | `_includes/nav.html`                       | HTML      |
+| Footer / socials       | `_includes/footer.html`                    | HTML      |
+| Site title, URL, SEO   | `_config.yml`                              | YAML      |
 
 ---
 
-## How markdown blocks work
+## Esempio rapido — aggiungere una news
 
-The site supports **inline markdown**: any element with `class="md"` and a
-`data-md-from="#some-id"` attribute reads its content from a `<script type="text/markdown">`
-tag elsewhere on the page.
+Apri `_includes/news.md` e aggiungi una bullet in cima:
 
-### Example — News section
-
-In `index.html` you'll find:
-
-```html
-<div class="news md" data-md-from="#news-md"></div>
+```markdown
+- <span class="tag tag-publication">Publication</span> Nuovo paper accepted at **AAAI-26** ([preprint](https://arxiv.org/abs/...)).
+- <span class="tag tag-tool">Tool</span> [Nuovo strumento](https://...) — descrizione.
 ```
 
-That's the placeholder. The actual content is below, in:
+Tag disponibili (per lo styling colorato):
 
-```html
-<script type="text/markdown" id="news-md">
-- <span class="tag tag-publication">Publication</span> Two papers accepted at **EACL-26**.
-- <span class="tag tag-tool">Tool</span> [TerminatorEconomy.com](http://...) is...
-</script>
+```
+tag-publication   verde
+tag-tool          teal
+tag-press         coral outline
+tag-speech        giallo
+tag-teaching      plum
 ```
 
-To add news, just add a new `-` bullet inside that script tag. Save. Refresh.
-You can mix:
-
-- **bold** with `**text**`
-- *italic* with `*text*`
-- [links](http://example.com) with `[text](url)`
-- `inline code` with backticks
-- raw HTML — the colored tags like `<span class="tag tag-tool">Tool</span>`
-
-### Available tag styles for News
-
-```html
-<span class="tag tag-publication">Publication</span>   <!-- green -->
-<span class="tag tag-tool">Tool</span>                  <!-- teal -->
-<span class="tag tag-press">Press</span>                <!-- coral outline -->
-<span class="tag tag-speech">Speech</span>              <!-- yellow -->
-<span class="tag tag-teaching">Teaching</span>          <!-- plum -->
-```
-
-You can also add multiple tags to one item.
+Si possono mettere anche più tag su una stessa riga.
 
 ---
 
-## Publications — the BibTeX workflow
+## Pubblicazioni (workflow BibTeX)
 
-Publications are auto-generated from `pub.tex` in the project root. To add or
-update:
+Le pubblicazioni vengono auto-generate da `pub.tex`. Per aggiornarle:
 
-1. Open `pub.tex` and add / edit / remove BibTeX entries (any `@article`,
-   `@inproceedings`, `@incollection`, `@misc`, …).
-2. From the project root run:
+1. Apri `pub.tex` e aggiungi/modifica/rimuovi le entry BibTeX (`@article`,
+   `@inproceedings`, `@incollection`, `@misc`, ...).
+2. Dalla root del progetto:
    ```bash
    python3 tools/parse_bib.py
    ```
-3. The script regenerates:
-   - `assets/data/publications.json` (human-readable)
-   - `assets/data/publications.js`  (used by the site)
-4. Refresh the browser — the chart, stats, and list update automatically.
+3. Lo script rigenera:
+   - `assets/data/publications.json` (versione human-readable)
+   - `assets/data/publications.js`   (caricato dalla pagina)
+4. Lo stesso script gira automaticamente anche dentro GitHub Actions
+   prima del build Jekyll, quindi se dimentichi di rigenerare in locale
+   il deploy si "auto-corregge".
 
-### How entries are categorised
+### Categorizzazione automatica delle entry
 
-| BibTeX type               | Shown as     |
-|--------------------------|--------------|
-| `@article`                | Journal      |
-| `@inproceedings`, `@incollection` | Conference   |
-| `@inbook`                 | Book         |
-| `@misc` with `archivePrefix={arXiv}` | Preprint |
-| anything else             | Other        |
+| Tipo BibTeX                          | Rendering   |
+|--------------------------------------|-------------|
+| `@article`                           | Journal     |
+| `@inproceedings`, `@incollection`    | Conference  |
+| `@inbook`                            | Book        |
+| `@misc` con `archivePrefix={arXiv}`  | Preprint    |
+| altri                                | Other       |
 
-### Using a different .bib file
+---
+
+## Build e preview in locale
+
+### Prima volta
 
 ```bash
-python3 tools/parse_bib.py path/to/myrefs.bib
+cd /Users/fabiomercorio/Documents/Claude/Projects/mywebsite
+bundle install
 ```
 
-Tip: you can keep multiple .bib files and concat them before running:
+Questo installa Jekyll e i suoi plugin in `vendor/bundle/`. Si fa una
+sola volta, poi basta `bundle install` solo se aggiungi/cambi gemme.
+
+### Per lavorare sul sito
+
 ```bash
-cat bibs/*.bib > pub.tex && python3 tools/parse_bib.py
+bundle exec jekyll serve --livereload
 ```
+
+Apre il sito su `http://localhost:4000` e si auto-rebuilda a ogni
+modifica. È il modo migliore per controllare le modifiche prima di
+pushare.
+
+### Build di produzione (per debug)
+
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+Output in `_site/` (non versionato).
 
 ---
 
-## Editing tools (cards)
+## Pubblicare le modifiche
 
-Tool cards on the home (`index.html`) and projects page (`projects.html`)
-look like this:
+1. Modifichi i file in locale.
+2. (Opzionale ma consigliato) `bundle exec jekyll serve` e controlli
+   in browser.
+3. Commit + push:
+   ```bash
+   git add -A
+   git commit -m "Aggiungi news su X"
+   git push
+   ```
+4. GitHub Actions parte automaticamente: build Jekyll + deploy su
+   GitHub Pages. In ~1–2 minuti il sito è live su `mercorio.com`.
 
-```html
-<a class="tool reveal" href="https://github.com/.../my-tool" target="_blank" rel="noopener">
-  <h3 class="tool-name"><em>MyTool</em> <span class="tool-arrow">↗</span></h3>
-  <p class="tool-desc">One-paragraph description.</p>
-  <div class="tool-tags">
-    <span class="tool-tag">venue 2025</span>
-    <span class="tool-tag">topic</span>
-  </div>
-</a>
-```
-
-To add a new tool, copy any existing `<a class="tool">…</a>` block, change
-the `href`, name, description, and tags. The card colors automatically rotate
-through indigo → coral → yellow → teal → plum → green based on position.
+Se preferisci, le modifiche le puoi delegare a Claude — descrivigli
+cosa vuoi cambiare, lui edita i file e fa commit + push.
 
 ---
 
-## Editing granted projects
+## Branch e revert
 
-Each project in `projects.html` follows this pattern:
+Sul repository ci sono i seguenti branch storici di sicurezza:
 
-```html
-<li class="proj reveal">
-  <div class="proj-meta">
-    <span class="proj-code">SHORT-CODE</span>
-    <span class="proj-period">2024 — current</span>
-    <span class="proj-role">Principal Investigator</span>
-  </div>
-  <div class="proj-body">
-    <h3 class="proj-title">Full Project Title</h3>
-    <p class="proj-funder">Funding agency · contract number</p>
-    <p class="proj-desc">Description paragraph.</p>
-    <div class="proj-pubs">
-      <a class="proj-pub-link" href="https://..." target="_blank" rel="noopener">Paper · Venue 2025</a>
-    </div>
-  </div>
-</li>
+| Branch                      | Cosa contiene                                |
+|-----------------------------|----------------------------------------------|
+| `main`                      | Sito attuale (Jekyll)                        |
+| `backup-new-static`         | Sito statico (HTML+JS) prima della conversione Jekyll |
+| `backup-beautiful-jekyll`   | Sito vecchio Beautiful Jekyll come era online prima |
+
+Per tornare a uno stato precedente:
+
+```bash
+# Vedere come era il sito statico nuovo:
+git checkout backup-new-static
+
+# Vedere come era il vecchio Beautiful Jekyll:
+git checkout backup-beautiful-jekyll
+
+# Tornare al sito attuale:
+git checkout main
 ```
 
-The `proj-code` color rotates automatically (indigo → coral → teal → plum → green).
+Se serve davvero pubblicare di nuovo uno dei backup come sito live:
+
+```bash
+git checkout backup-beautiful-jekyll  # o backup-new-static
+git push origin HEAD:main --force
+```
+
+(Attenzione al `--force`: sovrascrive `main`. Fallo solo se sei sicuro
+e ricorda che ci sono i branch di backup come rete di sicurezza.)
 
 ---
 
-## Editing team
+## Cambiare colori, font, layout di base
 
-`index.html`, in the Team section:
-
-```html
-<div class="team-card reveal">
-  <p class="team-name"><a href="https://linkedin.com/...">Name Surname</a></p>
-  <p class="team-role">Role · description</p>
-</div>
-```
-
-Drop the `<a>` if there's no profile link.
-
----
-
-## Changing colors
-
-All colors live as CSS variables at the top of `assets/css/style.css`:
+I colori sono variabili CSS in `assets/css/style.css`:
 
 ```css
 :root {
-  --paper:   #FDFBF6;   /* page background */
-  --ink:     #0F1419;   /* main text */
-  --indigo:  #3833D9;   /* primary accent — buttons, links */
-  --coral:   #E26544;   /* secondary accent */
+  --paper:   #FDFBF6;   /* sfondo pagina */
+  --ink:     #0F1419;   /* testo principale */
+  --indigo:  #3833D9;   /* accent primario */
+  --coral:   #E26544;   /* accent secondario */
   --yellow:  #F5C12C;   /* highlight, badges */
   --teal:    #0F6E6E;   /* tools tag */
   --plum:    #7B2C8C;   /* teaching tag */
@@ -190,50 +184,45 @@ All colors live as CSS variables at the top of `assets/css/style.css`:
 }
 ```
 
-Change a value, save, refresh. Dark-mode equivalents are in the `[data-theme="dark"]`
-block right below.
+Modalità scura: blocco `[data-theme="dark"]` subito sotto.
+
+I font sono in due punti:
+1. `_includes/head.html` — `<link>` Google Fonts
+2. `assets/css/style.css` — `--font-sans`, `--font-display`, `--font-mono`
 
 ---
 
-## Changing fonts
+## Struttura cartelle
 
-In every `.html` file, swap the Google Fonts URL in `<head>`. Then in
-`assets/css/style.css`:
-
-```css
-:root {
-  --font-sans:    'Inter', sans-serif;
-  --font-display: 'Fraunces', Georgia, serif;
-  --font-mono:    'JetBrains Mono', monospace;
-}
 ```
-
----
-
-## Running locally with a server (recommended for working on the site)
-
-`file://` works for everything except fetching external `.md` files. If you
-want to load markdown from external `.md` files (e.g. `data-md="content/news.md"`),
-serve via http:
-
-```bash
-cd /Users/fabiomercorio/Documents/Claude/Projects/mywebsite
-python3 -m http.server 8000
+mywebsite/
+├── _config.yml             ← config Jekyll
+├── Gemfile                 ← dipendenze Ruby
+├── CNAME                   ← dominio custom (mercorio.com)
+├── .github/workflows/      ← GitHub Actions: build + deploy
+├── _layouts/               ← template HTML padre
+│   └── default.html
+├── _includes/              ← parti riusabili
+│   ├── head.html              <head>
+│   ├── nav.html               header + navigation
+│   ├── footer.html            footer (con socials condizionali)
+│   ├── news.md                ← contenuto editabile
+│   ├── about.md               ← contenuto editabile
+│   ├── teaching-current.md    ← contenuto editabile
+│   └── teaching-past.md       ← contenuto editabile
+├── index.html              ← homepage (front matter + body)
+├── publications.html       ← pagina pubblicazioni
+├── projects.html           ← pagina progetti finanziati
+├── teaching.html           ← pagina insegnamento
+├── pub.tex                 ← BibTeX sorgente
+├── tools/parse_bib.py      ← genera publications.json/.js
+├── assets/
+│   ├── css/style.css       ← tutti gli stili
+│   ├── js/app.js           ← interazioni (theme, reveal, nav)
+│   ├── js/publications.js  ← chart, filtri, modal BibTeX
+│   ├── img/profile.jpg
+│   └── data/               ← generati da parse_bib.py
+│       ├── publications.json
+│       └── publications.js
+└── _site/                  ← output build (gitignored)
 ```
-
-Then open http://localhost:8000.
-
-For just opening the site to view it, double-click `index.html` — works fine.
-
----
-
-## Deploying
-
-Drop the whole `mywebsite/` folder onto any static host:
-
-- **GitHub Pages**: push to `username.github.io` repo, root.
-- **Netlify**: drag-drop the folder into app.netlify.com.
-- **Vercel**: same.
-- **Cloudflare Pages**, etc.
-
-No build step required. Everything is plain HTML/CSS/JS.
