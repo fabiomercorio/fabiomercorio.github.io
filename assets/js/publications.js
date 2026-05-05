@@ -15,10 +15,10 @@
   }
   function paletteFor(cat) {
     switch (cat) {
-      case 'Journal':    return v('--indigo',       '#B81B26');
-      case 'Conference': return v('--indigo-light', '#DC4A55');
-      case 'Preprint':   return v('--coral',        '#1A2D5C');
-      case 'Book':       return v('--ink',          '#131313');
+      case 'Journal':    return v('--indigo',       '#007880');
+      case 'Conference': return v('--indigo-light', '#3DA8AE');
+      case 'Preprint':   return v('--coral',        '#30164D');
+      case 'Book':       return v('--ink',          '#242424');
       default:           return v('--ink-faint',    '#8A8A8A');
     }
   }

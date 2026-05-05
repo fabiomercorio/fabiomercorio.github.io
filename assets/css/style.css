@@ -1,49 +1,47 @@
 /* ==========================================================================
-   Fabio Mercorio — Il Sole 24 Ore palette (red + navy on salmon paper, black ink)
+   Fabio Mercorio — Il Sole 24 Ore palette (teal + deep purple on cream, dark ink)
    Fraunces (display) + Inter (body) + JetBrains Mono (meta)
    ========================================================================== */
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — pinkish salmon, signature Il Sole 24 Ore (less yellow than peach) */
-  --paper:        #EDCBB9;
-  --paper-2:      #DCB39C;
-  --paper-3:      #C5957B;
+  /* paper — warm cream, exact Sole 24 Ore tone */
+  --paper:        #F6E5D5;
+  --paper-2:      #E5D2BE;
+  --paper-3:      #D2BCA2;
 
-  /* ink — neutral black (Sole's masthead black) */
-  --ink:          #131313;
-  --ink-2:        #2C2C2C;
+  /* ink — Sole's neutral dark (#242424) */
+  --ink:          #242424;
+  --ink-2:        #3D3D3D;
   --ink-soft:     #5A5A5A;
   --ink-faint:    #8A8A8A;
-  --rule:         rgba(19, 19, 19, 0.10);
-  --rule-strong:  rgba(19, 19, 19, 0.22);
+  --rule:         rgba(36, 36, 36, 0.10);
+  --rule-strong:  rgba(36, 36, 36, 0.22);
 
-  /* brand colors — Sole's red (primary) + navy (secondary), 3 colors total
-     with black ink. Legacy var names (indigo/coral/yellow/teal/plum/grass)
-     kept as aliases:
-       indigo  → red   (the "primary" slot, links, italic accent)
-       coral   → navy  (the "secondary" slot, hover, contrast)
-       yellow  → light rose (highlighter role)
-       teal    → navy
-       grass   → red
-       plum    → ink-soft */
-  --indigo:       #B81B26;     /* Sole red — primary, links, headlines accent */
-  --indigo-light: #DC4A55;     /* lighter red — chart Conference */
-  --indigo-soft:  #F2D6D8;     /* pale rose — soft accent bg */
-  --coral:        #1A2D5C;     /* Sole navy — secondary, hover */
-  --coral-soft:   #D5DCE8;     /* pale navy */
-  --yellow:       #F2D6D8;     /* alias → pale rose (highlighter role) */
-  --yellow-soft:  #FAEAEC;
-  --teal:         #1A2D5C;     /* alias → navy */
-  --teal-soft:    #D5DCE8;
-  --plum:         #5A5A5A;     /* alias → ink-soft (gray) */
-  --plum-soft:    #E5C5A5;
-  --grass:        #B81B26;     /* alias → red */
-  --grass-soft:   #F2D6D8;
+  /* brand colors — Sole's teal (primary) + deep purple (secondary).
+     Legacy var names kept as aliases:
+       indigo → teal  (the "primary" slot, links, italic accent)
+       coral  → purple (the "secondary" slot, hover, contrast)
+       yellow → pale purple (highlighter role)
+       teal/grass → teal
+       plum → purple */
+  --indigo:       #007880;     /* Sole teal — primary, links, italic accent */
+  --indigo-light: #3DA8AE;     /* lighter teal — chart Conference */
+  --indigo-soft:  #D5EBED;     /* pale teal — soft accent bg */
+  --coral:        #30164D;     /* deep purple — secondary, hover, contrast */
+  --coral-soft:   #E5DEEC;     /* pale purple */
+  --yellow:       #E5DEEC;     /* alias → pale purple (highlighter role) */
+  --yellow-soft:  #F2EDF3;
+  --teal:         #007880;     /* alias → teal (the actual primary color) */
+  --teal-soft:    #D5EBED;
+  --plum:         #30164D;     /* alias → deep purple */
+  --plum-soft:    #E5DEEC;
+  --grass:        #007880;     /* alias → teal */
+  --grass-soft:   #D5EBED;
 
   /* semantic */
   --bg:           var(--paper);
-  --bg-elev:      #F6DAC9;     /* pinkish off-white (not pure white), Sole 24 Ore-style */
+  --bg-elev:      #FFF5EC;     /* warm off-white (replaces pure white) — Sole 24 Ore tone */
   --bg-soft:      var(--paper-2);
   --line:         var(--rule);
   --line-strong:  var(--rule-strong);
@@ -65,29 +63,29 @@
 }
 
 [data-theme="dark"] {
-  --paper:        #1A1310;     /* warm dark, hint of pink undertone */
-  --paper-2:      #2A1C16;
-  --paper-3:      #3C2C24;
-  --ink:          #EDCBB9;     /* salmon cream → ink in dark mode (inverted) */
-  --ink-2:        #D6B5A2;
-  --ink-soft:     #A88775;
-  --ink-faint:    #756158;
-  --line:         rgba(237, 203, 185, 0.10);
-  --line-strong:  rgba(237, 203, 185, 0.22);
+  --paper:        #1A1612;     /* warm dark cream */
+  --paper-2:      #2A241D;
+  --paper-3:      #3C342A;
+  --ink:          #F6E5D5;     /* cream → ink in dark mode (inverted) */
+  --ink-2:        #DDC9B8;
+  --ink-soft:     #A8957F;
+  --ink-faint:    #756558;
+  --line:         rgba(246, 229, 213, 0.10);
+  --line-strong:  rgba(246, 229, 213, 0.22);
 
-  --indigo:       #FF6B72;     /* Sole red → coral pink on dark */
-  --indigo-light: #FF8B91;
-  --indigo-soft:  #4A1015;
-  --coral:        #7C9CD4;     /* Sole navy → light blue on dark */
-  --coral-soft:   #1A2D5C;
-  --yellow:       #4A1015;     /* alias → dark indigo-soft (rose) */
-  --yellow-soft:  #2A0A0E;
-  --teal:         #7C9CD4;     /* alias → light navy */
-  --teal-soft:    #1A2D5C;
-  --plum:         #A88775;     /* alias → ink-soft */
-  --plum-soft:    #2A1C16;
-  --grass:        #FF6B72;     /* alias → coral pink */
-  --grass-soft:   #4A1015;
+  --indigo:       #5BBDC4;     /* teal → light teal on dark */
+  --indigo-light: #7BD3D9;
+  --indigo-soft:  #1A3F42;
+  --coral:        #B5A0CC;     /* deep purple → lavender on dark */
+  --coral-soft:   #2A1F3A;
+  --yellow:       #2A1F3A;     /* alias → dark coral-soft (lavender) */
+  --yellow-soft:  #1A1326;
+  --teal:         #5BBDC4;     /* alias → light teal */
+  --teal-soft:    #1A3F42;
+  --plum:         #B5A0CC;     /* alias → lavender */
+  --plum-soft:    #2A1F3A;
+  --grass:        #5BBDC4;     /* alias → light teal */
+  --grass-soft:   #1A3F42;
 
   --bg:           var(--paper);
   --bg-elev:      var(--paper-2);
