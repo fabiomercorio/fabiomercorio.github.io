@@ -27,3 +27,4 @@ node_modules/
 # OS junk
 Thumbs.db
 ehthumbs.db
+_mockup_*.html
