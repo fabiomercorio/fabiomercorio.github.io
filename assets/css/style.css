@@ -555,6 +555,7 @@ a:hover { color: var(--coral); }
 .tag-press       { background: var(--coral-soft); color: var(--coral); border-color: var(--coral); }
 .tag-speech      { background: var(--yellow); color: var(--ink); border-color: var(--ink); }
 .tag-teaching    { background: var(--plum-soft); color: var(--plum); border-color: var(--plum); }
+.tag-appointment { background: var(--coral); color: #FFFFFF; border-color: var(--coral); }
 
 /* ---------- Tools cards ---------- */
 .tool-grid {
