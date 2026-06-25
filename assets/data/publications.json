@@ -35,6 +35,41 @@
     "bibtex": "@inproceedings{Skillens,\n      title={SkiLLens: Recognising and Mapping Novel Skills from Millions of Job Ads Across Europe Using Language Models}, \n      author={Alessia De Santo and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica and Navid Nobani},\n      year={2026},\n      url = \"https://aclanthology.org/2026.eacl-industry.65/\",\n    pages = \"877--885\",\n    ISBN = \"979-8-89176-384-5\",\n      booktitle={The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)} \n}"
   },
   {
+    "key": "TerminatorEconomyECML",
+    "type": "inproceedings",
+    "category": "Conference",
+    "title": "Terminator Economy: Assessing jobs and tasks exposure to AI",
+    "authors": [
+      "Fabio Mercorio",
+      "Mario Mezzanzanica",
+      "Daniele Potertì",
+      "Antonio Serino",
+      "Andrea Seveso"
+    ],
+    "year": 2026,
+    "venue": "ECML-PKDD-26",
+    "url": "",
+    "doi": "",
+    "bibtex": "@inproceedings{TerminatorEconomyECML,\n  author       = {Fabio Mercorio and Mario Mezzanzanica and Daniele Potertì and Antonio Serino and Andrea Seveso},\n  title        = {Terminator Economy: Assessing jobs and tasks exposure to AI},\n  booktitle    = {Machine Learning and Knowledge Discovery in Databases- European Conference, {ECML} {PKDD} (to appear)},\n  series       = {Lecture Notes in Computer Science},\n  year         = {2026}\n}"
+  },
+  {
+    "key": "VectorSimSurvey",
+    "type": "article",
+    "category": "Journal",
+    "title": "Benchmarking Distributional Vector Similarity Measures: A Survey",
+    "authors": [
+      "Erik Cambria",
+      "Navid Nobani",
+      "Filippo Pallucchini",
+      "Fabio Mercorio"
+    ],
+    "year": 2026,
+    "venue": "Expert Systems (to appear)",
+    "url": "",
+    "doi": "",
+    "bibtex": "@article{VectorSimSurvey,\n  author       = {Erik Cambria and Navid Nobani and Filippo Pallucchini and Fabio Mercorio},\n  title        = {Benchmarking Distributional Vector Similarity Measures: A Survey},\n  journal      = {Expert Systems (to appear)},\n  year         = {2026}\n}"
+  },
+  {
     "key": "DAMICO2026104249",
     "type": "article",
     "category": "Journal",
@@ -69,6 +104,24 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0306457326001068",
     "doi": "https://doi.org/10.1016/j.ipm.2026.104715",
     "bibtex": "@article{IPM2026,\ntitle = {Synthetic Data Generation: A Tertiary Study},\njournal = {Information Processing and Management (to appear)},\nyear = {2026},\nvolume = {63},\nnumber = {6},\npages = {104715},\nyear = {2026},\nissn = {0306-4573},\ndoi = {https://doi.org/10.1016/j.ipm.2026.104715},\nurl = {https://www.sciencedirect.com/science/article/pii/S0306457326001068},\nauthor = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo Sperlì and Giovanni Officioso}\n}"
+  },
+  {
+    "key": "Skillink",
+    "type": "article",
+    "category": "Journal",
+    "title": "Using Language Models to Extract and Map Emerging Skills to the ESCO Taxonomy",
+    "authors": [
+      "Alessia De Santo",
+      "Navid Nobani",
+      "Lorenzo Malandri",
+      "Fabio Mercorio",
+      "Mario Mezzanzanica"
+    ],
+    "year": 2026,
+    "venue": "Discover Artif. Intell. (to appear)",
+    "url": "",
+    "doi": "",
+    "bibtex": "@article{Skillink,\n  author       = {Alessia De Santo and Navid Nobani and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},\n  title        = {Using Language Models to Extract and Map Emerging Skills to the ESCO Taxonomy},\n  journal      = {Discover Artificial Intelligence (to appear)},\n  year         = {2026}\n}"
   },
   {
     "key": "COLOMBO2026123274",
