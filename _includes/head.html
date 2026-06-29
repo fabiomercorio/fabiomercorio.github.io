@@ -27,6 +27,32 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Work+Sans:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
+{%- if page.home -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Fabio Mercorio",
+  "givenName": "Fabio",
+  "familyName": "Mercorio",
+  "url": "{{ '/' | absolute_url }}",
+  "image": "{{ '/assets/img/profile.jpg' | absolute_url }}",
+  "jobTitle": "Full Professor of Data Science and Artificial Intelligence",
+  "worksFor": { "@type": "CollegeOrUniversity", "name": "University of Milano-Bicocca", "url": "https://www.unimib.it/" },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": "University of L'Aquila" },
+  "knowsAbout": ["Explainable AI", "Large Language Models", "Labour Market Intelligence", "Natural Language Processing", "Data Science", "AI Planning"],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=BpjjTu0AAAAJ",
+    "https://orcid.org/0000-0001-6864-2702",
+    "https://dblp.org/pid/69/7560.html",
+    "https://github.com/fabiomercorio",
+    "https://www.linkedin.com/in/mercorio",
+    "https://twitter.com/fabiomercorio"
+  ]
+}
+</script>
+{%- endif -%}
+
 {%- if jekyll.environment == 'production' -%}
 {%- seo title=false -%}
 {%- feed_meta -%}
