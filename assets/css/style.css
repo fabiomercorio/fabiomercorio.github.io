@@ -1,47 +1,47 @@
 /* ==========================================================================
-   Fabio Mercorio — Il Sole 24 Ore palette (teal + deep purple on cream, dark ink)
-   Fraunces (display) + Inter (body) + JetBrains Mono (meta)
+   Fabio Mercorio — Sage palette (forest green + ochre on soft sage, graphite ink)
+   Spectral (display) + Work Sans (body) + IBM Plex Mono (meta)
    ========================================================================== */
 
 /* ---------- Tokens ---------- */
 :root {
-  /* paper — warm cream, exact Sole 24 Ore tone */
-  --paper:        #F6E5D5;
-  --paper-2:      #E5D2BE;
-  --paper-3:      #D2BCA2;
+  /* paper — soft sage */
+  --paper:        #E9EDE6;
+  --paper-2:      #DCE2D6;
+  --paper-3:      #C9D1C0;
 
-  /* ink — Sole's neutral dark (#242424) */
-  --ink:          #242424;
-  --ink-2:        #3D3D3D;
-  --ink-soft:     #5A5A5A;
-  --ink-faint:    #8A8A8A;
-  --rule:         rgba(36, 36, 36, 0.10);
-  --rule-strong:  rgba(36, 36, 36, 0.22);
+  /* ink — warm graphite-green */
+  --ink:          #1F2620;
+  --ink-2:        #353E33;
+  --ink-soft:     #545B50;
+  --ink-faint:    #868D80;
+  --rule:         rgba(31, 38, 32, 0.10);
+  --rule-strong:  rgba(31, 38, 32, 0.22);
 
-  /* brand colors — Sole's teal (primary) + deep purple (secondary).
+  /* brand colors — forest green (primary) + ochre (secondary).
      Legacy var names kept as aliases:
-       indigo → teal  (the "primary" slot, links, italic accent)
-       coral  → purple (the "secondary" slot, hover, contrast)
-       yellow → pale purple (highlighter role)
-       teal/grass → teal
-       plum → purple */
-  --indigo:       #007880;     /* Sole teal — primary, links, italic accent */
-  --indigo-light: #3DA8AE;     /* lighter teal — chart Conference */
-  --indigo-soft:  #D5EBED;     /* pale teal — soft accent bg */
-  --coral:        #30164D;     /* deep purple — secondary, hover, contrast */
-  --coral-soft:   #E5DEEC;     /* pale purple */
-  --yellow:       #E5DEEC;     /* alias → pale purple (highlighter role) */
-  --yellow-soft:  #F2EDF3;
-  --teal:         #007880;     /* alias → teal (the actual primary color) */
-  --teal-soft:    #D5EBED;
-  --plum:         #30164D;     /* alias → deep purple */
-  --plum-soft:    #E5DEEC;
-  --grass:        #007880;     /* alias → teal */
-  --grass-soft:   #D5EBED;
+       indigo → green  (the "primary" slot, links, italic accent)
+       coral  → ochre  (the "secondary" slot, hover, contrast)
+       yellow → pale green (highlighter role)
+       teal/grass → green
+       plum → ochre */
+  --indigo:       #2F6F4E;     /* forest green — primary, links, italic accent */
+  --indigo-light: #4E9A74;     /* lighter green — chart Conference */
+  --indigo-soft:  #D5E1CC;     /* pale sage-green — soft accent bg */
+  --coral:        #B45309;     /* ochre — secondary, hover, contrast */
+  --coral-soft:   #F0E2CE;     /* pale ochre */
+  --yellow:       #D5E1CC;     /* alias → pale green (highlighter role) */
+  --yellow-soft:  #E8EFE1;
+  --teal:         #2F6F4E;     /* alias → green (the actual primary color) */
+  --teal-soft:    #D5E1CC;
+  --plum:         #B45309;     /* alias → ochre */
+  --plum-soft:    #F0E2CE;
+  --grass:        #2F6F4E;     /* alias → green */
+  --grass-soft:   #D5E1CC;
 
   /* semantic */
   --bg:           var(--paper);
-  --bg-elev:      #FFF5EC;     /* warm off-white (replaces pure white) — Sole 24 Ore tone */
+  --bg-elev:      #FAFBF8;     /* warm off-white with a sage tint (replaces pure white) */
   --bg-soft:      var(--paper-2);
   --line:         var(--rule);
   --line-strong:  var(--rule-strong);
@@ -49,9 +49,9 @@
   --accent-soft:  var(--indigo-soft);
 
   /* type */
-  --font-sans:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
-  --font-mono:    'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  --font-sans:    'Work Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  --font-display: 'Spectral', Georgia, 'Times New Roman', serif;
+  --font-mono:    'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
 
   /* layout */
   --max-w:        920px;
@@ -63,29 +63,29 @@
 }
 
 [data-theme="dark"] {
-  --paper:        #1A1612;     /* warm dark cream */
-  --paper-2:      #2A241D;
-  --paper-3:      #3C342A;
-  --ink:          #F6E5D5;     /* cream → ink in dark mode (inverted) */
-  --ink-2:        #DDC9B8;
-  --ink-soft:     #A8957F;
-  --ink-faint:    #756558;
-  --line:         rgba(246, 229, 213, 0.10);
-  --line-strong:  rgba(246, 229, 213, 0.22);
+  --paper:        #161A14;     /* dark sage */
+  --paper-2:      #20251C;
+  --paper-3:      #2D3327;
+  --ink:          #E9EDE6;     /* sage → ink in dark mode (inverted) */
+  --ink-2:        #CBD3C4;
+  --ink-soft:     #97A08D;
+  --ink-faint:    #6B7363;
+  --line:         rgba(233, 237, 230, 0.10);
+  --line-strong:  rgba(233, 237, 230, 0.22);
 
-  --indigo:       #5BBDC4;     /* teal → light teal on dark */
-  --indigo-light: #7BD3D9;
-  --indigo-soft:  #1A3F42;
-  --coral:        #B5A0CC;     /* deep purple → lavender on dark */
-  --coral-soft:   #2A1F3A;
-  --yellow:       #2A1F3A;     /* alias → dark coral-soft (lavender) */
-  --yellow-soft:  #1A1326;
-  --teal:         #5BBDC4;     /* alias → light teal */
-  --teal-soft:    #1A3F42;
-  --plum:         #B5A0CC;     /* alias → lavender */
-  --plum-soft:    #2A1F3A;
-  --grass:        #5BBDC4;     /* alias → light teal */
-  --grass-soft:   #1A3F42;
+  --indigo:       #6FBF93;     /* green → light green on dark */
+  --indigo-light: #8FD3AE;
+  --indigo-soft:  #1E3A2B;
+  --coral:        #E0A35A;     /* ochre → light ochre on dark */
+  --coral-soft:   #3A2A14;
+  --yellow:       #2A3322;     /* alias → dark green (highlighter role) */
+  --yellow-soft:  #1C2417;
+  --teal:         #6FBF93;     /* alias → light green */
+  --teal-soft:    #1E3A2B;
+  --plum:         #E0A35A;     /* alias → light ochre */
+  --plum-soft:    #3A2A14;
+  --grass:        #6FBF93;     /* alias → light green */
+  --grass-soft:   #1E3A2B;
 
   --bg:           var(--paper);
   --bg-elev:      var(--paper-2);
