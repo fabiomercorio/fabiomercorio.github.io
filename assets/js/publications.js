@@ -210,10 +210,23 @@
     }).join(', ');
   }
 
+  // --- venue quality badge (Scimago quartile / GGS rating / workshop) ---
+  function ratingBadge(p) {
+    const r = p.rating;
+    if (!r || !r.badge || !r.label) return '';
+    const tip = r.source === 'scimago'
+      ? `${r.venue} — best SJR quartile ${r.value} (SCImago, all subject categories)`
+      : r.source === 'ggs'
+        ? `${r.venue} — GGS Rating ${r.value} (GII-GRIN-SCIE Conference Rating, CINI 2021)`
+        : `Workshop paper — ${r.venue}`;
+    return `<span class="pub-rank rank-${r.source}" title="${escapeHtml(tip)}">${escapeHtml(r.label)}</span>`;
+  }
+
   function matches(p) {
     if (active.category !== 'All' && p.category !== active.category) return false;
     if (active.q) {
-      const hay = (p.title + ' ' + (p.authors || []).join(' ') + ' ' + (p.venue || '')).toLowerCase();
+      const hay = (p.title + ' ' + (p.authors || []).join(' ') + ' ' + (p.venue || '') +
+                   ' ' + ((p.rating && p.rating.label) || '')).toLowerCase();
       if (!hay.includes(active.q)) return false;
     }
     return true;
@@ -253,7 +266,7 @@
           <div class="pub-info">
             <h3 class="pub-title">${escapeHtml(p.title)}</h3>
             <p class="pub-authors">${highlightAuthors(p.authors)}</p>
-            <p class="pub-venue">${escapeHtml(p.venue || '')}</p>
+            <p class="pub-venue">${escapeHtml(p.venue || '')}${ratingBadge(p)}</p>
           </div>
           <div class="pub-actions">
             ${link ? `<a class="pub-btn" href="${escapeHtml(link)}" target="_blank" rel="noopener">read ↗</a>` : ''}

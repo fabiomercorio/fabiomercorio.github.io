@@ -26,8 +26,13 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 
 DEFAULT_SRC = ROOT / "pub.tex"
+RATINGS_SRC = HERE / "venue_ratings.json"
 OUT_JSON = ROOT / "assets" / "data" / "publications.json"
 OUT_JS   = ROOT / "assets" / "data" / "publications.js"
+
+# Quartiles / GGS ratings that are actually shown as a badge on the site.
+BADGE_QUARTILES = ("Q1", "Q2")
+BADGE_GGS = ("A++", "A+", "A", "A-")
 
 
 def split_entries(s):
@@ -160,6 +165,49 @@ def category(etype, fields):
     return "Other"
 
 
+def load_ratings():
+    if not RATINGS_SRC.exists():
+        print(f"WARNING: {RATINGS_SRC.name} not found — publications will carry no rating badge.")
+        return {"journals": {}, "journal_aliases": {}, "conferences": []}
+    return json.loads(RATINGS_SRC.read_text(encoding="utf-8"))
+
+
+def rating_for(etype, fields, block, R):
+    """Return {'value','source','label','badge'} for one entry, or None.
+
+    value  — 'Q1'…'Q4' for journals, 'A++'…'B-' / 'wip' / 'none' for conferences
+    source — 'scimago' | 'ggs' | 'workshop'
+    label  — text shown in the badge (empty when the entry gets no badge)
+    badge  — whether the site should render it
+    """
+    if etype == "article":
+        j = fields.get("journal", "").strip()
+        j = re.sub(r"\s*\(to appear\)\s*$", "", j, flags=re.I).strip()
+        canon = R["journal_aliases"].get(j, j)
+        q = R["journals"].get(canon)
+        if not q:
+            return None
+        badge = q in BADGE_QUARTILES
+        return {"value": q, "source": "scimago", "venue": canon,
+                "label": f"{q} Scimago" if badge else "", "badge": badge}
+
+    if etype in ("inproceedings", "incollection", "inbook"):
+        hay = " ".join([fields.get("booktitle", ""), fields.get("series", ""),
+                        fields.get("doi", ""), fields.get("url", "")])
+        hay = re.sub(r"\s+", " ", hay)
+        for rule in R["conferences"]:
+            if rule["match"] not in hay:
+                continue
+            if rule.get("kind") == "workshop":
+                return {"value": "workshop", "source": "workshop", "venue": rule["label"],
+                        "label": "workshop", "badge": True}
+            g = rule.get("ggs", "none")
+            badge = g in BADGE_GGS
+            return {"value": g, "source": "ggs", "venue": rule["label"],
+                    "label": f"GGS {g}" if badge else "", "badge": badge}
+    return None
+
+
 VENUE_MAP = [
     (r"\bIJCAI\b", "IJCAI"),
     (r"\bAAAI\b", "AAAI"),
@@ -252,6 +300,7 @@ def main():
         print(f"ERROR: source file not found: {src}")
         sys.exit(1)
     text = src.read_text(encoding="utf-8", errors="ignore")
+    R = load_ratings()
 
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
 
@@ -281,6 +330,7 @@ def main():
             "venue": venue_short(etype, f),
             "url": f.get("url", "").strip(),
             "doi": f.get("doi", "").strip(),
+            "rating": rating_for(etype, f, block, R),
             "bibtex": block.strip(),
         })
 
@@ -297,6 +347,20 @@ def main():
     print("Per year:")
     for y in sorted(yr):
         print(f"  {y}: {yr[y]}")
+
+    print()
+    rt = Counter((p["rating"] or {}).get("value", "— none —") for p in pubs)
+    badged = sum(1 for p in pubs if (p["rating"] or {}).get("badge"))
+    print(f"Ratings ({badged}/{len(pubs)} entries get a badge):")
+    for k in sorted(rt, key=lambda k: (-rt[k], k)):
+        print(f"  {k}: {rt[k]}")
+    unrated = [p for p in pubs
+               if p["rating"] is None and p["category"] in ("Journal", "Conference")]
+    if unrated:
+        print()
+        print(f"NOT MATCHED in venue_ratings.json ({len(unrated)}) — add a rule for these:")
+        for p in unrated:
+            print(f"  [{p['year']}] {p['venue'][:60]}  ({p['title'][:50]})")
 
 
 if __name__ == "__main__":
