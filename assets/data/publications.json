@@ -64,10 +64,10 @@
       "Fabio Mercorio"
     ],
     "year": 2026,
-    "venue": "Expert Systems (to appear)",
-    "url": "",
-    "doi": "",
-    "bibtex": "@article{VectorSimSurvey,\n  author       = {Erik Cambria and Navid Nobani and Filippo Pallucchini and Fabio Mercorio},\n  title        = {Benchmarking Distributional Vector Similarity Measures: A Survey},\n  journal      = {Expert Systems (to appear)},\n  year         = {2026}\n}"
+    "venue": "Expert Systems",
+    "url": "https://doi.org/10.1111/exsy.70354",
+    "doi": "https://doi.org/10.1111/exsy.70354",
+    "bibtex": "@article{VectorSimSurvey,\n  author       = {Erik Cambria and Navid Nobani and Filippo Pallucchini and Fabio Mercorio},\n  title        = {Benchmarking Distributional Vector Similarity Measures: A Survey},\n  journal      = {Expert Systems},\n  volume       = {43},\n  number       = {8},\n  pages        = {e70354},\n  year         = {2026},\n  issn         = {0266-4720},\n  doi          = {https://doi.org/10.1111/exsy.70354},\n  url          = {https://doi.org/10.1111/exsy.70354},\n  keywords     = {distributional vectors, vector similarity measures, word embeddings}\n}"
   },
   {
     "key": "DAMICO2026104249",
@@ -93,17 +93,17 @@
     "category": "Journal",
     "title": "Synthetic Data Generation: A Tertiary Study",
     "authors": [
-      "Fabio Mercorio",
       "Navid Nobani",
+      "Giovanni Officioso",
       "Filippo Pallucchini",
       "Giancarlo Sperlì",
-      "Giovanni Officioso"
+      "Fabio Mercorio"
     ],
     "year": 2026,
-    "venue": "Inform. Process. & Mgmt. (to appear)",
+    "venue": "Inform. Process. & Mgmt.",
     "url": "https://www.sciencedirect.com/science/article/pii/S0306457326001068",
     "doi": "https://doi.org/10.1016/j.ipm.2026.104715",
-    "bibtex": "@article{IPM2026,\ntitle = {Synthetic Data Generation: A Tertiary Study},\njournal = {Information Processing and Management (to appear)},\nyear = {2026},\nvolume = {63},\nnumber = {6},\npages = {104715},\nyear = {2026},\nissn = {0306-4573},\ndoi = {https://doi.org/10.1016/j.ipm.2026.104715},\nurl = {https://www.sciencedirect.com/science/article/pii/S0306457326001068},\nauthor = {Fabio Mercorio and Navid Nobani and Filippo Pallucchini and Giancarlo Sperlì and Giovanni Officioso}\n}"
+    "bibtex": "@article{IPM2026,\ntitle = {Synthetic Data Generation: A Tertiary Study},\njournal = {Information Processing and Management},\nvolume = {63},\nnumber = {6},\npages = {104715},\nyear = {2026},\nissn = {0306-4573},\ndoi = {https://doi.org/10.1016/j.ipm.2026.104715},\nurl = {https://www.sciencedirect.com/science/article/pii/S0306457326001068},\nauthor = {Navid Nobani and Giovanni Officioso and Filippo Pallucchini and Giancarlo Sperlì and Fabio Mercorio},\nkeywords = {Synthetic data generation, Tertiary study, Survey of surveys, Machine learning, Data privacy, Evaluation metrics}\n}"
   },
   {
     "key": "Skillink",
