@@ -118,10 +118,10 @@
       "Mario Mezzanzanica"
     ],
     "year": 2026,
-    "venue": "Discover Artif. Intell. (to appear)",
-    "url": "",
-    "doi": "",
-    "bibtex": "@article{Skillink,\n  author       = {Alessia De Santo and Navid Nobani and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},\n  title        = {Using Language Models to Extract and Map Emerging Skills to the ESCO Taxonomy},\n  journal      = {Discover Artificial Intelligence (to appear)},\n  year         = {2026}\n}"
+    "venue": "Discover Artif. Intell.",
+    "url": "https://doi.org/10.1007/s44163-026-01609-1",
+    "doi": "https://doi.org/10.1007/s44163-026-01609-1",
+    "bibtex": "@article{Skillink,\n  author       = {Alessia De Santo and Navid Nobani and Lorenzo Malandri and Fabio Mercorio and Mario Mezzanzanica},\n  title        = {Using Language Models to Extract and Map Emerging Skills to the ESCO Taxonomy},\n  journal      = {Discover Artificial Intelligence},\n  year         = {2026},\n  issn         = {2731-0809},\n  doi          = {https://doi.org/10.1007/s44163-026-01609-1},\n  url          = {https://doi.org/10.1007/s44163-026-01609-1},\n  keywords     = {emerging skills, ESCO taxonomy, online job ads, language models, labour market intelligence}\n}"
   },
   {
     "key": "COLOMBO2026123274",
