@@ -1,0 +1,67 @@
+---
+layout: default
+title: "Research"
+description: "The research map of Fabio Mercorio: twelve research lines across four phases — context, contribution and impact of each, with every paper explained in plain language and linked to Publications."
+nav: research
+extra_scripts:
+  - /assets/data/research.js
+  - /assets/js/research.js
+---
+
+<section class="page-intro">
+
+  <!-- Background decoration: NAND (top-right, olive) + NOR (bottom-left, bordeaux). -->
+  <div class="gate tr" aria-hidden="true">
+    <svg viewBox="-180 -85 360 170" xmlns="http://www.w3.org/2000/svg">
+      <line class="ln" x1="-180" y1="-32" x2="-98" y2="-32"/>
+      <line class="ln" x1="-180" y1="32"  x2="-98" y2="32"/>
+      <path class="body" d="M -98,-65 L 32,-65 A 65,65 0 0 1 32,65 L -98,65 Z"/>
+      <circle class="bubble" cx="107" cy="0" r="9"/>
+      <line class="ln" x1="116" y1="0" x2="180" y2="0"/>
+    </svg>
+  </div>
+  <div class="gate bl" aria-hidden="true">
+    <svg viewBox="-180 -85 360 170" xmlns="http://www.w3.org/2000/svg">
+      <line class="ln" x1="-180" y1="-32" x2="-72" y2="-32"/>
+      <line class="ln" x1="-180" y1="32"  x2="-72" y2="32"/>
+      <path class="body" d="M -98,-65 Q 22,-65 98,0 Q 22,65 -98,65 Q -54,0 -98,-65 Z"/>
+      <circle class="bubble" cx="107" cy="0" r="9"/>
+      <line class="ln" x1="116" y1="0" x2="170" y2="0"/>
+    </svg>
+  </div>
+
+  <div class="wrap-wide">
+    <p class="page-kicker reveal">12 research lines · 2009 — 2026</p>
+    <h1 class="page-title reveal">Rese<em>arch</em></h1>
+    <p class="page-lead reveal">
+      What I work on, why it matters, and how each line came to be. Every research line below states
+      <strong>where the field stood</strong>, <strong>what we contributed</strong> and <strong>why it matters</strong> —
+      and lists its papers with a plain-language summary and the specific contribution of each.
+      Every paper links to its full entry in <a href="{{ '/publications.html' | relative_url }}">Publications</a>.
+    </p>
+  </div>
+</section>
+
+<section style="padding: 32px 0 64px;">
+  <div class="wrap-wide">
+
+    <!-- Stats row -->
+    <div class="pub-stats r-three reveal" id="r-stats"></div>
+
+    <!-- Clickable timeline of research lines -->
+    <div class="chart-card reveal" id="r-timeline" style="margin-bottom: 32px;">
+      <div class="chart-head">
+        <h2 class="chart-title">Research lines over time</h2>
+        <span class="chart-hint">click a lane to open the research line</span>
+      </div>
+      <div class="r-tlwrap" id="r-tl"></div>
+    </div>
+
+    <!-- Research-line grid, grouped by phase -->
+    <div id="r-topics"></div>
+
+    <!-- Research-line detail (replaces the grid when open) -->
+    <div id="r-detail"></div>
+
+  </div>
+</section>

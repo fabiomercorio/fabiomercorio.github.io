@@ -261,7 +261,7 @@
       for (const p of items) {
         const idx = pubs.indexOf(p);
         const link = p.url || (p.doi ? `https://doi.org/${p.doi.replace(/^https?:\/\/doi\.org\//, '')}` : '');
-        html += `<div class="pub">
+        html += `<div class="pub" id="pub-${escapeHtml(p.key || '')}">
           <span class="pub-cat cat-${p.category || 'Other'}">${(p.category || 'Other').toLowerCase()}</span>
           <div class="pub-info">
             <h3 class="pub-title">${escapeHtml(p.title)}</h3>
@@ -333,6 +333,20 @@
   renderStats();
   renderFilters();
   renderList();
+
+  // Deep link from the Research page: publications.html#pub-<key>
+  // scrolls to the entry and highlights it briefly.
+  if (location.hash.indexOf('#pub-') === 0) {
+    const key = decodeURIComponent(location.hash.slice(5));
+    const el = document.getElementById('pub-' + key);
+    if (el) {
+      setTimeout(() => {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.classList.add('pub-flash');
+        setTimeout(() => el.classList.remove('pub-flash'), 2400);
+      }, 150);
+    }
+  }
   // Wait for fonts before drawing chart so labels align nicely
   if (document.fonts && document.fonts.ready) {
     await document.fonts.ready;

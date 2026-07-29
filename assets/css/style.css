@@ -1200,3 +1200,82 @@ a:hover { color: var(--coral); }
 
 /* ---------- Calendly badge override ---------- */
 .calendly-badge-widget { font-family: var(--font-sans) !important; font-size: 12px !important; }
+
+/* ==========================================================================
+   RESEARCH PAGE
+   ========================================================================== */
+
+.pub-stats.r-three { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 760px) { .pub-stats.r-three { grid-template-columns: 1fr; } }
+
+/* ---- timeline ---- */
+.r-tlwrap { overflow-x: auto; }
+.r-tlwrap svg { width: 100%; min-width: 940px; height: auto; display: block; }
+.tl-band { fill: var(--ink); opacity: 0.04; }
+.tl-grid { stroke: var(--line-strong); stroke-width: 1; }
+.tl-per  { font: 600 10.5px var(--font-mono); letter-spacing: 0.07em; fill: var(--ink-faint); }
+.tl-tick { font: 400 10.5px var(--font-mono); fill: var(--ink-faint); }
+.tl-name { font: 600 12px var(--font-sans); }
+.tl-lane { cursor: pointer; }
+.tl-lane rect { transition: opacity 0.12s; }
+.tl-lane:hover rect, .tl-lane:focus rect { opacity: 0.34; }
+.tl-lane:hover .tl-name, .tl-lane:focus .tl-name { text-decoration: underline; }
+.tl-lane:focus { outline: none; }
+
+/* ---- phase headers & research-line grid ---- */
+.r-phase { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); border-top: 1px solid var(--line-strong); padding-top: 16px; margin: 44px 0 18px; }
+.r-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+.r-card { position: relative; background: var(--bg-elev); border: 1px solid var(--line); border-left: 4px solid var(--tc, var(--indigo)); border-radius: var(--radius); padding: 18px 20px 16px; cursor: pointer; transition: transform 0.15s var(--ease), box-shadow 0.15s var(--ease); }
+.r-card:hover, .r-card:focus { transform: translate(-2px, -2px); box-shadow: 4px 4px 0 0 var(--tc, var(--indigo)); outline: none; }
+.r-card h3 { font-family: var(--font-display); font-size: 20px; font-weight: 600; margin: 0; line-height: 1.25; color: var(--ink); }
+.r-card .pd { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); margin: 3px 0 10px; }
+.r-card p { font-size: 13.5px; color: var(--ink-soft); margin: 0 0 12px; line-height: 1.55; }
+.r-card .n { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); }
+.r-card .n b { color: var(--ink-2); font-weight: 600; }
+.r-card .go { position: absolute; right: 16px; bottom: 14px; font-family: var(--font-mono); font-size: 11px; color: var(--tc, var(--indigo)); opacity: 0; transition: opacity 0.15s; }
+.r-card:hover .go { opacity: 1; }
+
+/* ---- research-line detail ---- */
+#r-detail { display: none; }
+.r-back { font-family: var(--font-mono); font-size: 12px; color: var(--ink-soft); background: none; border: 1px solid var(--line-strong); border-radius: 999px; padding: 7px 16px; cursor: pointer; margin-bottom: 22px; transition: all 0.15s var(--ease); }
+.r-back:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.r-dhead h2 { font-family: var(--font-display); font-size: clamp(26px, 4vw, 34px); font-weight: 600; margin: 0; border-left: 6px solid var(--tc, var(--indigo)); padding-left: 16px; line-height: 1.15; color: var(--ink); }
+.r-dhead .pd { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); margin: 6px 0 24px; padding-left: 22px; }
+.r-blocks { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 14px; margin-bottom: 20px; }
+.r-block { background: var(--bg-elev); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; }
+.r-block h4 { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 8px; }
+.r-block p { font-size: 14px; color: var(--ink-2); margin: 0; line-height: 1.6; }
+.r-block.hl { border-left: 3px solid var(--tc, var(--indigo)); }
+.r-toolrow { display: flex; gap: 10px; flex-wrap: wrap; margin: 2px 0 8px; }
+
+/* ---- paper rows ---- */
+.r-papers { margin-top: 26px; }
+.r-papers .r-ph { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); border-bottom: 1px solid var(--line-strong); padding-bottom: 8px; margin-bottom: 2px; }
+.r-prow { border-bottom: 1px solid var(--line); padding: 14px 4px; }
+.r-prow-top { display: grid; grid-template-columns: 52px 1fr auto; gap: 14px; align-items: baseline; cursor: pointer; }
+.r-prow .yr { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); }
+.r-prow .ti { font-size: 15px; font-weight: 500; color: var(--ink); line-height: 1.4; }
+.r-prow-top:hover .ti { color: var(--indigo); }
+.r-prow .vn { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); margin-top: 2px; }
+.r-prow .tgl { font-family: var(--font-mono); font-size: 11px; color: var(--ink-soft); white-space: nowrap; border: 1px solid var(--line-strong); border-radius: 999px; padding: 4px 12px; transition: all 0.15s; }
+.r-prow-top:hover .tgl { background: var(--yellow); border-color: var(--ink); color: var(--ink); }
+.r-pbody { display: none; margin: 12px 0 4px 66px; }
+.r-prow.open .r-pbody { display: block; }
+.r-sumbox { background: var(--yellow-soft); border-left: 3px solid var(--tc, var(--indigo)); border-radius: 0 8px 8px 0; padding: 14px 16px; margin-bottom: 10px; }
+.r-sumbox.alt { background: var(--bg-elev); border-left-color: var(--line-strong); }
+.r-sumbox h5 { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 5px; }
+.r-sumbox p { font-size: 13.5px; color: var(--ink-2); margin: 0; line-height: 1.6; }
+.r-links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+@media (max-width: 640px) {
+  .r-prow-top { grid-template-columns: 44px 1fr; }
+  .r-prow .tgl { display: none; }
+  .r-pbody { margin-left: 0; }
+}
+
+/* ---- publications: highlight target of a #pub-<key> deep link ---- */
+.pub.pub-flash { animation: pub-flash 2.2s var(--ease) 1; border-radius: var(--radius); }
+@keyframes pub-flash {
+  0%   { background: var(--yellow); box-shadow: 0 0 0 6px var(--yellow); }
+  70%  { background: var(--yellow); box-shadow: 0 0 0 6px var(--yellow); }
+  100% { background: transparent;   box-shadow: none; }
+}
