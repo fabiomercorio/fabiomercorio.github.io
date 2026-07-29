@@ -5,14 +5,16 @@
 
 #### @Department of Informatics (DISCO)
 
-- **2018 — present** · Lecturer at MSc in *Data Science*, University of Milan-Bicocca. Module on [Big Data in Public and Social Services](https://www.unimib.it/ugov/degreecourse/230368).
 - **2018 — present** · Lecturer at MSc in *Data Science*, University of Milan-Bicocca. Module on [Business Intelligence](https://www.unimib.it/ugov/degreecourse/230371).
+
+#### @Department of Economics (DEMS)
+
+- **2026 — present** · Lecturer at BSc in *Economics*, University of Milan-Bicocca. Module on *Big Data Analytics*.
 
 #### @Department of Statistics & Quantitative Methods (DISMEQ)
 
 - **2019 — present** · Lecturer at BSc in *Statistics*, University of Milan-Bicocca. Module on [Databases](https://www.unimib.it/ugov/degreecourse/241848).
-- **2022 — present** · Lecturer at MSc in *Statistics*, University of Milan-Bicocca. Module on [Data Processing and Analytics](https://www.unimib.it/ugov/degreecourse/266028).
-- **2022 — present** · Lecturer at MSc in *Biostatistics*, University of Milan-Bicocca. Module on [Big Data Analytics](https://www.unimib.it/ugov/degreecourse/290352).
+- **2022 — present** · Lecturer at MSc in *Biostatistics*, University of Milan-Bicocca. Module on [Lab of Data Analytics](https://www.unimib.it/ugov/degreecourse/290352).
 
 #### @Postgraduate Master (Master II Livello)
 
