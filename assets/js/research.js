@@ -47,10 +47,10 @@
 
   // ---- clickable timeline ----
   var PHASE_BANDS = [
-    [2009, 2014, 'I · FOUNDATIONS'],
-    [2014, 2018, 'II · LABOUR DATA'],
-    [2018, 2023, 'III · EMBEDDINGS & XAI'],
-    [2023, 2026.6, 'IV · LLM ERA']
+    [2009, 2014, 'I · DEDUCTIVE AI'],
+    [2014, 2018, 'II · LABOUR & SKILL INTELLIGENCE'],
+    [2018, 2023, 'III · EXPLAINABLE AI'],
+    [2023, 2026.6, 'IV · LLM & MECH. INTERPRETABILITY']
   ];
   function timeline() {
     var X = function (y) { return 235 + (y - 2009) * 50; };
